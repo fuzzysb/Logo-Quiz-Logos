@@ -1,0 +1,23 @@
+{
+    "Questions": [
+        {
+            "Name": "John Deere",
+            "logoSrc": "http://raw.github.com/fuzzysb/Logo-Quiz-Logos/Logos/JohnDeere.png",
+            "Utterances": [
+                    "John Deere",
+                    "John Deere Tractors",
+                    "John Deer",
+                    "John Dear",
+                    "Jon Deer",
+                    "Jon Dear"
+            ]
+        },
+        {
+            "Name": "Pizza Hut",
+            "logoSrc": "http://raw.github.com/fuzzysb/Logo-Quiz-Logos/Logos/PizzaHut.png",
+            "Utterances": [
+                    "Pizza Hut"
+            ]
+        }
+    ]
+}
