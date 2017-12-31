@@ -2,6 +2,7 @@
     "Questions": [
         {
             "Name": "John Deere",
+			"Question": "What is the name of this heavy equipment company?"
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/JohnDeere.png",
             "Utterances": [
                     "John Deere",
@@ -10,14 +11,27 @@
                     "John Dear",
                     "Jon Deer",
                     "Jon Dear"
-            ]
+            ],
+			"Hints": [
+					"the company was founded in Moline, Illinois in the United States",
+					"the company is listed on the new york stock exchange using the symbol DE",
+					"the company is predominately famous for its Tractors"
+			]
+			
         },
         {
             "Name": "Pizza Hut",
+			"Question": "What is the name of this restaurant company?"
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/PizzaHut.png",
             "Utterances": [
-                    "Pizza Hut"
+                    "Pizza Hut",
+					"Pizza the Hut"
             ]
+			"Hints": [
+					"the company is headquartered in Plano, Texas in the United States",
+					"the company is a subsidiary of Yum! Brands Inc.",
+					"the company invented the stuffed crust"
+			]
         }
     ]
 }
