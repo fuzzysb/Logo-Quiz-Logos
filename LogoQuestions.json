@@ -2,8 +2,12 @@
     "Questions": [
         {
             "Name": "John Deere",
-			"Question": "What is the name of this heavy equipment company?"
+			"Question": {
+                    "en-GB": "What is the name of this heavy equipment company?",
+                    "en-US": "What is the name of this heavy equipment company?"
+            },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/JohnDeere.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/JohnDeere.png",
             "Utterances": [
                     "John Deere",
                     "John Deere Tractors",
@@ -12,26 +16,75 @@
                     "Jon Deer",
                     "Jon Dear"
             ],
-			"Hints": [
-					"the company was founded in Moline, Illinois in the United States",
-					"the company is listed on the new york stock exchange using the symbol DE",
-					"the company is predominately famous for its Tractors"
-			]
+			"Hints": {
+                    "en-GB": [
+                        "the company was founded in Moline, Illinois in the United States",
+                        "the company is listed on the new york stock exchange using the symbol DE",
+                        "the company is predominately famous for its Tractors"
+                    ],
+                    "en-US": [
+                        "the company was founded in Moline, Illinois in the United States",
+                        "the company is listed on the new york stock exchange using the symbol DE",
+                        "the company is predominately famous for its Tractors"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
 			
         },
         {
             "Name": "Pizza Hut",
-			"Question": "What is the name of this restaurant company?"
+            "Question": {
+                "en-GB": "What is the name of this restaurant company?",
+                "en-US": "What is the name of this restaurant company?"
+            },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/PizzaHut.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/PizzaHut.png",
             "Utterances": [
                     "Pizza Hut",
-					"Pizza the Hut"
-            ]
-			"Hints": [
-					"the company is headquartered in Plano, Texas in the United States",
+                    "Pizza the Hut",
+                    "Piece Of Hut"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "the company is headquartered in Plano, Texas in the United States",
 					"the company is a subsidiary of Yum! Brands Inc.",
 					"the company invented the stuffed crust"
-			]
+                ],
+                "en-US": [
+                    "the company is headquartered in Plano, Texas in the United States",
+					"the company is a subsidiary of Yum! Brands Inc.",
+					"the company invented the stuffed crust"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "B&M Bargains",
+            "Question": {
+                "en-GB": "What is the name of this Discount Store?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BandMBargains.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BandMBargains.png",
+            "Utterances": [
+                    "B and M",
+                    "Bee and Em",
+                    "B and M Bargains",
+                    "Bee and Em Bargains"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"The company was founded by Malcolm Billington in 1978",
+					"The Company is currently operationally headquartered in Liverpool"
+                ]
+                },
+            "Languages": [
+                "en-GB"
+            ]
         }
     ]
 }
