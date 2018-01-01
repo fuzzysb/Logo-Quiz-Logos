@@ -3,8 +3,8 @@
         {
             "Name": "John Deere",
 			"Question": {
-                    "en-GB": "What is the name of this heavy equipment company?",
-                    "en-US": "What is the name of this heavy equipment company?"
+                    "en-GB": "What is the name of this heavy equipment company",
+                    "en-US": "What is the name of this heavy equipment company"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/JohnDeere.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/JohnDeere.png",
@@ -36,8 +36,8 @@
         {
             "Name": "Pizza Hut",
             "Question": {
-                "en-GB": "What is the name of this restaurant company?",
-                "en-US": "What is the name of this restaurant company?"
+                "en-GB": "What is the name of this restaurant company",
+                "en-US": "What is the name of this restaurant company"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/PizzaHut.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/PizzaHut.png",
@@ -65,7 +65,7 @@
         {
             "Name": "B&M Bargains",
             "Question": {
-                "en-GB": "What is the name of this Discount Store?"
+                "en-GB": "What is the name of this Discount Store"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BandMBargains.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BandMBargains.png",
