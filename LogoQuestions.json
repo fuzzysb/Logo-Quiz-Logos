@@ -18,14 +18,14 @@
             ],
 			"Hints": {
                     "en-GB": [
-                        "the company was founded in Moline, Illinois in the United States",
-                        "the company is listed on the new york stock exchange using the symbol DE",
-                        "the company is predominately famous for its Tractors"
+                        "The company was founded in Moline, Illinois in the United States",
+                        "The company is listed on the new york stock exchange using the symbol DE",
+                        "The company is predominately famous for its Tractors"
                     ],
                     "en-US": [
-                        "the company was founded in Moline, Illinois in the United States",
-                        "the company is listed on the new york stock exchange using the symbol DE",
-                        "the company is predominately famous for its Tractors"
+                        "The company was founded in Moline, Illinois in the United States",
+                        "The company is listed on the new york stock exchange using the symbol DE",
+                        "The company is predominately famous for its Tractors"
                     ]
                     },
             "Languages": [
@@ -49,12 +49,12 @@
             "Hints": {
                 "en-GB": [
                     "the company is headquartered in Plano, Texas in the United States",
-					"the company is a subsidiary of Yum! Brands Inc.",
+					"the company is a subsidiary of Yum Brands Inc.",
 					"the company invented the stuffed crust"
                 ],
                 "en-US": [
                     "the company is headquartered in Plano, Texas in the United States",
-					"the company is a subsidiary of Yum! Brands Inc.",
+					"the company is a subsidiary of Yum Brands Inc.",
 					"the company invented the stuffed crust"
                 ]
                 },
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "Name": "B&M Bargains",
+            "Name": "B and M Bargains",
             "Question": {
                 "en-GB": "What is the name of this Discount Store"
             },
