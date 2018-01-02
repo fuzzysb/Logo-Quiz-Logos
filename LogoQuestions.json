@@ -110,6 +110,36 @@
                     "In 2016 this company was the fastest growing retailer in britain",
 					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
 					"This is a coffee company and coffeehouse chain."
+                ],
+                "en-Us": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
+					"This is a coffee company and coffeehouse chain."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Subway",
+            "Question": {
+                "en-GB": "What is the name of this food company?",
+                "en-US": "What is the name of this food company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Subway.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Subway.png",
+            "Utterances": [
+                    "Subway",
+                    "subway sandwiches",
+                    "sub way",
+                    "sub way sandwhiches"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
+					"The company is one of the fastest growing fast food franchises globally",
+					"the companys international headquarters are in Milford, Connecticut in the United States "
                 ]
                 },
             "Languages": [
