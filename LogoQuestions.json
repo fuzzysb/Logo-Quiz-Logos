@@ -139,12 +139,43 @@
                 "en-GB": [
                     "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
 					"The company is one of the fastest growing fast food franchises globally",
-					"the companys international headquarters are in Milford, Connecticut in the United States "
+					"the companys international headquarters are in Milford, Connecticut in the United States"
                 ],
                 "en-US": [
                     "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
 					"The company is one of the fastest growing fast food franchises globally",
-					"the companys international headquarters are in Milford, Connecticut in the United States "
+					"the companys international headquarters are in Milford, Connecticut in the United States"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "BMW",
+            "Question": {
+                "en-GB": "What is the name of this vehicle manufacturer?",
+                "en-US": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BMW.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BMW.png",
+            "Utterances": [
+                    "BMW",
+                    "b m w",
+                    "bee em double u",
+                    "bee m w",
+                    "bee m double u"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
+					"The company has significant motorsport history, especially in touring cars",
+					"The company also owns the iconic british Mini brand"
+                ],
+                "en-US": [
+                    "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
+					"The company has significant motorsport history, especially in touring cars",
+					"The company also owns the iconic british Mini brand"
                 ]
                 },
             "Languages": [
