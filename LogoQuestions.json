@@ -87,6 +87,34 @@
             "Languages": [
                 "en-GB"
             ]
+        },
+        {
+            "Name": "Starbucks",
+            "Question": {
+                "en-GB": "What is the name of this beverage company?",
+                "en-US": "What is the name of this beverage company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Starbucks.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Starbucks.png",
+            "Utterances": [
+                    "Starbucks",
+                    "Star Bucks",
+                    "Starbooks",
+                    "Star Books",
+                    "Star Books Coffee",
+                    "Star Bucks Coffee",
+                    "Starbucks Coffee"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
+					"This is a coffee company and coffeehouse chain."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }
