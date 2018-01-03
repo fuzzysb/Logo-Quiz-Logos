@@ -181,6 +181,185 @@
             "Languages": [
                 "All"
             ]
+        },
+        {
+            "Name": "Shell",
+            "Question": {
+                "en-GB": "What is the name of this natural resources company?",
+                "en-US": "What is the name of this natural resources company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Shell.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Shell.png",
+            "Utterances": [
+                    "Shell",
+                    "Royal Dutch Shell"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
+					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
+					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
+                ],
+                "en-US": [
+                    "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
+					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
+					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "BP",
+            "Question": {
+                "en-GB": "What is the name of this natural resources company?",
+                "en-US": "What is the name of this natural resources company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BP.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BP.png",
+            "Utterances": [
+                    "BP",
+                    "Bee P",
+                    "B P",
+                    "Bee Pee",
+                    "British Petroleum"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a British multinational oil and gas company headquartered in London.",
+					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
+					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
+                ],
+                "en-US": [
+                    "It is a British multinational oil and gas company headquartered in London.",
+					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
+					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Apple",
+            "Question": {
+                "en-GB": "What is the name of this technology company?",
+                "en-US": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BP.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BP.png",
+            "Utterances": [
+                    "Apple",
+                    "Apple inc",
+                    "Apple Computers"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is an American multinational technology company headquartered in Cupertino, California.",
+					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
+					"The companys profits soared upon the introduction is its synonymous smart phone."
+                ],
+                "en-US": [
+                    "It is an American multinational technology company headquartered in Cupertino, California.",
+					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
+					"The companys profits soared upon the introduction is its synonymous smart phone."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Peugeot",
+            "Question": {
+                "en-GB": "What is the name of this vehicle manufacturer?",
+                "en-US": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Peugeot.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Peugeot.png",
+            "Utterances": [
+                    "Peugeot",
+                    "pur jo",
+                    "pew got"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
+					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
+					"The company and founding family are originally from Sochaux, France"
+                ],
+                "en-US": [
+                    "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
+					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
+					"The company and founding family are originally from Sochaux, France"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Honda",
+            "Question": {
+                "en-GB": "What is the name of this vehicle manufacturer?",
+                "en-US": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Honda.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Honda.png",
+            "Utterances": [
+                    "Honda",
+                    "Hon Da",
+                    "Hon Dar"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
+					"It has been the worlds largest motorcycle manufacturer since 1959.",
+                    "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
+                ],
+                "en-US": [
+                    "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
+					"It has been the worlds largest motorcycle manufacturer since 1959.",
+                    "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Volkswagen",
+            "Question": {
+                "en-GB": "What is the name of this vehicle manufacturer?",
+                "en-US": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Volkswagen.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Volkswagen.png",
+            "Utterances": [
+                    "Volkswagen",
+                    "volks wagon",
+                    "folks wagon",
+                    "folks wagen",
+                    "volks wagen",
+                    "volkswagon",
+                    "folkswagon"
+            ],
+            "Hints": {
+                "en-GB": [
+                    "The company was originally established in 1937 by the German Labour Front.",
+					"Its famous models of car are Beetle, and Golf.",
+                    "its name translates to peoples car"
+                ],
+                "en-US": [
+                    "The company was originally established in 1937 by the German Labour Front.",
+					"Its famous models of car are Beetle, and Golf.",
+                    "its name translates to peoples car"
+                ]
+                },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }
