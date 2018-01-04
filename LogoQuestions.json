@@ -1332,6 +1332,56 @@
             "Languages": [
                 "All"
             ]
+        },
+        {
+            "Name": "CNBC",
+			"Question": {
+                    "en-GB": "What is the name of this new Television Network?",
+                    "en-US": "What is the name of this new Television Network?",
+                    "en-AU": "What is the name of this new Television Network?",
+                    "en-CA": "What is the name of this new Television Network?",
+                    "en-IN": "What is the name of this new Television Network?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/CNBC.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/CNBC.png",
+            "Utterances": [
+                "cnbc",
+                "c n b c",
+                "cee n bee c",
+                "cnbc news",
+                "plooboy",
+                "ployboy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is a division of NBCUniversal, owned by Comcast",
+                        "The Company had its beginnings around 1980 as the Satellite Program Network",
+                        "It is predominately a Television News Channel"
+                    ],
+                    "en-US": [
+                        "The company is a division of NBCUniversal, owned by Comcast",
+                        "The Company had its beginnings around 1980 as the Satellite Program Network",
+                        "It is predominately a Television News Channel"
+                    ],
+                    "en-AU": [
+                        "The company is a division of NBCUniversal, owned by Comcast",
+                        "The Company had its beginnings around 1980 as the Satellite Program Network",
+                        "It is predominately a Television News Channel"
+                    ],
+                    "en-CA": [
+                        "The company is a division of NBCUniversal, owned by Comcast",
+                        "The Company had its beginnings around 1980 as the Satellite Program Network",
+                        "It is predominately a Television News Channel"
+                    ],
+                    "en-IN": [
+                        "The company is a division of NBCUniversal, owned by Comcast",
+                        "The Company had its beginnings around 1980 as the Satellite Program Network",
+                        "It is predominately a Television News Channel"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }
