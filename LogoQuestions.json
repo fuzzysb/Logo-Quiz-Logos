@@ -4,7 +4,11 @@
             "Name": "John Deere",
 			"Question": {
                     "en-GB": "What is the name of this heavy equipment company?",
-                    "en-US": "What is the name of this heavy equipment company?"
+                    "en-US": "What is the name of this heavy equipment company?",
+                    "en-AU": "What is the name of this heavy equipment company?",
+                    "en-CA": "What is the name of this heavy equipment company?",
+                    "en-IN": "What is the name of this heavy equipment company?"
+                    
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/JohnDeere.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/JohnDeere.png",
@@ -27,6 +31,24 @@
                         "The company is listed on the new york stock exchange using the symbol DE",
                         "The company is predominately famous for its Tractors"
                     ]
+                    ,
+                    "en-AU": [
+                        "The company was founded in Moline, Illinois in the United States",
+                        "The company is listed on the new york stock exchange using the symbol DE",
+                        "The company is predominately famous for its Tractors"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company was founded in Moline, Illinois in the United States",
+                        "The company is listed on the new york stock exchange using the symbol DE",
+                        "The company is predominately famous for its Tractors"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company was founded in Moline, Illinois in the United States",
+                        "The company is listed on the new york stock exchange using the symbol DE",
+                        "The company is predominately famous for its Tractors"
+                    ]
                     },
             "Languages": [
                 "All"
@@ -37,7 +59,10 @@
             "Name": "Pizza Hut",
             "Question": {
                 "en-GB": "What is the name of this restaurant company?",
-                "en-US": "What is the name of this restaurant company?"
+                "en-US": "What is the name of this restaurant company?",
+                "en-AU": "What is the name of this restaurant company?",
+                "en-CA": "What is the name of this restaurant company?",
+                "en-IN": "What is the name of this restaurant company?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/PizzaHut.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/PizzaHut.png",
@@ -53,6 +78,21 @@
 					"the company invented the stuffed crust"
                 ],
                 "en-US": [
+                    "the company is headquartered in Plano, Texas in the United States",
+					"the company is a subsidiary of Yum Brands Inc.",
+					"the company invented the stuffed crust"
+                ],
+                "en-AU": [
+                    "the company is headquartered in Plano, Texas in the United States",
+					"the company is a subsidiary of Yum Brands Inc.",
+					"the company invented the stuffed crust"
+                ],
+                "en-CA": [
+                    "the company is headquartered in Plano, Texas in the United States",
+					"the company is a subsidiary of Yum Brands Inc.",
+					"the company invented the stuffed crust"
+                ],
+                "en-IN": [
                     "the company is headquartered in Plano, Texas in the United States",
 					"the company is a subsidiary of Yum Brands Inc.",
 					"the company invented the stuffed crust"
@@ -92,7 +132,11 @@
             "Name": "Starbucks",
             "Question": {
                 "en-GB": "What is the name of this beverage company?",
-                "en-US": "What is the name of this beverage company?"
+                "en-US": "What is the name of this beverage company?",
+                "en-AU": "What is the name of this beverage company?",
+                "en-CA": "What is the name of this beverage company?",
+                "en-IN": "What is the name of this beverage company?"
+                
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Starbucks.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Starbucks.png",
@@ -111,7 +155,22 @@
 					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
 					"This is a coffee company and coffeehouse chain."
                 ],
-                "en-Us": [
+                "en-US": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
+					"This is a coffee company and coffeehouse chain."
+                ],
+                "en-AU": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
+					"This is a coffee company and coffeehouse chain."
+                ],
+                "en-CA": [
+                    "In 2016 this company was the fastest growing retailer in britain",
+					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
+					"This is a coffee company and coffeehouse chain."
+                ],
+                "en-IN": [
                     "In 2016 this company was the fastest growing retailer in britain",
 					"Howard Schultz announced he would resign as CEO of the Company in 2017 ",
 					"This is a coffee company and coffeehouse chain."
@@ -125,7 +184,11 @@
             "Name": "Subway",
             "Question": {
                 "en-GB": "What is the name of this food company?",
-                "en-US": "What is the name of this food company?"
+                "en-US": "What is the name of this food company?",
+                "en-AU": "What is the name of this food company?",
+                "en-CA": "What is the name of this food company?",
+                "en-IN": "What is the name of this food company?"
+                
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Subway.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Subway.png",
@@ -145,6 +208,21 @@
                     "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
 					"The company is one of the fastest growing fast food franchises globally",
 					"the companys international headquarters are in Milford, Connecticut in the United States"
+                ],
+                "en-AU": [
+                    "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
+					"The company is one of the fastest growing fast food franchises globally",
+					"the companys international headquarters are in Milford, Connecticut in the United States"
+                ],
+                "en-CA": [
+                    "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
+					"The company is one of the fastest growing fast food franchises globally",
+					"the companys international headquarters are in Milford, Connecticut in the United States"
+                ],
+                "en-IN": [
+                    "American fast food restaurant franchise that primarily purveys submarine sandwiches and salads",
+					"The company is one of the fastest growing fast food franchises globally",
+					"the companys international headquarters are in Milford, Connecticut in the United States"
                 ]
                 },
             "Languages": [
@@ -155,7 +233,10 @@
             "Name": "BMW",
             "Question": {
                 "en-GB": "What is the name of this vehicle manufacturer?",
-                "en-US": "What is the name of this vehicle manufacturer?"
+                "en-US": "What is the name of this vehicle manufacturer?",
+                "en-AU": "What is the name of this vehicle manufacturer?",
+                "en-CA": "What is the name of this vehicle manufacturer?",
+                "en-IN": "What is the name of this vehicle manufacturer?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BMW.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BMW.png",
@@ -177,6 +258,21 @@
                     "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
 					"The company has significant motorsport history, especially in touring cars",
 					"The company also owns the iconic british Mini brand"
+                ],
+                "en-AU": [
+                    "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
+					"The company has significant motorsport history, especially in touring cars",
+					"The company also owns the iconic british Mini brand"
+                ],
+                "en-CA": [
+                    "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
+					"The company has significant motorsport history, especially in touring cars",
+					"The company also owns the iconic british Mini brand"
+                ],
+                "en-IN": [
+                    "German company which currently produces automobiles and motorcycles, and also produced aircraft engines until after the second world war",
+					"The company has significant motorsport history, especially in touring cars",
+					"The company also owns the iconic british Mini brand"
                 ]
                 },
             "Languages": [
@@ -187,7 +283,10 @@
             "Name": "Shell",
             "Question": {
                 "en-GB": "What is the name of this natural resources company?",
-                "en-US": "What is the name of this natural resources company?"
+                "en-US": "What is the name of this natural resources company?",
+                "en-AU": "What is the name of this natural resources company?",
+                "en-CA": "What is the name of this natural resources company?",
+                "en-IN": "What is the name of this natural resources company?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Shell.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Shell.png",
@@ -205,6 +304,21 @@
                     "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
 					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
 					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
+                ],
+                "en-AU": [
+                    "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
+					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
+					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
+                ],
+                "en-CA": [
+                    "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
+					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
+					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
+                ],
+                "en-IN": [
+                    "It is one of the six oil and gas \"supermajors\" and the sixth-largest company in the world measured by 2016 revenues.",
+					"company headquartered in the Netherlands and incorporated in the United Kingdom.",
+					"The company was formed in 1907 through the amalgamation of the Royal Dutch Petroleum Company of the Netherlands and the a Transport and Trading Company of the United Kingdom that bears its current name."
                 ]
                 },
             "Languages": [
@@ -215,7 +329,10 @@
             "Name": "BP",
             "Question": {
                 "en-GB": "What is the name of this natural resources company?",
-                "en-US": "What is the name of this natural resources company?"
+                "en-US": "What is the name of this natural resources company?",
+                "en-AU": "What is the name of this natural resources company?",
+                "en-CA": "What is the name of this natural resources company?",
+                "en-IN": "What is the name of this natural resources company?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BP.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BP.png",
@@ -236,6 +353,21 @@
                     "It is a British multinational oil and gas company headquartered in London.",
 					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
 					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
+                ],
+                "en-AU": [
+                    "It is a British multinational oil and gas company headquartered in London.",
+					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
+					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
+                ],
+                "en-CA": [
+                    "It is a British multinational oil and gas company headquartered in London.",
+					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
+					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
+                ],
+                "en-IN": [
+                    "It is a British multinational oil and gas company headquartered in London.",
+					"It is one of the worlds seven oil and gas \"supermajors\", whose performance in 2012 made it the worlds sixth-largest oil and gas company.",
+					"As of 31 December 2016, BP had operations in 72 countries worldwide, and produced around 3.3 million barrels per day"
                 ]
                 },
             "Languages": [
@@ -246,7 +378,10 @@
             "Name": "Apple",
             "Question": {
                 "en-GB": "What is the name of this technology company?",
-                "en-US": "What is the name of this technology company?"
+                "en-US": "What is the name of this technology company?",
+                "en-AU": "What is the name of this technology company?",
+                "en-CA": "What is the name of this technology company?",
+                "en-IN": "What is the name of this technology company?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Apple.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Apple.png",
@@ -265,6 +400,21 @@
                     "It is an American multinational technology company headquartered in Cupertino, California.",
 					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
 					"The companys profits soared upon the introduction is its synonymous smart phone."
+                ],
+                "en-AU": [
+                    "It is an American multinational technology company headquartered in Cupertino, California.",
+					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
+					"The companys profits soared upon the introduction is its synonymous smart phone."
+                ],
+                "en-CA": [
+                    "It is an American multinational technology company headquartered in Cupertino, California.",
+					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
+					"The companys profits soared upon the introduction is its synonymous smart phone."
+                ],
+                "en-IN": [
+                    "It is an American multinational technology company headquartered in Cupertino, California.",
+					"It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.",
+					"The companys profits soared upon the introduction is its synonymous smart phone."
                 ]
                 },
             "Languages": [
@@ -275,7 +425,10 @@
             "Name": "Peugeot",
             "Question": {
                 "en-GB": "What is the name of this vehicle manufacturer?",
-                "en-US": "What is the name of this vehicle manufacturer?"
+                "en-US": "What is the name of this vehicle manufacturer?",
+                "en-AU": "What is the name of this vehicle manufacturer?",
+                "en-CA": "What is the name of this vehicle manufacturer?",
+                "en-IN": "What is the name of this vehicle manufacturer?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Peugeot.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Peugeot.png",
@@ -294,6 +447,21 @@
                     "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
 					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
 					"The company and founding family are originally from Sochaux, France"
+                ],
+                "en-AU": [
+                    "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
+					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
+					"The company and founding family are originally from Sochaux, France"
+                ],
+                "en-CA": [
+                    "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
+					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
+					"The company and founding family are originally from Sochaux, France"
+                ],
+                "en-IN": [
+                    "The family business that preceded the current company was founded in 1810, and manufactured coffee mills and bicycles.",
+					"They built the companys first car, an unreliable steam tricycle, in collaboration with Leon Serpollet in 1889.",
+					"The company and founding family are originally from Sochaux, France"
                 ]
                 },
             "Languages": [
@@ -304,7 +472,10 @@
             "Name": "Honda",
             "Question": {
                 "en-GB": "What is the name of this vehicle manufacturer?",
-                "en-US": "What is the name of this vehicle manufacturer?"
+                "en-US": "What is the name of this vehicle manufacturer?",
+                "en-AU": "What is the name of this vehicle manufacturer?",
+                "en-CA": "What is the name of this vehicle manufacturer?",
+                "en-IN": "What is the name of this vehicle manufacturer?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Honda.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Honda.png",
@@ -323,6 +494,21 @@
                     "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
 					"It has been the worlds largest motorcycle manufacturer since 1959.",
                     "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
+                ],
+                "en-AU": [
+                    "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
+					"It has been the worlds largest motorcycle manufacturer since 1959.",
+                    "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
+                ],
+                "en-CA": [
+                    "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
+					"It has been the worlds largest motorcycle manufacturer since 1959.",
+                    "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
+                ],
+                "en-IN": [
+                    "It is a Japanese public multinational conglomerate corporation primarily known as a manufacturer of automobiles, aircraft, motorcycles, and power equipment.",
+					"It has been the worlds largest motorcycle manufacturer since 1959.",
+                    "It was the first Japanese automobile manufacturer to release a dedicated luxury brand."
                 ]
                 },
             "Languages": [
@@ -333,7 +519,10 @@
             "Name": "Volkswagen",
             "Question": {
                 "en-GB": "What is the name of this vehicle manufacturer?",
-                "en-US": "What is the name of this vehicle manufacturer?"
+                "en-US": "What is the name of this vehicle manufacturer?",
+                "en-AU": "What is the name of this vehicle manufacturer?",
+                "en-CA": "What is the name of this vehicle manufacturer?",
+                "en-IN": "What is the name of this vehicle manufacturer?"
             },
             "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Volkswagen.png",
             "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Volkswagen.png",
@@ -356,11 +545,741 @@
                     "The company was originally established in 1937 by the German Labour Front.",
 					"Its famous models of car are Beetle, and Golf.",
                     "its name translates to peoples car"
+                ],
+                "en-AU": [
+                    "The company was originally established in 1937 by the German Labour Front.",
+					"Its famous models of car are Beetle, and Golf.",
+                    "its name translates to peoples car"
+                ],
+                "en-CA": [
+                    "The company was originally established in 1937 by the German Labour Front.",
+					"Its famous models of car are Beetle, and Golf.",
+                    "its name translates to peoples car"
+                ],
+                "en-IN": [
+                    "The company was originally established in 1937 by the German Labour Front.",
+					"Its famous models of car are Beetle, and Golf.",
+                    "its name translates to peoples car"
                 ]
                 },
             "Languages": [
                 "All"
             ]
+        },
+        {
+            "Name": "Huawei",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Huawei.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Huawei.png",
+            "Utterances": [
+                "Huawei",
+                "Ha Wei",
+                "Hu Wa Wei",
+                "Hue Wai",
+                "Hawaii",
+                "Hwa Way",
+                "Hue Wa Way",
+                "Hu Wa Way",
+                "Hu Wai Wei",
+                "Hu Wai Way"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is headquartered in Shenzhen, Guangdong, China",
+                        "It is the world's ninth-largest information technology company by revenue",
+                        "It was founded in 1987 by Ren Zhengfei"
+                    ],
+                    "en-US": [
+                        "The company is headquartered in Shenzhen, Guangdong, China",
+                        "It is the world's ninth-largest information technology company by revenue",
+                        "It was founded in 1987 by Ren Zhengfei"
+                    ],
+                    "en-AU": [
+                        "The company is headquartered in Shenzhen, Guangdong, China",
+                        "It is the world's ninth-largest information technology company by revenue",
+                        "It was founded in 1987 by Ren Zhengfei"
+                    ],
+                    "en-CA": [
+                        "The company is headquartered in Shenzhen, Guangdong, China",
+                        "It is the world's ninth-largest information technology company by revenue",
+                        "It was founded in 1987 by Ren Zhengfei"
+                    ],
+                    "en-IN": [
+                        "The company is headquartered in Shenzhen, Guangdong, China",
+                        "It is the world's ninth-largest information technology company by revenue",
+                        "It was founded in 1987 by Ren Zhengfei"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Samsung",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Samsung.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Samsung.png",
+            "Utterances": [
+                "Samsung",
+                "Samsang",
+                "Samsun",
+                "Samson"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is headquartered in Seocho, Seoul, South Korea",
+                        "The company has diversified into various different areas over a span of three decades",
+                        "It entered the technology market in the late 1960's"
+                    ],
+                    "en-US": [
+                        "The company is headquartered in Seocho, Seoul, South Korea",
+                        "The company has diversified into various different areas over a span of three decades",
+                        "It entered the technology market in the late 1960's"
+                    ],
+                    "en-AU": [
+                        "The company is headquartered in Seocho, Seoul, South Korea",
+                        "The company has diversified into various different areas over a span of three decades",
+                        "It entered the technology market in the late 1960's"
+                    ],
+                    "en-CA": [
+                        "The company is headquartered in Seocho, Seoul, South Korea",
+                        "The company has diversified into various different areas over a span of three decades",
+                        "It entered the technology market in the late 1960's"
+                    ],
+                    "en-IN": [
+                        "The company is headquartered in Seocho, Seoul, South Korea",
+                        "The company has diversified into various different areas over a span of three decades",
+                        "It entered the technology market in the late 1960's"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Louis Vuitton",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/LouisVuitton.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/LouisVuitton.png",
+            "Utterances": [
+                "Louis Vuitton",
+                "Luis Vuitton",
+                "Luis Vitton",
+                "Louis Vitton",
+                "Louis Viton",
+                "Luis Viton"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company was founded in 1854",
+                        "The business is headquartered in Paris, France",
+                        "They sell luxury fashion goods"
+                    ],
+                    "en-US": [
+                        "The company was founded in 1854",
+                        "The business is headquartered in Paris, France",
+                        "They sell luxury fashion goods"
+                    ],
+                    "en-AU": [
+                        "The company was founded in 1854",
+                        "The business is headquartered in Paris, France",
+                        "They sell luxury fashion goods"
+                    ],
+                    "en-CA": [
+                        "The company was founded in 1854",
+                        "The business is headquartered in Paris, France",
+                        "They sell luxury fashion goods"
+                    ],
+                    "en-IN": [
+                        "The company was founded in 1854",
+                        "The business is headquartered in Paris, France",
+                        "They sell luxury fashion goods"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Gucci",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Gucci.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Gucci.png",
+            "Utterances": [
+                "Gucci",
+                "Goochi",
+                "Gu Chi",
+                "Goo Chi",
+                "Goo Chey",
+                "Goochey"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the biggest-selling Italian brand",
+                        "It is a subsidiary of a holding company that owns many luxury clothing brands",
+                        "The company was established in 1921"
+                    ],
+                    "en-US": [
+                        "It is the biggest-selling Italian brand",
+                        "It is a subsidiary of a holding company that owns many luxury clothing brands",
+                        "The company was established in 1921"
+                    ],
+                    "en-AU": [
+                        "It is the biggest-selling Italian brand",
+                        "It is a subsidiary of a holding company that owns many luxury clothing brands",
+                        "The company was established in 1921"
+                    ],
+                    "en-CA": [
+                        "It is the biggest-selling Italian brand",
+                        "It is a subsidiary of a holding company that owns many luxury clothing brands",
+                        "The company was established in 1921"
+                    ],
+                    "en-IN": [
+                        "It is the biggest-selling Italian brand",
+                        "It is a subsidiary of a holding company that owns many luxury clothing brands",
+                        "The company was established in 1921"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Givenchy",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Givenchy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Givenchy.png",
+            "Utterances": [
+                "Givenchy",
+                "Givenchi",
+                "Jivenchi",
+                "jivenchey",
+                "Givinchy",
+                "Jivinchy",
+                "Gevenchy",
+                "Gevenchi",
+                "Gevenchey"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is owned by luxury conglomerate LVMH",
+                        "They are established in offering luxury clothing, accessories, perfumes and cosmetics",
+                        "The company was established in 1952"
+                    ],
+                    "en-US": [
+                        "It is owned by luxury conglomerate LVMH",
+                        "They are established in offering luxury clothing, accessories, perfumes and cosmetics",
+                        "The company was established in 1952"
+                    ],
+                    "en-AU": [
+                        "It is owned by luxury conglomerate LVMH",
+                        "They are established in offering luxury clothing, accessories, perfumes and cosmetics",
+                        "The company was established in 1952"
+                    ],
+                    "en-CA": [
+                        "It is owned by luxury conglomerate LVMH",
+                        "They are established in offering luxury clothing, accessories, perfumes and cosmetics",
+                        "The company was established in 1952"
+                    ],
+                    "en-IN": [
+                        "It is owned by luxury conglomerate LVMH",
+                        "They are established in offering luxury clothing, accessories, perfumes and cosmetics",
+                        "The company was established in 1952"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "The Hundreds",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/TheHundreds.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/TheHundreds.png",
+            "Utterances": [
+                "The Hundreds",
+                "Hundreds",
+                "Hundrids",
+                "Hundrads",
+                "The Hundrids",
+                "The Hundrads"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Los Angeles in 2003",
+                        "It was inspired by California culture including punk, hip-hop, skateboarding and surfing.",
+                        "Thas expanded into a print magazine, footwear and eyewear."
+                    ],
+                    "en-US": [
+                        "It was founded in Los Angeles in 2003",
+                        "It was inspired by California culture including punk, hip-hop, skateboarding and surfing.",
+                        "Thas expanded into a print magazine, footwear and eyewear."
+                    ],
+                    "en-AU": [
+                        "It was founded in Los Angeles in 2003",
+                        "It was inspired by California culture including punk, hip-hop, skateboarding and surfing.",
+                        "Thas expanded into a print magazine, footwear and eyewear."
+                    ],
+                    "en-CA": [
+                        "It was founded in Los Angeles in 2003",
+                        "It was inspired by California culture including punk, hip-hop, skateboarding and surfing.",
+                        "Thas expanded into a print magazine, footwear and eyewear."
+                    ],
+                    "en-IN": [
+                        "It was founded in Los Angeles in 2003",
+                        "It was inspired by California culture including punk, hip-hop, skateboarding and surfing.",
+                        "Thas expanded into a print magazine, footwear and eyewear."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+
+        {
+            "Name": "Papa Johns",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant company?",
+                    "en-US": "What is the name of this restaurant company?",
+                    "en-AU": "What is the name of this restaurant company?",
+                    "en-CA": "What is the name of this restaurant company?",
+                    "en-IN": "What is the name of this restaurant company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/PapaJohns.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/PapaJohns.png",
+            "Utterances": [
+                "Papa Johns",
+                "Papa Johns Pizza",
+                "Papa Jons",
+                "Papa Jons Pizza",
+                "Papa John",
+                "Papa John Pizza",
+                "Papa Jon",
+                "Papa Jon Pizza"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded by John Schnatter in 1984",
+                        "They are headquartered in Jeffersontown, Kentucky",
+                        "They have over 4700 locations worldwide"
+                    ],
+                    "en-US": [
+                        "It was founded by John Schnatter in 1984",
+                        "They are headquartered in Jeffersontown, Kentucky",
+                        "They have over 4700 locations worldwide"
+                    ],
+                    "en-AU": [
+                        "It was founded by John Schnatter in 1984",
+                        "They are headquartered in Jeffersontown, Kentucky",
+                        "They have over 4700 locations worldwide"
+                    ],
+                    "en-CA": [
+                        "It was founded by John Schnatter in 1984",
+                        "They are headquartered in Jeffersontown, Kentucky",
+                        "They have over 4700 locations worldwide"
+                    ],
+                    "en-IN": [
+                        "It was founded by John Schnatter in 1984",
+                        "They are headquartered in Jeffersontown, Kentucky",
+                        "They have over 4700 locations worldwide"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "IBM",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/IBM.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/IBM.png",
+            "Utterances": [
+                "IBM",
+                "Eye Bee Em",
+                "IBeeM",
+                "IBEm",
+                "I Bee Em",
+                "IBee Em"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company originated in 1911 as the Computing-Tabulating-Recording Company",
+                        "The company manufactures and markets computer hardware, middleware and software, and provides hosting and consulting services",
+                        "They have operations in over 170 countries"
+                    ],
+                    "en-US": [
+                        "The company originated in 1911 as the Computing-Tabulating-Recording Company",
+                        "The company manufactures and markets computer hardware, middleware and software, and provides hosting and consulting services",
+                        "They have operations in over 170 countries"
+                    ],
+                    "en-AU": [
+                        "The company originated in 1911 as the Computing-Tabulating-Recording Company",
+                        "The company manufactures and markets computer hardware, middleware and software, and provides hosting and consulting services",
+                        "They have operations in over 170 countries"
+                    ],
+                    "en-CA": [
+                        "The company originated in 1911 as the Computing-Tabulating-Recording Company",
+                        "The company manufactures and markets computer hardware, middleware and software, and provides hosting and consulting services",
+                        "They have operations in over 170 countries"
+                    ],
+                    "en-IN": [
+                        "The company originated in 1911 as the Computing-Tabulating-Recording Company",
+                        "The company manufactures and markets computer hardware, middleware and software, and provides hosting and consulting services",
+                        "They have operations in over 170 countries"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Intel",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Intel.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Intel.png",
+            "Utterances": [
+                "Intel",
+                "Intell",
+                "In Tel",
+                "In Tell",
+                "Inn Tell",
+                "Intel Computers"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's second largest and second highest valued semiconductor chip manufacturer",
+                        "It is headquartered in Santa Clara, California",
+                        "They are the inventor of the x86 series of microprocessors"
+                    ],
+                    "en-US": [
+                        "It is the world's second largest and second highest valued semiconductor chip manufacturer",
+                        "It is headquartered in Santa Clara, California",
+                        "They are the inventor of the x86 series of microprocessors"
+                    ],
+                    "en-AU": [
+                        "It is the world's second largest and second highest valued semiconductor chip manufacturer",
+                        "It is headquartered in Santa Clara, California",
+                        "They are the inventor of the x86 series of microprocessors"
+                    ],
+                    "en-CA": [
+                        "It is the world's second largest and second highest valued semiconductor chip manufacturer",
+                        "It is headquartered in Santa Clara, California",
+                        "They are the inventor of the x86 series of microprocessors"
+                    ],
+                    "en-IN": [
+                        "It is the world's second largest and second highest valued semiconductor chip manufacturer",
+                        "It is headquartered in Santa Clara, California",
+                        "They are the inventor of the x86 series of microprocessors"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Facebook",
+			"Question": {
+                    "en-GB": "What is the name of this social networking site?",
+                    "en-US": "What is the name of this social networking site?",
+                    "en-AU": "What is the name of this social networking site?",
+                    "en-CA": "What is the name of this social networking site?",
+                    "en-IN": "What is the name of this social networking site?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Facebook.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Facebook.png",
+            "Utterances": [
+                "Facebook",
+                "Facebook Dot Com",
+                "Face Book",
+                "Phase Book",
+                "Face Buck",
+                "Phase Buck"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 2004",
+                        "It is headquartered in Menlo Park, California",
+                        "It currently has more than 2 billion monthly active users"
+                    ],
+                    "en-US": [
+                        "It was founded in 2004",
+                        "It is headquartered in Menlo Park, California",
+                        "It currently has more than 2 billion monthly active users"
+                    ],
+                    "en-AU": [
+                        "It was founded in 2004",
+                        "It is headquartered in Menlo Park, California",
+                        "It currently has more than 2 billion monthly active users"
+                    ],
+                    "en-CA": [
+                        "It was founded in 2004",
+                        "It is headquartered in Menlo Park, California",
+                        "It currently has more than 2 billion monthly active users"
+                    ],
+                    "en-IN": [
+                        "It was founded in 2004",
+                        "It is headquartered in Menlo Park, California",
+                        "It currently has more than 2 billion monthly active users"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Twitter",
+			"Question": {
+                    "en-GB": "What is the name of this social networking site?",
+                    "en-US": "What is the name of this social networking site?",
+                    "en-AU": "What is the name of this social networking site?",
+                    "en-CA": "What is the name of this social networking site?",
+                    "en-IN": "What is the name of this social networking site?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Twitter.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Twitter.png",
+            "Utterances": [
+                "Twitter",
+                "Twitter Dot Com",
+                "Twittir",
+                "Twittar",
+                "Tweetar",
+                "Tweetir"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 2006",
+                        "It has a limit of 140 characters",
+                        "It is headquartered in San Francisco, California"
+                    ],
+                    "en-US": [
+                        "It was founded in 2006",
+                        "It has a limit of 140 characters",
+                        "It is headquartered in San Francisco, California"
+                    ],
+                    "en-AU": [
+                        "It was founded in 2006",
+                        "It has a limit of 140 characters",
+                        "It is headquartered in San Francisco, California"
+                    ],
+                    "en-CA": [
+                        "It was founded in 2006",
+                        "It has a limit of 140 characters",
+                        "It is headquartered in San Francisco, California"
+                    ],
+                    "en-IN": [
+                        "It was founded in 2006",
+                        "It has a limit of 140 characters",
+                        "It is headquartered in San Francisco, California"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Snapchat",
+			"Question": {
+                    "en-GB": "What is the name of this social networking app?",
+                    "en-US": "What is the name of this social networking app?",
+                    "en-AU": "What is the name of this social networking app?",
+                    "en-CA": "What is the name of this social networking app?",
+                    "en-IN": "What is the name of this social networking app?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Snapchat.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Snapchat.png",
+            "Utterances": [
+                "Snapchat",
+                "Snap Chat",
+                "Snapchat Dot Com"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It has 166 million daily active users",
+                        "It was founded in 2011 by Evan Spiegel and Bobby Murphy",
+                        "It is an image messaging and multimedia mobile application"
+                    ],
+                    "en-US": [
+                        "It has 166 million daily active users",
+                        "It was founded in 2011 by Evan Spiegel and Bobby Murphy",
+                        "It is an image messaging and multimedia mobile application"
+                    ],
+                    "en-AU": [
+                        "It has 166 million daily active users",
+                        "It was founded in 2011 by Evan Spiegel and Bobby Murphy",
+                        "It is an image messaging and multimedia mobile application"
+                    ],
+                    "en-CA": [
+                        "It has 166 million daily active users",
+                        "It was founded in 2011 by Evan Spiegel and Bobby Murphy",
+                        "It is an image messaging and multimedia mobile application"
+                    ],
+                    "en-IN": [
+                        "It has 166 million daily active users",
+                        "It was founded in 2011 by Evan Spiegel and Bobby Murphy",
+                        "It is an image messaging and multimedia mobile application"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "SAP",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/SAP.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/SAP.png",
+            "Utterances": [
+                "SAP",
+                "SAPee",
+                "Es Ay Pe",
+                "SOP",
+                "EsAPee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They are a software corporation that makes enterprise software to manage business operations and customer relations",
+                        "They are headquartered in Walldorf, Germany",
+                        "The company has over 335,000 customers in over 180 countries"
+                    ],
+                    "en-US": [
+                        "They are a software corporation that makes enterprise software to manage business operations and customer relations",
+                        "They are headquartered in Walldorf, Germany",
+                        "The company has over 335,000 customers in over 180 countries"
+                    ],
+                    "en-AU": [
+                        "They are a software corporation that makes enterprise software to manage business operations and customer relations",
+                        "They are headquartered in Walldorf, Germany",
+                        "The company has over 335,000 customers in over 180 countries"
+                    ],
+                    "en-CA": [
+                        "They are a software corporation that makes enterprise software to manage business operations and customer relations",
+                        "They are headquartered in Walldorf, Germany",
+                        "The company has over 335,000 customers in over 180 countries"
+                    ],
+                    "en-IN": [
+                        "They are a software corporation that makes enterprise software to manage business operations and customer relations",
+                        "They are headquartered in Walldorf, Germany",
+                        "The company has over 335,000 customers in over 180 countries"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nintendo",
+			"Question": {
+                    "en-GB": "What is the name of this video games company?",
+                    "en-US": "What is the name of this video games company?",
+                    "en-AU": "What is the name of this video games company?",
+                    "en-CA": "What is the name of this video games company?",
+                    "en-IN": "What is the name of this video games company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nintendo.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nintendo.png",
+            "Utterances": [
+                "Nintendo",
+                "Nintendo Corporation",
+                "Nintendo Company"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded by Fusajiro Yamauchi in 1889",
+                        "They have released many successful video games series",
+                        "The company is headquartered in Kyoto, Japan"
+                    ],
+                    "en-US": [
+                        "It was founded by Fusajiro Yamauchi in 1889",
+                        "They have released many successful video games series",
+                        "The company is headquartered in Kyoto, Japan"
+                    ],
+                    "en-AU": [
+                        "It was founded by Fusajiro Yamauchi in 1889",
+                        "They have released many successful video games series",
+                        "The company is headquartered in Kyoto, Japan"
+                    ],
+                    "en-CA": [
+                        "It was founded by Fusajiro Yamauchi in 1889",
+                        "They have released many successful video games series",
+                        "The company is headquartered in Kyoto, Japan"
+                    ],
+                    "en-IN": [
+                        "It was founded by Fusajiro Yamauchi in 1889",
+                        "They have released many successful video games series",
+                        "The company is headquartered in Kyoto, Japan"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
         }
     ]
 }
