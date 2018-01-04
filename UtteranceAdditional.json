@@ -2,21 +2,133 @@
     { 
         "id": null,
         "name": {
-        "value": "Huawei",
+        "value": "Amazon",
         "synonyms": [
-            "Huawei",
-            "Ha Wei",
-            "Hu Wa Wei",
-            "Hue Wai",
-            "Hawaii",
-            "Hwa Way",
-            "Hue Wa Way",
-            "Hu Wa Way",
-            "Hu Wai Wei",
-            "Hu Wai Way",
-            "Hue Way"
+            "Amazon Dot Com",
+            "Amazon Shopping",
+            "Amazon Online"
         ]
         }
-    }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Skype",
+        "synonyms": [
+            "Skype Dot Com",
+            "Skype Video",
+            "Skype Audio",
+            "Sky Pee",
+            "Sky P"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Nvidia",
+        "synonyms": [
+            "Nvidia Gaming",
+            "Nvidia Graphics",
+            "NVideoya",
+            "NVidi Ya"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "AMD",
+        "synonyms": [
+            "Ay Em Dee",
+            "AMDee",
+            "AyM Dee",
+            "AEmDee"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Supreme",
+        "synonyms": [
+            "Supreme Clothing",
+            "Supreme Skateboards",
+            "Supreme Skateboarding",
+            "Suprem"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Cisco",
+        "synonyms": [
+            "Cisco Networking",
+            "Cisco Networks",
+            "Sis Co",
+            "Sis Co Networking"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Ducati",
+        "synonyms": [
+            "Ducati Bikes",
+            "Do Cati",
+            "Due Cati"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Nestle",
+        "synonyms": [
+            "Nestle Food",
+            "Nestlé",
+            "Ness Lay",
+            "Nessles"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Yamaha",
+        "synonyms": [
+            "Yamaha Bikes",
+            "Yamaha Corporation",
+            "Yamaha Music"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Rossignol",
+        "synonyms": [
+            "Ross Ig Nol",
+            "Rossignol Outdoor",
+            "Ross Ig Nol Outdoor"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Visa",
+        "synonyms": [
+            "Vee Sa",
+            "Veesa",
+            "Viza",
+            "Vi Za",
+            "Visa Card",
+            "Viza Card"
+        ]
+        }
+    },
 ]
 }

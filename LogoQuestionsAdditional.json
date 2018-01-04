@@ -1,7 +1,107 @@
 {
     "Questions": [
         {
-            "Name": "Huawei",
+            "Name": "Amazon",
+			"Question": {
+                    "en-GB": "What is the name of this ecommerce company?",
+                    "en-US": "What is the name of this ecommerce company?",
+                    "en-AU": "What is the name of this ecommerce company?",
+                    "en-CA": "What is the name of this ecommerce company?",
+                    "en-IN": "What is the name of this ecommerce company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Amazon.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Amazon.png",
+            "Utterances": [
+                "Amazon",
+                "Amazon Dot Com",
+                "Amazon Shopping",
+                "Amazon Online"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's largest internet retailer",
+                        "It was originally named Cadabra Inc before changing its name",
+                        "It originally started up as a book retailer"
+                    ],
+                    "en-US": [
+                        "It is the world's largest internet retailer",
+                        "It was originally named Cadabra Inc before changing its name",
+                        "It originally started up as a book retailer"
+                    ],
+                    "en-AU": [
+                        "It is the world's largest internet retailer",
+                        "It was originally named Cadabra Inc before changing its name",
+                        "It originally started up as a book retailer"
+                    ],
+                    "en-CA": [
+                        "It is the world's largest internet retailer",
+                        "It was originally named Cadabra Inc before changing its name",
+                        "It originally started up as a book retailer"
+                    ],
+                    "en-IN": [
+                        "It is the world's largest internet retailer",
+                        "It was originally named Cadabra Inc before changing its name",
+                        "It originally started up as a book retailer"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Skype",
+			"Question": {
+                    "en-GB": "What is the name of this telecommunications company?",
+                    "en-US": "What is the name of this telecommunications company?",
+                    "en-AU": "What is the name of this telecommunications company?",
+                    "en-CA": "What is the name of this telecommunications company?",
+                    "en-IN": "What is the name of this telecommunications company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Skype.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Skype.png",
+            "Utterances": [
+                "Skype",
+                "Skype Dot Com",
+                "Skype Video",
+                "Skype Audio",
+                "Sky Pee",
+                "Sky P"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 2003 by Niklas Zennstrom and Janus Friis",
+                        "It specialises in providing video chat and voice calls between computers, tablets, mobile devices and regular phones",
+                        "It was bought by Microsoft in 2011 for 8.5 billion dollars"
+                    ],
+                    "en-US": [
+                        "It was founded in 2003 by Niklas Zennstrom and Janus Friis",
+                        "It specialises in providing video chat and voice calls between computers, tablets, mobile devices and regular phones",
+                        "It was bought by Microsoft in 2011 for 8.5 billion dollars"
+                    ],
+                    "en-AU": [
+                        "It was founded in 2003 by Niklas Zennstrom and Janus Friis",
+                        "It specialises in providing video chat and voice calls between computers, tablets, mobile devices and regular phones",
+                        "It was bought by Microsoft in 2011 for 8.5 billion dollars"
+                    ],
+                    "en-CA": [
+                        "It was founded in 2003 by Niklas Zennstrom and Janus Friis",
+                        "It specialises in providing video chat and voice calls between computers, tablets, mobile devices and regular phones",
+                        "It was bought by Microsoft in 2011 for 8.5 billion dollars"
+                    ],
+                    "en-IN": [
+                        "It was founded in 2003 by Niklas Zennstrom and Janus Friis",
+                        "It specialises in providing video chat and voice calls between computers, tablets, mobile devices and regular phones",
+                        "It was bought by Microsoft in 2011 for 8.5 billion dollars"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nvidia",
 			"Question": {
                     "en-GB": "What is the name of this technology company?",
                     "en-US": "What is the name of this technology company?",
@@ -9,51 +109,445 @@
                     "en-CA": "What is the name of this technology company?",
                     "en-IN": "What is the name of this technology company?"
             },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Huawei.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Huawei.png",
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nvidia.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nvidia.png",
             "Utterances": [
-                "Huawei",
-                "Ha Wei",
-                "Hu Wa Wei",
-                "Hue Wai",
-                "Hawaii",
-                "Hwa Way",
-                "Hue Wa Way",
-                "Hu Wa Way",
-                "Hu Wai Wei",
-                "Hu Wai Way"
+                "Nvidia",
+                "Nvidia Gaming",
+                "Nvidia Graphics",
+                "NVideoya",
+                "NVidi Ya"
             ],
 			"Hints": {
                     "en-GB": [
-                        "The company is headquartered in Shenzhen, Guangdong, China",
-                        "It is the world's ninth-largest information technology company by revenue",
-                        "It was founded in 1987 by Ren Zhengfei"
+                        "It was founded in Delaware in 1993",
+                        "It is famous for its line of graphics processing units",
+                        "It is heavily involved in the video game industry"
                     ],
                     "en-US": [
-                        "The company is headquartered in Shenzhen, Guangdong, China",
-                        "It is the world's ninth-largest information technology company by revenue",
-                        "It was founded in 1987 by Ren Zhengfei"
+                        "It was founded in Delaware in 1993",
+                        "It is famous for its line of graphics processing units",
+                        "It is heavily involved in the video game industry"
                     ],
                     "en-AU": [
-                        "The company is headquartered in Shenzhen, Guangdong, China",
-                        "It is the world's ninth-largest information technology company by revenue",
-                        "It was founded in 1987 by Ren Zhengfei"
+                        "It was founded in Delaware in 1993",
+                        "It is famous for its line of graphics processing units",
+                        "It is heavily involved in the video game industry"
                     ],
                     "en-CA": [
-                        "The company is headquartered in Shenzhen, Guangdong, China",
-                        "It is the world's ninth-largest information technology company by revenue",
-                        "It was founded in 1987 by Ren Zhengfei"
+                        "It was founded in Delaware in 1993",
+                        "It is famous for its line of graphics processing units",
+                        "It is heavily involved in the video game industry"
                     ],
                     "en-IN": [
-                        "The company is headquartered in Shenzhen, Guangdong, China",
-                        "It is the world's ninth-largest information technology company by revenue",
-                        "It was founded in 1987 by Ren Zhengfei"
+                        "It was founded in Delaware in 1993",
+                        "It is famous for its line of graphics processing units",
+                        "It is heavily involved in the video game industry"
                     ]
                     },
             "Languages": [
                 "All"
             ]
 			
-        }
+        },
+        {
+            "Name": "AMD",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/AMD.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/AMD.png",
+            "Utterances": [
+                "AMD",
+                "Ay Em Dee",
+                "AMDee",
+                "AyM Dee",
+                "AEmDee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They are famous for their central processing units",
+                        "It was founded in May, 1969 by Jerry Sanders",
+                        "They are a supplier of x86-based microprocessors"
+                    ],
+                    "en-US": [
+                        "They are famous for their central processing units",
+                        "It was founded in May, 1969 by Jerry Sanders",
+                        "They are a supplier of x86-based microprocessors"
+                    ],
+                    "en-AU": [
+                        "They are famous for their central processing units",
+                        "It was founded in May, 1969 by Jerry Sanders",
+                        "They are a supplier of x86-based microprocessors"
+                    ],
+                    "en-CA": [
+                        "They are famous for their central processing units",
+                        "It was founded in May, 1969 by Jerry Sanders",
+                        "They are a supplier of x86-based microprocessors"
+                    ],
+                    "en-IN": [
+                        "They are famous for their central processing units",
+                        "It was founded in May, 1969 by Jerry Sanders",
+                        "They are a supplier of x86-based microprocessors"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Supreme",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Supreme.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Supreme.png",
+            "Utterances": [
+                "Supreme",
+                "Supreme Clothing",
+                "Supreme Skateboards",
+                "Supreme Skateboarding",
+                "Suprem"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in New York City in 1994",
+                        "They are a skatewear brand",
+                        "They have 11 stores located around the world"
+                    ],
+                    "en-US": [
+                        "It was founded in New York City in 1994",
+                        "They are a skatewear brand",
+                        "They have 11 stores located around the world"
+                    ],
+                    "en-AU": [
+                        "It was founded in New York City in 1994",
+                        "They are a skatewear brand",
+                        "They have 11 stores located around the world"
+                    ],
+                    "en-CA": [
+                        "It was founded in New York City in 1994",
+                        "They are a skatewear brand",
+                        "They have 11 stores located around the world"
+                    ],
+                    "en-IN": [
+                        "It was founded in New York City in 1994",
+                        "They are a skatewear brand",
+                        "They have 11 stores located around the world"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Cisco",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Cisco.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Cisco.png",
+            "Utterances": [
+                "Cisco",
+                "Cisco Networking",
+                "Cisco Networks",
+                "Sis Co",
+                "Sis Co Networking"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company name is largely based on where it was established",
+                        "They were founded in 1984 in San Francisco, California",
+                        "They manufacture and sell networking hardware and telecommunications equipment"
+                    ],
+                    "en-US": [
+                        "The company name is largely based on where it was established",
+                        "They were founded in 1984 in San Francisco, California",
+                        "They manufacture and sell networking hardware and telecommunications equipment"
+                    ],
+                    "en-AU": [
+                        "The company name is largely based on where it was established",
+                        "They were founded in 1984 in San Francisco, California",
+                        "They manufacture and sell networking hardware and telecommunications equipment"
+                    ],
+                    "en-CA": [
+                        "The company name is largely based on where it was established",
+                        "They were founded in 1984 in San Francisco, California",
+                        "They manufacture and sell networking hardware and telecommunications equipment"
+                    ],
+                    "en-IN": [
+                        "The company name is largely based on where it was established",
+                        "They were founded in 1984 in San Francisco, California",
+                        "They manufacture and sell networking hardware and telecommunications equipment"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Ducati",
+			"Question": {
+                    "en-GB": "What is the name of this automobile company?",
+                    "en-US": "What is the name of this automobile company?",
+                    "en-AU": "What is the name of this automobile company?",
+                    "en-CA": "What is the name of this automobile company?",
+                    "en-IN": "What is the name of this automobile company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ducati.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ducati.png",
+            "Utterances": [
+                "Ducati",
+                "Ducati Bikes",
+                "Do Cati",
+                "Due Cati"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an Italian company",
+                        "It was founded in 1926",
+                        "They are famous for their motorcycles"
+                    ],
+                    "en-US": [
+                        "It is an Italian company",
+                        "It was founded in 1926",
+                        "They are famous for their motorcycles"
+                    ],
+                    "en-AU": [
+                        "It is an Italian company",
+                        "It was founded in 1926",
+                        "They are famous for their motorcycles"
+                    ],
+                    "en-CA": [
+                        "It is an Italian company",
+                        "It was founded in 1926",
+                        "They are famous for their motorcycles"
+                    ],
+                    "en-IN": [
+                        "It is an Italian company",
+                        "It was founded in 1926",
+                        "They are famous for their motorcycles"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nestle",
+			"Question": {
+                    "en-GB": "What is the name of this food and beverage company?",
+                    "en-US": "What is the name of this food and beverage company?",
+                    "en-AU": "What is the name of this food and beverage company?",
+                    "en-CA": "What is the name of this food and beverage company?",
+                    "en-IN": "What is the name of this food and beverage company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nestle.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nestle.png",
+            "Utterances": [
+                "Nestle",
+                "Nestle Food",
+                "Nestlé",
+                "Ness Lay",
+                "Nessles"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 1866 in Switzerland",
+                        "It is the largest food company in the world",
+                        "Its headquarters are in Vevey, Vaud, Switzerland"
+                    ],
+                    "en-US": [
+                        "It was founded in 1866 in Switzerland",
+                        "It is the largest food company in the world",
+                        "Its headquarters are in Vevey, Vaud, Switzerland"
+                    ],
+                    "en-AU": [
+                        "It was founded in 1866 in Switzerland",
+                        "It is the largest food company in the world",
+                        "Its headquarters are in Vevey, Vaud, Switzerland"
+                    ],
+                    "en-CA": [
+                        "It was founded in 1866 in Switzerland",
+                        "It is the largest food company in the world",
+                        "Its headquarters are in Vevey, Vaud, Switzerland"
+                    ],
+                    "en-IN": [
+                        "It was founded in 1866 in Switzerland",
+                        "It is the largest food company in the world",
+                        "Its headquarters are in Vevey, Vaud, Switzerland"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Yamaha",
+			"Question": {
+                    "en-GB": "What is the name of this conglomerate company?",
+                    "en-US": "What is the name of this conglomerate company?",
+                    "en-AU": "What is the name of this conglomerate company?",
+                    "en-CA": "What is the name of this conglomerate company?",
+                    "en-IN": "What is the name of this conglomerate company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Yamaha.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Yamaha.png",
+            "Utterances": [
+                "Yamaha",
+                "Yamaha Bikes",
+                "Yamaha Corporation",
+                "Yamaha Music"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 1887 in Japan",
+                        "It is predominantly famous for musical instruments and audio equipment",
+                        "Its headquarters are in Hamamatsu, Shizuoka, Japan"
+                    ],
+                    "en-US": [
+                        "It was founded in 1887 in Japan",
+                        "It is predominantly famous for musical instruments and audio equipment",
+                        "Its headquarters are in Hamamatsu, Shizuoka, Japan"
+                    ],
+                    "en-AU": [
+                        "It was founded in 1887 in Japan",
+                        "It is predominantly famous for musical instruments and audio equipment",
+                        "Its headquarters are in Hamamatsu, Shizuoka, Japan"
+                    ],
+                    "en-CA": [
+                        "It was founded in 1887 in Japan",
+                        "It is predominantly famous for musical instruments and audio equipment",
+                        "Its headquarters are in Hamamatsu, Shizuoka, Japan"
+                    ],
+                    "en-IN": [
+                        "It was founded in 1887 in Japan",
+                        "It is predominantly famous for musical instruments and audio equipment",
+                        "Its headquarters are in Hamamatsu, Shizuoka, Japan"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Rossignol",
+			"Question": {
+                    "en-GB": "What is the name of this outdoor company?",
+                    "en-US": "What is the name of this outdoor company?",
+                    "en-AU": "What is the name of this outdoor company?",
+                    "en-CA": "What is the name of this outdoor company?",
+                    "en-IN": "What is the name of this outdoor company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Rossignol.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Rossignol.png",
+            "Utterances": [
+                "Rossignol",
+                "Ross Ig Nol",
+                "Rossignol Outdoor",
+                "Ross Ig Nol Outdoor"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-US": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-AU": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-CA": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-IN": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Visa",
+			"Question": {
+                    "en-GB": "What is the name of this finance company?",
+                    "en-US": "What is the name of this finance company?",
+                    "en-AU": "What is the name of this finance company?",
+                    "en-CA": "What is the name of this finance company?",
+                    "en-IN": "What is the name of this finance company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Visa.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Visa.png",
+            "Utterances": [
+                "Visa",
+                "Vee Sa",
+                "Veesa",
+                "Viza",
+                "Vi Za",
+                "Visa Card",
+                "Viza Card"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        " It facilitates electronic funds transfers throughout the world, most commonly through their branded credit cards and debit cards.",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-US": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-AU": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-CA": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ],
+                    "en-IN": [
+                        "It was founded in 11907 in Isere, France",
+                        "It is famous for its ski equipment",
+                        "It was sold to Quiksilver for 560 million dollars in 2008"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
