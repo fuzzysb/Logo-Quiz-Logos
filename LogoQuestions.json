@@ -1248,7 +1248,9 @@
             "Utterances": [
                 "Nintendo",
                 "Nintendo Corporation",
-                "Nintendo Company"
+                "Nintendo Company",
+                "Nin Tendo",
+                "nine tendo"
             ],
 			"Hints": {
                     "en-GB": [
@@ -1280,7 +1282,56 @@
             "Languages": [
                 "All"
             ]
-			
+        },
+        {
+            "Name": "Playboy",
+			"Question": {
+                    "en-GB": "What is the name of this magazine company?",
+                    "en-US": "What is the name of this magazine company?",
+                    "en-AU": "What is the name of this magazine company?",
+                    "en-CA": "What is the name of this magazine company?",
+                    "en-IN": "What is the name of this magazine company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Playboy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Playboy.png",
+            "Utterances": [
+                "Playboy",
+                "play boy",
+                "ploy boy",
+                "ploo boy",
+                "plooboy",
+                "ployboy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is an American mens lifestyle and entertainment magazine",
+                        "It was founded in Chicago in 1953, by Hugh Hefner and his associates",
+                        "It was funded in part by a $1,000 loan from Hugh Hefners mother"
+                    ],
+                    "en-US": [
+                        "The company is an American mens lifestyle and entertainment magazine",
+                        "It was founded in Chicago in 1953, by Hugh Hefner and his associates",
+                        "It was funded in part by a $1,000 loan from Hugh Hefners mother"
+                    ],
+                    "en-AU": [
+                        "The company is an American mens lifestyle and entertainment magazine",
+                        "It was founded in Chicago in 1953, by Hugh Hefner and his associates",
+                        "It was funded in part by a $1,000 loan from Hugh Hefners mother"
+                    ],
+                    "en-CA": [
+                        "The company is an American mens lifestyle and entertainment magazine",
+                        "It was founded in Chicago in 1953, by Hugh Hefner and his associates",
+                        "It was funded in part by a $1,000 loan from Hugh Hefners mother"
+                    ],
+                    "en-IN": [
+                        "The company is an American mens lifestyle and entertainment magazine",
+                        "It was founded in Chicago in 1953, by Hugh Hefner and his associates",
+                        "It was funded in part by a $1,000 loan from Hugh Hefners mother"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }
