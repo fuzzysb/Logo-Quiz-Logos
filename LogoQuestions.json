@@ -2203,6 +2203,313 @@
             "Languages": [
                 "All"
             ]
+        },
+        {
+            "Name": "DreamWorks",
+			"Question": {
+                    "en-GB": "What is the name of this entertainment company?",
+                    "en-US": "What is the name of this entertainment company?",
+                    "en-AU": "What is the name of this entertainment company?",
+                    "en-CA": "What is the name of this entertainment company?",
+                    "en-IN": "What is the name of this entertainment company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/DreamWorks.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/DreamWorks.png",
+            "Utterances": [
+                "DreamWorks",
+                "Dream Works",
+                "dreem work",
+                "dream work",
+                "dreamworks studios",
+                "dream works studios"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 1994 as a film studio by Steven Spielberg, Jeffrey Katzenberg and David Geffen",
+                        "They are responsible for some of the most popular computer animated childrens films in recent years",
+                        "There was a computer and video game developer founded in 1995 as a subsidiary of this company, but was aquired by Electronic Arts on February 24 in year 2000"
+                    ],
+                    "en-US": [
+                        "It was founded in 1994 as a film studio by Steven Spielberg, Jeffrey Katzenberg and David Geffen",
+                        "They are responsible for some of the most popular computer animated childrens films in recent years",
+                        "There was a computer and video game developer founded in 1995 as a subsidiary of this company, but was aquired by Electronic Arts on February 24 in year 2000"
+                    ],
+                    "en-AU": [
+                        "It was founded in 1994 as a film studio by Steven Spielberg, Jeffrey Katzenberg and David Geffen",
+                        "They are responsible for some of the most popular computer animated childrens films in recent years",
+                        "There was a computer and video game developer founded in 1995 as a subsidiary of this company, but was aquired by Electronic Arts on February 24 in year 2000"
+                    ],
+                    "en-CA": [
+                        "It was founded in 1994 as a film studio by Steven Spielberg, Jeffrey Katzenberg and David Geffen",
+                        "They are responsible for some of the most popular computer animated childrens films in recent years",
+                        "There was a computer and video game developer founded in 1995 as a subsidiary of this company, but was aquired by Electronic Arts on February 24 in year 2000"
+                    ],
+                    "en-IN": [
+                        "It was founded in 1994 as a film studio by Steven Spielberg, Jeffrey Katzenberg and David Geffen",
+                        "They are responsible for some of the most popular computer animated childrens films in recent years",
+                        "There was a computer and video game developer founded in 1995 as a subsidiary of this company, but was aquired by Electronic Arts on February 24 in year 2000"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Mercedes Benz",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/MercedesBenz.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/MercedesBenz.png",
+            "Utterances": [
+                "Mercedes Benz",
+                "Mercedes-Benz",
+                "Mercedes Ben",
+                "Mercedez Benz",
+                "Mercedes",
+                "Mercedez",
+                "Mersey deys",
+                "mersey days"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The Company is a global automobile manufacturer and a division of the German company Daimler AG.",
+                        "The brand is known for luxury vehicles, buses, coaches, and lorries.",
+                        "Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG created the trademark in 1902"
+                    ],
+                    "en-US": [
+                        "The Company is a global automobile manufacturer and a division of the German company Daimler AG.",
+                        "The brand is known for luxury vehicles, buses, coaches, and lorries.",
+                        "Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG created the trademark in 1902"
+                    ],
+                    "en-AU": [
+                        "The Company is a global automobile manufacturer and a division of the German company Daimler AG.",
+                        "The brand is known for luxury vehicles, buses, coaches, and lorries.",
+                        "Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG created the trademark in 1902"
+                    ],
+                    "en-CA": [
+                        "The Company is a global automobile manufacturer and a division of the German company Daimler AG.",
+                        "The brand is known for luxury vehicles, buses, coaches, and lorries.",
+                        "Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG created the trademark in 1902"
+                    ],
+                    "en-IN": [
+                        "The Company is a global automobile manufacturer and a division of the German company Daimler AG.",
+                        "The brand is known for luxury vehicles, buses, coaches, and lorries.",
+                        "Emil Jellinek, an Austrian automobile entrepreneur who worked with DMG created the trademark in 1902"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Timberland",
+			"Question": {
+                    "en-GB": "What is the name of this clothing manufacturer?",
+                    "en-US": "What is the name of this clothing manufacturer?",
+                    "en-AU": "What is the name of this clothing manufacturer?",
+                    "en-CA": "What is the name of this clothing manufacturer?",
+                    "en-IN": "What is the name of this clothing manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Timberland.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Timberland.png",
+            "Utterances": [
+                "Timberland",
+                "Timber land",
+                "tim ber land",
+                "tim berland",
+                "tomberland",
+                "tom ber lan",
+                "tom ber land"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The Company is an American manufacturer and retailer of outdoors wear, with a focus on footwear.",
+                        "Founder Nathan Swartz, born in Odessa, Ukraine, began his shoe making career in Boston, Massachusetts",
+                        "their corporate headquarters are located in Stratham, New Hampshire"
+                    ],
+                    "en-US": [
+                        "The Company is an American manufacturer and retailer of outdoors wear, with a focus on footwear.",
+                        "Founder Nathan Swartz, born in Odessa, Ukraine, began his shoe making career in Boston, Massachusetts",
+                        "their corporate headquarters are located in Stratham, New Hampshire"
+                    ],
+                    "en-AU": [
+                        "The Company is an American manufacturer and retailer of outdoors wear, with a focus on footwear.",
+                        "Founder Nathan Swartz, born in Odessa, Ukraine, began his shoe making career in Boston, Massachusetts",
+                        "their corporate headquarters are located in Stratham, New Hampshire"
+                    ],
+                    "en-CA": [
+                        "The Company is an American manufacturer and retailer of outdoors wear, with a focus on footwear.",
+                        "Founder Nathan Swartz, born in Odessa, Ukraine, began his shoe making career in Boston, Massachusetts",
+                        "their corporate headquarters are located in Stratham, New Hampshire"
+                    ],
+                    "en-IN": [
+                        "The Company is an American manufacturer and retailer of outdoors wear, with a focus on footwear.",
+                        "Founder Nathan Swartz, born in Odessa, Ukraine, began his shoe making career in Boston, Massachusetts",
+                        "their corporate headquarters are located in Stratham, New Hampshire"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Netflix",
+			"Question": {
+                    "en-GB": "What is the name of this media company?",
+                    "en-US": "What is the name of this media company?",
+                    "en-AU": "What is the name of this media company?",
+                    "en-CA": "What is the name of this media company?",
+                    "en-IN": "What is the name of this media company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Netflix.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Netflix.png",
+            "Utterances": [
+                "Netflix",
+                "Net flix",
+                "net flicks",
+                "netflicks",
+                "net flick"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California.",
+                        "Thier Initial business model included DVD sales and rentals, although Hastings jettisoned DVD sales about a year after founding the company to focus on the DVD rental by mail business",
+                        "they entered the content-production industry in 2013, debuting its first series, House of Cards"
+                    ],
+                    "en-US": [
+                        "It is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California.",
+                        "Thier Initial business model included DVD sales and rentals, although Hastings jettisoned DVD sales about a year after founding the company to focus on the DVD rental by mail business",
+                        "they entered the content-production industry in 2013, debuting its first series, House of Cards"
+                    ],
+                    "en-AU": [
+                        "It is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California.",
+                        "Thier Initial business model included DVD sales and rentals, although Hastings jettisoned DVD sales about a year after founding the company to focus on the DVD rental by mail business",
+                        "they entered the content-production industry in 2013, debuting its first series, House of Cards"
+                    ],
+                    "en-CA": [
+                        "It is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California.",
+                        "Thier Initial business model included DVD sales and rentals, although Hastings jettisoned DVD sales about a year after founding the company to focus on the DVD rental by mail business",
+                        "they entered the content-production industry in 2013, debuting its first series, House of Cards"
+                    ],
+                    "en-IN": [
+                        "It is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California.",
+                        "Thier Initial business model included DVD sales and rentals, although Hastings jettisoned DVD sales about a year after founding the company to focus on the DVD rental by mail business",
+                        "they entered the content-production industry in 2013, debuting its first series, House of Cards"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Napster",
+			"Question": {
+                    "en-GB": "What is the name of this media company?",
+                    "en-US": "What is the name of this media company?",
+                    "en-AU": "What is the name of this media company?",
+                    "en-CA": "What is the name of this media company?",
+                    "en-IN": "What is the name of this media company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Napster.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Napster.png",
+            "Utterances": [
+                "Napster",
+                "Nap stir",
+                "nap ster",
+                "knap ster",
+                "knapstir",
+                "napstir",
+                "nap stair",
+                "knap stair"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded as a pioneering peer-to-peer file sharing Internet service that emphasized sharing digital audio files.",
+                        "The company ran into legal difficulties over copyright infringement. It ceased operations and was eventually acquired by Roxio",
+                        "In its second incarnation, the company became an online music store until it was acquired by Rhapsody in 2011"
+                    ],
+                    "en-US": [
+                        "It was founded as a pioneering peer-to-peer file sharing Internet service that emphasized sharing digital audio files.",
+                        "The company ran into legal difficulties over copyright infringement. It ceased operations and was eventually acquired by Roxio",
+                        "In its second incarnation, the company became an online music store until it was acquired by Rhapsody in 2011"
+                    ],
+                    "en-AU": [
+                        "It was founded as a pioneering peer-to-peer file sharing Internet service that emphasized sharing digital audio files.",
+                        "The company ran into legal difficulties over copyright infringement. It ceased operations and was eventually acquired by Roxio",
+                        "In its second incarnation, the company became an online music store until it was acquired by Rhapsody in 2011"
+                    ],
+                    "en-CA": [
+                        "It was founded as a pioneering peer-to-peer file sharing Internet service that emphasized sharing digital audio files.",
+                        "The company ran into legal difficulties over copyright infringement. It ceased operations and was eventually acquired by Roxio",
+                        "In its second incarnation, the company became an online music store until it was acquired by Rhapsody in 2011"
+                    ],
+                    "en-IN": [
+                        "It was founded as a pioneering peer-to-peer file sharing Internet service that emphasized sharing digital audio files.",
+                        "The company ran into legal difficulties over copyright infringement. It ceased operations and was eventually acquired by Roxio",
+                        "In its second incarnation, the company became an online music store until it was acquired by Rhapsody in 2011"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Mazda",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Mazda.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Mazda.png",
+            "Utterances": [
+                "Mazda",
+                "maz da",
+                "maz dar",
+                "mazdar",
+                "Masdar",
+                "Mas dar",
+                "Maz der",
+                "mas der",
+                "masder"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is a Japanese multinational automaker based in Fuchū, Aki District, Hiroshima Prefecture, Japan",
+                        "The current brand name came into existence with the production of the Company's first three-wheeled trucks. Other candidates for a model name included Sumera-Go, Tenshi-Go and more.",
+                        "the company was inspired by the NSU Ro 80, and decided to put a major engineering effort into development of the Wankel rotary engine as a way of differentiating itself from other Japanese auto companies."
+                    ],
+                    "en-US": [
+                        "The company is a Japanese multinational automaker based in Fuchū, Aki District, Hiroshima Prefecture, Japan",
+                        "The current brand name came into existence with the production of the Company's first three-wheeled trucks. Other candidates for a model name included Sumera-Go, Tenshi-Go and more.",
+                        "the company was inspired by the NSU Ro 80, and decided to put a major engineering effort into development of the Wankel rotary engine as a way of differentiating itself from other Japanese auto companies."
+                    ],
+                    "en-AU": [
+                        "The company is a Japanese multinational automaker based in Fuchū, Aki District, Hiroshima Prefecture, Japan",
+                        "The current brand name came into existence with the production of the Company's first three-wheeled trucks. Other candidates for a model name included Sumera-Go, Tenshi-Go and more.",
+                        "the company was inspired by the NSU Ro 80, and decided to put a major engineering effort into development of the Wankel rotary engine as a way of differentiating itself from other Japanese auto companies."
+                    ],
+                    "en-CA": [
+                        "The company is a Japanese multinational automaker based in Fuchū, Aki District, Hiroshima Prefecture, Japan",
+                        "The current brand name came into existence with the production of the Company's first three-wheeled trucks. Other candidates for a model name included Sumera-Go, Tenshi-Go and more.",
+                        "the company was inspired by the NSU Ro 80, and decided to put a major engineering effort into development of the Wankel rotary engine as a way of differentiating itself from other Japanese auto companies."
+                    ],
+                    "en-IN": [
+                        "The company is a Japanese multinational automaker based in Fuchū, Aki District, Hiroshima Prefecture, Japan",
+                        "The current brand name came into existence with the production of the Company's first three-wheeled trucks. Other candidates for a model name included Sumera-Go, Tenshi-Go and more.",
+                        "the company was inspired by the NSU Ro 80, and decided to put a major engineering effort into development of the Wankel rotary engine as a way of differentiating itself from other Japanese auto companies."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }

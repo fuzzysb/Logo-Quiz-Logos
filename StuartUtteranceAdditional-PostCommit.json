@@ -77,6 +77,76 @@
                 "bark lays"
               ]
             }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "DreamWorks",
+              "synonyms": [
+                "Dream Works",
+                "dreem work",
+                "dream work",
+                "dreamworks studios",
+                "dream works studios"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Timberland",
+              "synonyms": [
+                "Timber land",
+                "tim ber land",
+                "tim berland",
+                "tomberland",
+                "tom ber lan",
+                "tom ber land"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Netflix",
+              "synonyms": [
+                "Net flix",
+                "net flicks",
+                "netflicks",
+                "net flick"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Napster",
+              "synonyms": [
+                "Nap stir",
+                "nap ster",
+                "knap ster",
+                "knapstir",
+                "napstir",
+                "nap stair",
+                "knap stair"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mazda",
+              "synonyms": [
+                "maz da",
+                "maz dar",
+                "mazdar",
+                "Masdar",
+                "Mas dar",
+                "Maz der",
+                "mas der",
+                "masder"
+              ]
+            }
           }
         ]
       }
