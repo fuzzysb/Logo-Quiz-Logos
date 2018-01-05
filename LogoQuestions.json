@@ -1931,6 +1931,278 @@
             "Languages": [
                 "All"
             ]
+        },
+        {
+            "Name": "Bank Of America",
+			"Question": {
+                    "en-US": "What is the name of this finance company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BankOfAmerica.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BankOfAmerica.png",
+            "Utterances": [
+                "bank of america",
+                "bank of ameerica",
+                "bank of ameer ica",
+                "bank of american",
+                "bankof america",
+                "bankof ameer ica"
+            ],
+			"Hints": {
+                    "en-US": [
+                        "The company is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina, United States",
+                        "The Company was the 26th largest company in the United States by total revenue. In 2016",
+                        "Its acquisition of Merrill Lynch in 2008 made it the worlds largest wealth management corporation and a major player in the investment banking market."
+                    ]
+                    },
+            "Languages": [
+                "en-US"
+            ]
+        },
+        {
+            "Name": "Porsche",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Porsche.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Porsche.png",
+            "Utterances": [
+                "Porsche",
+                "porsh",
+                "pourche",
+                "porscher",
+                "pour che"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The Company is a German automobile manufacturer specialising in high-performance sports cars, SUVs and sedans.",
+                        "Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name.",
+                        "The company logo was based on the coat of arms of the Free People's State of Württemberg of former Weimar Germany, which had Stuttgart as its capital."
+                    ],
+                    "en-US": [
+                        "The Company is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans.",
+                        "Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name.",
+                        "The company logo was based on the coat of arms of the Free People's State of Württemberg of former Weimar Germany, which had Stuttgart as its capital."
+                    ],
+                    "en-AU": [
+                        "The Company is a German automobile manufacturer specialising in high-performance sports cars, SUVs and sedans.",
+                        "Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name.",
+                        "The company logo was based on the coat of arms of the Free People's State of Württemberg of former Weimar Germany, which had Stuttgart as its capital."
+                    ],
+                    "en-CA": [
+                        "The Company is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans.",
+                        "Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name.",
+                        "The company logo was based on the coat of arms of the Free People's State of Württemberg of former Weimar Germany, which had Stuttgart as its capital."
+                    ],
+                    "en-IN": [
+                        "The Company is a German automobile manufacturer specialising in high-performance sports cars, SUVs and sedans.",
+                        "Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name.",
+                        "The company logo was based on the coat of arms of the Free People's State of Württemberg of former Weimar Germany, which had Stuttgart as its capital."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Jaguar",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Jaguar.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Jaguar.png",
+            "Utterances": [
+                "Jaguar",
+                "Jag guar",
+                "ja guar",
+                "jag gwar",
+                "ja gwar"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The Company usiness was founded as the Swallow Sidecar Company in 1922, originally making motorcycle sidecars.",
+                        "The company was spun off from British Leyland and was listed on the London Stock Exchange in 1984",
+                        "The company was acquired by Ford in 1990"
+                    ],
+                    "en-US": [
+                        "The Company usiness was founded as the Swallow Sidecar Company in 1922, originally making motorcycle sidecars.",
+                        "The company was spun off from British Leyland and was listed on the London Stock Exchange in 1984",
+                        "The company was acquired by Ford in 1990"
+                    ],
+                    "en-AU": [
+                        "The Company usiness was founded as the Swallow Sidecar Company in 1922, originally making motorcycle sidecars.",
+                        "The company was spun off from British Leyland and was listed on the London Stock Exchange in 1984",
+                        "The company was acquired by Ford in 1990"
+                    ],
+                    "en-CA": [
+                        "The Company usiness was founded as the Swallow Sidecar Company in 1922, originally making motorcycle sidecars.",
+                        "The company was spun off from British Leyland and was listed on the London Stock Exchange in 1984",
+                        "The company was acquired by Ford in 1990"
+                    ],
+                    "en-IN": [
+                        "The Company usiness was founded as the Swallow Sidecar Company in 1922, originally making motorcycle sidecars.",
+                        "The company was spun off from British Leyland and was listed on the London Stock Exchange in 1984",
+                        "The company was acquired by Ford in 1990"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Mitsubishi",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Mitsubishi.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Mitsubishi.png",
+            "Utterances": [
+                "Mitsubishi",
+                "mitzubishi",
+                "mitzu bishi",
+                "mitsy bishy",
+                "mitsu bishy",
+                "mitzubishy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "A unified company which existed from 1870, founded by Iwasaki Yatarō, to 1947 and was disbanded during the occupation of Japan following World War II.",
+                        "In 1881, the company bought into coal mining by acquiring the Takashima Mine, followed by Hashima Island in 1890, using the production to fuel their extensive steamship fleet.",
+                        "In 1921 the company invited British Sopwith Camel designer Herbert Smith, along with several other former Sopwith engineers to assist in creating an aircraft manufacturing division"
+                    ],
+                    "en-US": [
+                        "A unified company which existed from 1870, founded by Iwasaki Yatarō, to 1947 and was disbanded during the occupation of Japan following World War II.",
+                        "In 1881, the company bought into coal mining by acquiring the Takashima Mine, followed by Hashima Island in 1890, using the production to fuel their extensive steamship fleet.",
+                        "In 1921 the company invited British Sopwith Camel designer Herbert Smith, along with several other former Sopwith engineers to assist in creating an aircraft manufacturing division"
+                    ],
+                    "en-AU": [
+                        "A unified company which existed from 1870, founded by Iwasaki Yatarō, to 1947 and was disbanded during the occupation of Japan following World War II.",
+                        "In 1881, the company bought into coal mining by acquiring the Takashima Mine, followed by Hashima Island in 1890, using the production to fuel their extensive steamship fleet.",
+                        "In 1921 the company invited British Sopwith Camel designer Herbert Smith, along with several other former Sopwith engineers to assist in creating an aircraft manufacturing division"
+                    ],
+                    "en-CA": [
+                        "A unified company which existed from 1870, founded by Iwasaki Yatarō, to 1947 and was disbanded during the occupation of Japan following World War II.",
+                        "In 1881, the company bought into coal mining by acquiring the Takashima Mine, followed by Hashima Island in 1890, using the production to fuel their extensive steamship fleet.",
+                        "In 1921 the company invited British Sopwith Camel designer Herbert Smith, along with several other former Sopwith engineers to assist in creating an aircraft manufacturing division"
+                    ],
+                    "en-IN": [
+                        "A unified company which existed from 1870, founded by Iwasaki Yatarō, to 1947 and was disbanded during the occupation of Japan following World War II.",
+                        "In 1881, the company bought into coal mining by acquiring the Takashima Mine, followed by Hashima Island in 1890, using the production to fuel their extensive steamship fleet.",
+                        "In 1921 the company invited British Sopwith Camel designer Herbert Smith, along with several other former Sopwith engineers to assist in creating an aircraft manufacturing division"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Red Bull",
+			"Question": {
+                    "en-GB": "What is the name of this beverage company?",
+                    "en-US": "What is the name of this beverage company?",
+                    "en-AU": "What is the name of this beverage company?",
+                    "en-CA": "What is the name of this beverage company?",
+                    "en-IN": "What is the name of this beverage company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/RedBull.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/RedBull.png",
+            "Utterances": [
+                "Red Bull",
+                "redbull",
+                "red bully",
+                "red bule",
+                "red bulls",
+                "bed bull"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company has the highest market share of any energy drink in the world, with 6.06 billion cans sold in 2016.",
+                        "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink named Krating Daeng, which was first introduced and sold in Thailand by Chaleo Yoovidhya.",
+                        "The company gives you wings."
+                    ],
+                    "en-US": [
+                        "The company has the highest market share of any energy drink in the world, with 6.06 billion cans sold in 2016.",
+                        "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink named Krating Daeng, which was first introduced and sold in Thailand by Chaleo Yoovidhya.",
+                        "The company gives you wings."
+                    ],
+                    "en-AU": [
+                        "The company has the highest market share of any energy drink in the world, with 6.06 billion cans sold in 2016.",
+                        "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink named Krating Daeng, which was first introduced and sold in Thailand by Chaleo Yoovidhya.",
+                        "The company gives you wings."
+                    ],
+                    "en-CA": [
+                        "The company has the highest market share of any energy drink in the world, with 6.06 billion cans sold in 2016.",
+                        "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink named Krating Daeng, which was first introduced and sold in Thailand by Chaleo Yoovidhya.",
+                        "The company gives you wings."
+                    ],
+                    "en-IN": [
+                        "The company has the highest market share of any energy drink in the world, with 6.06 billion cans sold in 2016.",
+                        "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink named Krating Daeng, which was first introduced and sold in Thailand by Chaleo Yoovidhya.",
+                        "The company gives you wings."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+        },
+        {
+            "Name": "Barclays",
+			"Question": {
+                    "en-GB": "What is the name of this finance company?",
+                    "en-US": "What is the name of this finance company?",
+                    "en-AU": "What is the name of this finance company?",
+                    "en-CA": "What is the name of this finance company?",
+                    "en-IN": "What is the name of this finance company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Barclays.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Barclays.png",
+            "Utterances": [
+                "Barclays",
+                "Barclays Bank",
+                "bark lays bank",
+                "bark lays"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a British multinational bank and financial services company headquartered in London",
+                        "It traces its origins to a goldsmith banking business established in the City of London in 1690",
+                        "The current company name became associated with the business in 1736, when the son in law of John Freame, one of the founders, became a partner in the business."
+                    ],
+                    "en-US": [
+                        "It is a British multinational bank and financial services company headquartered in London",
+                        "It traces its origins to a goldsmith banking business established in the City of London in 1690",
+                        "The current company name became associated with the business in 1736, when the son in law of John Freame, one of the founders, became a partner in the business."
+                    ],
+                    "en-AU": [
+                        "It is a British multinational bank and financial services company headquartered in London",
+                        "It traces its origins to a goldsmith banking business established in the City of London in 1690",
+                        "The current company name became associated with the business in 1736, when the son in law of John Freame, one of the founders, became a partner in the business."
+                    ],
+                    "en-CA": [
+                        "It is a British multinational bank and financial services company headquartered in London",
+                        "It traces its origins to a goldsmith banking business established in the City of London in 1690",
+                        "The current company name became associated with the business in 1736, when the son in law of John Freame, one of the founders, became a partner in the business."
+                    ],
+                    "en-IN": [
+                        "It is a British multinational bank and financial services company headquartered in London",
+                        "It traces its origins to a goldsmith banking business established in the City of London in 1690",
+                        "The current company name became associated with the business in 1736, when the son in law of John Freame, one of the founders, became a partner in the business."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
         }
     ]
 }

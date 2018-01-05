@@ -1,0 +1,86 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "AnswerType",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Bank Of America",
+              "synonyms": [
+                "bank of ameerica",
+                "bank of ameer ica",
+                "bank of american",
+                "bankof america",
+                "bankof ameer ica"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Porsche",
+              "synonyms": [
+                "porsh",
+                "pourche",
+                "porscher",
+                "pour che"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Jaguar",
+              "synonyms": [
+                "Jag guar",
+                "ja guar",
+                "jag gwar",
+                "ja gwar"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mitsubishi",
+              "synonyms": [
+                "mitzubishi",
+                "mitzu bishi",
+                "mitsy bishy",
+                "mitsu bishy",
+                "mitzubishy"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Red Bull",
+              "synonyms": [
+                "redbull",
+                "red bully",
+                "red bule",
+                "red bulls",
+                "bed bull"
+              ]
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Barclays",
+              "synonyms": [
+                "Barclays Bank",
+                "bark lays bank",
+                "bark lays"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
+        
