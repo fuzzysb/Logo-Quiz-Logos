@@ -147,7 +147,120 @@
                 "masder"
               ]
             }
-          }
+          },
+          { 
+            "id": null,
+            "name": {
+            "value": "Bandai Namco",
+            "synonyms": [
+                "Bandai",
+                "Bandai Namco",
+                "Ban Dye",
+                "Namco",
+                "Ben Dye",
+                "Bandai Entertainment",
+                "Namco Entertainment",
+                "Bandai Namco Entertainment",
+                "Bandai Games",
+                "Namco Games"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Maersk",
+            "synonyms": [
+                "Maersk Shipping",
+                "Mersk",
+                "Marsk",
+                "Mursk",
+                "AP Moller",
+                "AP Moller-Maersk",
+                "AP Moller-Mersk",
+                "AP Moller-Mursk",
+                "AP Moller-Marsk"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Spotify",
+            "synonyms": [
+                "Spotify Dot Com",
+                "Spotify Music",
+                "Spot Ify",
+                "Spatafy"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Pioneer",
+            "synonyms": [
+                "Pioneer Music",
+                "Pioneer DJ"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Balenciaga",
+            "synonyms": [
+                "Balance Ciaga",
+                "Balen Ciaga"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Koenigsegg",
+            "synonyms": [
+                "Koenigsegg Cars",
+                "Co En Ig Seg",
+                "Coen Iseg",
+                "Co En I Seg"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Microsoft",
+            "synonyms": [
+                "Microsoft Windows",
+                "Microsoft Corporation",
+                "Micrasoft",
+                "Micrisoft"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Dolby",
+            "synonyms": [
+                "Dolby Audio",
+                "Dolby Laboratories",
+                "Dolby Labs",
+                "Dolby Systems"
+            ]
+            }
+        },
+        { 
+            "id": null,
+            "name": {
+            "value": "Sanyo",
+            "synonyms": [
+                "Sanyo Electronics",
+                "Sandyo"
+            ]
+            }
+        }
         ]
       }
     ]
