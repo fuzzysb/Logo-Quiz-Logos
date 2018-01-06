@@ -153,7 +153,6 @@
         "name": {
         "value": "Maersk",
         "synonyms": [
-            "Maersk",
             "Maersk Shipping",
             "Mersk",
             "Marsk",
@@ -171,7 +170,6 @@
         "name": {
         "value": "Spotify",
         "synonyms": [
-            "Spotify",
             "Spotify Dot Com",
             "Spotify Music",
             "Spot Ify",
@@ -184,7 +182,6 @@
         "name": {
         "value": "Pioneer",
         "synonyms": [
-            "Pioneer",
             "Pioneer Music",
             "Pioneer DJ"
         ]
@@ -195,7 +192,6 @@
         "name": {
         "value": "Balenciaga",
         "synonyms": [
-            "Balenciaga",
             "Balance Ciaga",
             "Balen Ciaga"
         ]
@@ -206,7 +202,6 @@
         "name": {
         "value": "Koenigsegg",
         "synonyms": [
-            "Koenigsegg",
             "Koenigsegg Cars",
             "Co En Ig Seg",
             "Coen Iseg",
@@ -219,7 +214,6 @@
         "name": {
         "value": "Microsoft",
         "synonyms": [
-            "Microsoft",
             "Microsoft Windows",
             "Microsoft Corporation",
             "Micrasoft",
@@ -232,7 +226,6 @@
         "name": {
         "value": "Dolby",
         "synonyms": [
-            "Dolby",
             "Dolby Audio",
             "Dolby Laboratories",
             "Dolby Labs",
@@ -245,7 +238,6 @@
         "name": {
         "value": "Sanyo",
         "synonyms": [
-            "Sanyo",
             "Sanyo Electronics",
             "Sandyo"
         ]
