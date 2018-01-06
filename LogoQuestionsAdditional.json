@@ -549,5 +549,459 @@
             ]
 			
         },
+        {
+            "Name": "Bandai Namco",
+			"Question": {
+                    "en-GB": "What is the name of this video games company?",
+                    "en-US": "What is the name of this video games company?",
+                    "en-AU": "What is the name of this video games company?",
+                    "en-CA": "What is the name of this video games company?",
+                    "en-IN": "What is the name of this video games company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/BandaiNamco.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/BandaiNamco.png",
+            "Utterances": [
+                "Bandai",
+                "Bandai Namco",
+                "Ban Dye",
+                "Namco",
+                "Ben Dye",
+                "Bandai Entertainment",
+                "Namco Entertainment",
+                "Bandai Namco Entertainment",
+                "Bandai Games",
+                "Namco Games"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Tokyo, Japan in 1955 by Masaya Nakamura",
+                        "They published the popular arcade game Pac-Man in 1980",
+                        "The company releases videos, music, and other entertainment products as well as games"
+                    ],
+                    "en-US": [
+                        "It was founded in Tokyo, Japan in 1955 by Masaya Nakamura",
+                        "They published the popular arcade game Pac-Man in 1980",
+                        "The company releases videos, music, and other entertainment products as well as games"
+                    ],
+                    "en-AU": [
+                        "It was founded in Tokyo, Japan in 1955 by Masaya Nakamura",
+                        "They published the popular arcade game Pac-Man in 1980",
+                        "The company releases videos, music, and other entertainment products as well as games"
+                    ],
+                    "en-CA": [
+                        "It was founded in Tokyo, Japan in 1955 by Masaya Nakamura",
+                        "They published the popular arcade game Pac-Man in 1980",
+                        "The company releases videos, music, and other entertainment products as well as games"
+                    ],
+                    "en-IN": [
+                        "It was founded in Tokyo, Japan in 1955 by Masaya Nakamura",
+                        "They published the popular arcade game Pac-Man in 1980",
+                        "The company releases videos, music, and other entertainment products as well as games"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Maersk",
+			"Question": {
+                    "en-GB": "What is the name of this logistics company?",
+                    "en-US": "What is the name of this logistics company?",
+                    "en-AU": "What is the name of this logistics company?",
+                    "en-CA": "What is the name of this logistics company?",
+                    "en-IN": "What is the name of this logistics company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Maersk.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Maersk.png",
+            "Utterances": [
+                "Maersk",
+                "Maersk Shipping",
+                "Mersk",
+                "Marsk",
+                "Mursk",
+                "AP Moller",
+                "AP Moller-Maersk",
+                "AP Moller-Mersk",
+                "AP Moller-Mursk",
+                "AP Moller-Marsk"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company was founded in Copenhagen, Denmark in 1904 by Arnold Peter Møller",
+                        "It is the largest container ship and supply vessell operator in the world",
+                        "The company currently employs around 88,000 people"
+                    ],
+                    "en-US": [
+                        "The company was founded in Copenhagen, Denmark in 1904 by Arnold Peter Møller",
+                        "It is the largest container ship and supply vessell operator in the world",
+                        "The company currently employs around 88,000 people"
+                    ],
+                    "en-AU": [
+                        "The company was founded in Copenhagen, Denmark in 1904 by Arnold Peter Møller",
+                        "It is the largest container ship and supply vessell operator in the world",
+                        "The company currently employs around 88,000 people"
+                    ],
+                    "en-CA": [
+                        "The company was founded in Copenhagen, Denmark in 1904 by Arnold Peter Møller",
+                        "It is the largest container ship and supply vessell operator in the world",
+                        "The company currently employs around 88,000 people"
+                    ],
+                    "en-IN": [
+                        "The company was founded in Copenhagen, Denmark in 1904 by Arnold Peter Møller",
+                        "It is the largest container ship and supply vessell operator in the world",
+                        "The company currently employs around 88,000 people"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Spotify",
+			"Question": {
+                    "en-GB": "What is the name of this music streaming service?",
+                    "en-US": "What is the name of this music streaming service?",
+                    "en-AU": "What is the name of this music streaming service?",
+                    "en-CA": "What is the name of this music streaming service?",
+                    "en-IN": "What is the name of this music streaming service?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Spotify.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Spotify.png",
+            "Utterances": [
+                "Spotify",
+                "Spotify Dot Com",
+                "Spotify Music",
+                "Spot Ify",
+                "Spatafy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company was founded in 2006 in Stockholm Sweden by Daniel Ek and Martin Lorentzon",
+                        "It had more than 140 million monthly active users and more than 70 million paying subscribers",
+                        "The company currently has three different payment plans"
+                    ],
+                    "en-US": [
+                        "The company was founded in 2006 in Stockholm Sweden by Daniel Ek and Martin Lorentzon",
+                        "It had more than 140 million monthly active users and more than 70 million paying subscribers",
+                        "The company currently has three different payment plans"
+                    ],
+                    "en-AU": [
+                        "The company was founded in 2006 in Stockholm Sweden by Daniel Ek and Martin Lorentzon",
+                        "It had more than 140 million monthly active users and more than 70 million paying subscribers",
+                        "The company currently has three different payment plans"
+                    ],
+                    "en-CA": [
+                        "The company was founded in 2006 in Stockholm Sweden by Daniel Ek and Martin Lorentzon",
+                        "It had more than 140 million monthly active users and more than 70 million paying subscribers",
+                        "The company currently has three different payment plans"
+                    ],
+                    "en-IN": [
+                        "The company was founded in 2006 in Stockholm Sweden by Daniel Ek and Martin Lorentzon",
+                        "It had more than 140 million monthly active users and more than 70 million paying subscribers",
+                        "The company currently has three different payment plans"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Pioneer",
+			"Question": {
+                    "en-GB": "What is the name of this digital entertainment company?",
+                    "en-US": "What is the name of this digital entertainment company?",
+                    "en-AU": "What is the name of this digital entertainment company?",
+                    "en-CA": "What is the name of this digital entertainment company?",
+                    "en-IN": "What is the name of this digital entertainment company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Pioneer.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Pioneer.png",
+            "Utterances": [
+                "Pioneer",
+                "Pioneer Music",
+                "Pioneer DJ"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player and more",
+                        "The company was founded in Tokyo, Japan in 1938",
+                        "The company specialises in DJ and audio equipment"
+                    ],
+                    "en-US": [
+                        "They played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player and more",
+                        "The company was founded in Tokyo, Japan in 1938",
+                        "The company specialises in DJ and audio equipment"
+                    ],
+                    "en-AU": [
+                        "They played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player and more",
+                        "The company was founded in Tokyo, Japan in 1938",
+                        "The company specialises in DJ and audio equipment"
+                    ],
+                    "en-CA": [
+                        "They played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player and more",
+                        "The company was founded in Tokyo, Japan in 1938",
+                        "The company specialises in DJ and audio equipment"
+                    ],
+                    "en-IN": [
+                        "They played a role in the development of interactive cable TV, the Laser Disc player, the first automotive Compact Disc player and more",
+                        "The company was founded in Tokyo, Japan in 1938",
+                        "The company specialises in DJ and audio equipment"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Balenciaga",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Balenciaga.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Balenciaga.png",
+            "Utterances": [
+                "Balenciaga",
+                "Balance Ciaga",
+                "Balen Ciaga"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Paris, France in 1919",
+                        "They are makers of luxury clothing and acessories",
+                        "The company is now owned by the French multinational company Kering"
+                    ],
+                    "en-US": [
+                        "It was founded in Paris, France in 1919",
+                        "They are makers of luxury clothing and acessories",
+                        "The company is now owned by the French multinational company Kering"
+                    ],
+                    "en-AU": [
+                        "It was founded in Paris, France in 1919",
+                        "They are makers of luxury clothing and acessories",
+                        "The company is now owned by the French multinational company Kering"
+                    ],
+                    "en-CA": [
+                        "It was founded in Paris, France in 1919",
+                        "They are makers of luxury clothing and acessories",
+                        "The company is now owned by the French multinational company Kering"
+                    ],
+                    "en-IN": [
+                        "It was founded in Paris, France in 1919",
+                        "They are makers of luxury clothing and acessories",
+                        "The company is now owned by the French multinational company Kering"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Koenigsegg",
+			"Question": {
+                    "en-GB": "What is the name of this luxury car company?",
+                    "en-US": "What is the name of this luxury car company?",
+                    "en-AU": "What is the name of this luxury car company?",
+                    "en-CA": "What is the name of this luxury car company?",
+                    "en-IN": "What is the name of this luxury car company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Koenigsegg.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Koenigsegg.png",
+            "Utterances": [
+                "Koenigsegg",
+                "Koenigsegg Cars",
+                "Co En Ig Seg",
+                "Coen Iseg",
+                "Co En I Seg"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a swedish manufacturer of high performance cars",
+                        "The company was founded in 1994 in Ängelholm, Scania, Sweden",
+                        "They are the makers of the current fastest production vehicle reaching 277mph"
+                    ],
+                    "en-US": [
+                        "It is a swedish manufacturer of high performance cars",
+                        "The company was founded in 1994 in Ängelholm, Scania, Sweden",
+                        "They are the makers of the current fastest production vehicle reaching 277mph"
+                    ],
+                    "en-AU": [
+                        "It is a swedish manufacturer of high performance cars",
+                        "The company was founded in 1994 in Ängelholm, Scania, Sweden",
+                        "They are the makers of the current fastest production vehicle reaching 277mph"
+                    ],
+                    "en-CA": [
+                        "It is a swedish manufacturer of high performance cars",
+                        "The company was founded in 1994 in Ängelholm, Scania, Sweden",
+                        "They are the makers of the current fastest production vehicle reaching 277mph"
+                    ],
+                    "en-IN": [
+                        "It is a swedish manufacturer of high performance cars",
+                        "The company was founded in 1994 in Ängelholm, Scania, Sweden",
+                        "They are the makers of the current fastest production vehicle reaching 277mph"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Dolby",
+			"Question": {
+                    "en-GB": "What is the name of this audio company?",
+                    "en-US": "What is the name of this audio company?",
+                    "en-AU": "What is the name of this audio company?",
+                    "en-CA": "What is the name of this audio company?",
+                    "en-IN": "What is the name of this audio company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Dolby.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Dolby.png",
+            "Utterances": [
+                "Dolby",
+                "Dolby Audio",
+                "Dolby Laboratories",
+                "Dolby Labs",
+                "Dolby Systems"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in San Francisco, California in 1965",
+                        "They specialise in audio noise reduction and audio encoding and compression",
+                        "They license their technologies to be used by consumer electronics manufacturers"
+                    ],
+                    "en-US": [
+                        "It was founded in San Francisco, California in 1965",
+                        "They specialise in audio noise reduction and audio encoding and compression",
+                        "They license their technologies to be used by consumer electronics manufacturers"
+                    ],
+                    "en-AU": [
+                        "It was founded in San Francisco, California in 1965",
+                        "They specialise in audio noise reduction and audio encoding and compression",
+                        "They license their technologies to be used by consumer electronics manufacturers"
+                    ],
+                    "en-CA": [
+                        "It was founded in San Francisco, California in 1965",
+                        "They specialise in audio noise reduction and audio encoding and compression",
+                        "They license their technologies to be used by consumer electronics manufacturers"
+                    ],
+                    "en-IN": [
+                        "It was founded in San Francisco, California in 1965",
+                        "They specialise in audio noise reduction and audio encoding and compression",
+                        "They license their technologies to be used by consumer electronics manufacturers"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Sanyo",
+			"Question": {
+                    "en-GB": "What is the name of this electronics company?",
+                    "en-US": "What is the name of this electronics company?",
+                    "en-AU": "What is the name of this electronics company?",
+                    "en-CA": "What is the name of this electronics company?",
+                    "en-IN": "What is the name of this electronics company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Sanyo.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Sanyo.png",
+            "Utterances": [
+                "Sanyo",
+                "Sanyo Electronics",
+                "Sandyo"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Osaka, Japan by Toshio Iue",
+                        "The company's name means three oceans in Japanese, referring to the founder's ambition to sell their products worldwide, across the Atlantic, Pacific, and Indian oceans",
+                        "In 2009, Panasonic completed a 400 billion yen acquisition of a 50.2% stake in the company, making the company a subsidiary of Panasonic"
+                    ],
+                    "en-US": [
+                        "It was founded in Osaka, Japan by Toshio Iue",
+                        "The company's name means three oceans in Japanese, referring to the founder's ambition to sell their products worldwide, across the Atlantic, Pacific, and Indian oceans",
+                        "In 2009, Panasonic completed a 400 billion yen acquisition of a 50.2% stake in the company, making the company a subsidiary of Panasonic"
+                    ],
+                    "en-AU": [
+                        "It was founded in Osaka, Japan by Toshio Iue",
+                        "The company's name means three oceans in Japanese, referring to the founder's ambition to sell their products worldwide, across the Atlantic, Pacific, and Indian oceans",
+                        "In 2009, Panasonic completed a 400 billion yen acquisition of a 50.2% stake in the company, making the company a subsidiary of Panasonic"
+                    ],
+                    "en-CA": [
+                        "It was founded in Osaka, Japan by Toshio Iue",
+                        "The company's name means three oceans in Japanese, referring to the founder's ambition to sell their products worldwide, across the Atlantic, Pacific, and Indian oceans",
+                        "In 2009, Panasonic completed a 400 billion yen acquisition of a 50.2% stake in the company, making the company a subsidiary of Panasonic"
+                    ],
+                    "en-IN": [
+                        "It was founded in Osaka, Japan by Toshio Iue",
+                        "The company's name means three oceans in Japanese, referring to the founder's ambition to sell their products worldwide, across the Atlantic, Pacific, and Indian oceans",
+                        "In 2009, Panasonic completed a 400 billion yen acquisition of a 50.2% stake in the company, making the company a subsidiary of Panasonic"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "ADT",
+			"Question": {
+                    "en-GB": "What is the name of this security company?",
+                    "en-US": "What is the name of this security company?",
+                    "en-AU": "What is the name of this security company?",
+                    "en-CA": "What is the name of this security company?",
+                    "en-IN": "What is the name of this security company?"
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/ADT.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/ADT.png",
+            "Utterances": [
+                "ADT Security",
+                "Ay Dee Tee",
+                "ADee Tee",
+                "Ay Dee Tea"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Boca Raton, Florida in 1874",
+                        "The company provide security systems for buglary, fire, monoxide and other factors for both households and businesses",
+                        "It is the largest security company in the United States and Canada, serving over 8 million customers"
+                    ],
+                    "en-US": [
+                        "It was founded in Boca Raton, Florida in 1874",
+                        "The company provide security systems for buglary, fire, monoxide and other factors for both households and businesses",
+                        "It is the largest security company in the United States and Canada, serving over 8 million customers"
+                    ],
+                    "en-AU": [
+                        "It was founded in Boca Raton, Florida in 1874",
+                        "The company provide security systems for buglary, fire, monoxide and other factors for both households and businesses",
+                        "It is the largest security company in the United States and Canada, serving over 8 million customers"
+                    ],
+                    "en-CA": [
+                        "It was founded in Boca Raton, Florida in 1874",
+                        "The company provide security systems for buglary, fire, monoxide and other factors for both households and businesses",
+                        "It is the largest security company in the United States and Canada, serving over 8 million customers"
+                    ],
+                    "en-IN": [
+                        "It was founded in Boca Raton, Florida in 1874",
+                        "The company provide security systems for buglary, fire, monoxide and other factors for both households and businesses",
+                        "It is the largest security company in the United States and Canada, serving over 8 million customers"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+
     ]
 }
