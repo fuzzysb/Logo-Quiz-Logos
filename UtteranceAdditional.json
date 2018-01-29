@@ -2,244 +2,120 @@
     { 
         "id": null,
         "name": {
-        "value": "Amazon",
+        "value": "ADT",
         "synonyms": [
-            "Amazon Dot Com",
-            "Amazon Shopping",
-            "Amazon Online"
+            "Aye Dee Tee",
+            "Ay De Te"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Skype",
+        "value": "Steam",
         "synonyms": [
-            "Skype Dot Com",
-            "Skype Video",
-            "Skype Audio",
-            "Sky Pee",
-            "Sky P"
+            "Steem",
+            "Stem",
+            "Stee M"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Nvidia",
+        "value": "Novation",
         "synonyms": [
-            "Nvidia Gaming",
-            "Nvidia Graphics",
-            "NVideoya",
-            "NVidi Ya"
+            "Novasion",
+            "Novatian"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "AMD",
+        "value": "Github",
         "synonyms": [
-            "Ay Em Dee",
-            "AMDee",
-            "AyM Dee",
-            "AEmDee"
+            "Jithub",
+            "Get Hub",
+            "Gut Hub",
+            "Githab"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Supreme",
+        "value": "Ubisoft",
         "synonyms": [
-            "Supreme Clothing",
-            "Supreme Skateboards",
-            "Supreme Skateboarding",
-            "Suprem"
+            "U Bee Soft",
+            "You Be Soft",
+            "Yu Be Soft"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Cisco",
+        "value": "Vine",
         "synonyms": [
-            "Cisco Networking",
-            "Cisco Networks",
-            "Sis Co",
-            "Sis Co Networking"
+            "Vay Ne",
+            "Vain"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Ducati",
+        "value": "Razer",
         "synonyms": [
-            "Ducati Bikes",
-            "Do Cati",
-            "Due Cati"
+            "Razor",
+            "Ray Zer",
+            "Raise Er",
+            "Raise Her"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Nestle",
+        "value": "Google",
         "synonyms": [
-            "Nestle Food",
-            "Nestlé",
-            "Ness Lay",
-            "Nessles"
+            "Goo Gol",
+            "Goo Gul",
+            "Goggle"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Yamaha",
+        "value": "Superdry",
         "synonyms": [
-            "Yamaha Bikes",
-            "Yamaha Corporation",
-            "Yamaha Music"
+            "Soup Her Dry",
+            "Super Dri"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Rossignol",
+        "value": "Airbnb",
         "synonyms": [
-            "Ross Ig Nol",
-            "Rossignol Outdoor",
-            "Ross Ig Nol Outdoor"
+            "Air B and B",
+            "Air B En B",
+            "Air B on B"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Visa",
+        "value": "Uber",
         "synonyms": [
-            "Vee Sa",
-            "Veesa",
-            "Viza",
-            "Vi Za",
-            "Visa Card",
-            "Viza Card"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Bandai Namco",
-        "synonyms": [
-            "Bandai",
-            "Bandai Namco",
-            "Ban Dye",
-            "Namco",
-            "Ben Dye",
-            "Bandai Entertainment",
-            "Namco Entertainment",
-            "Bandai Namco Entertainment",
-            "Bandai Games",
-            "Namco Games"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Maersk",
-        "synonyms": [
-            "Maersk Shipping",
-            "Mersk",
-            "Marsk",
-            "Mursk",
-            "AP Moller",
-            "AP Moller-Maersk",
-            "AP Moller-Mersk",
-            "AP Moller-Mursk",
-            "AP Moller-Marsk"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Spotify",
-        "synonyms": [
-            "Spotify Dot Com",
-            "Spotify Music",
-            "Spot Ify",
-            "Spatafy"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Pioneer",
-        "synonyms": [
-            "Pioneer Music",
-            "Pioneer DJ"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Balenciaga",
-        "synonyms": [
-            "Balance Ciaga",
-            "Balen Ciaga"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Koenigsegg",
-        "synonyms": [
-            "Koenigsegg Cars",
-            "Co En Ig Seg",
-            "Coen Iseg",
-            "Co En I Seg"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Microsoft",
-        "synonyms": [
-            "Microsoft Windows",
-            "Microsoft Corporation",
-            "Micrasoft",
-            "Micrisoft"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Dolby",
-        "synonyms": [
-            "Dolby Audio",
-            "Dolby Laboratories",
-            "Dolby Labs",
-            "Dolby Systems"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Sanyo",
-        "synonyms": [
-            "Sanyo Electronics",
-            "Sandyo"
+            "Ou Ber",
+            "Ou Bear",
+            "U Ber",
+            "U Bear"
         ]
         }
     },
