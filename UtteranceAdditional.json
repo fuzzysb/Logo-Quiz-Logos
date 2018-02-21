@@ -2,120 +2,101 @@
     { 
         "id": null,
         "name": {
-        "value": "ADT",
+        "value": "Champion ",
         "synonyms": [
-            "Aye Dee Tee",
-            "Ay De Te"
+            "Champyon",
+            "Champion Sport",
+            "Champion Clothing"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Steam",
+        "value": "Goyard",
         "synonyms": [
-            "Steem",
-            "Stem",
-            "Stee M"
+            "Gow Yard",
+            "Go Yurd",
+            "Goyard Paris",
+            "Goyard Clothing"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Novation",
+        "value": "Sony",
         "synonyms": [
-            "Novasion",
-            "Novatian"
+            "Sony Entertainment",
+            "Sony Ericsson",
+            "Sow Knee",
+            "Sue Nee",
+            "Sue Knee"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Github",
+        "value": "Ericsson",
         "synonyms": [
-            "Jithub",
-            "Get Hub",
-            "Gut Hub",
-            "Githab"
+            "Sony Ericsson",
+            "Ericsson Mobile",
+            "Ericsson Corporation",
+            "Ericsson Network",
+            "Erics Son",
+            "Eric Son",
+            "Eric Sun"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Ubisoft",
+        "value": "Fjallraven",
         "synonyms": [
-            "U Bee Soft",
-            "You Be Soft",
-            "Yu Be Soft"
+            "Fjallraven Clothing",
+            "Fjallraven Bags",
+            "Fall Raven",
+            "Yall raven",
+            "FYall Raven",
+            "Fjallraven Kanken",
+            "Kanken",
+            "Fall Raven Kanken",
+            "Fyall Raven Kanken",
+            "Kancoon",
+            "Cancoon",
+            "Fjallraven Cancoon",
+            "Fyall Raven Cancoon"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Vine",
+        "value": "Bitcoin",
         "synonyms": [
-            "Vay Ne",
-            "Vain"
+            "BTC",
+            "Bitcoin Mining",
+            "Bitcoin Currency",
+            "Be Te See",
+            "Bee Tee See",
+            "Bee Tea See",
+            "Bee Tee Sea",
+            "Bee Tee Cee"
         ]
         }
     },
     { 
         "id": null,
         "name": {
-        "value": "Razer",
+        "value": "Soundcloud",
         "synonyms": [
-            "Razor",
-            "Ray Zer",
-            "Raise Er",
-            "Raise Her"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Google",
-        "synonyms": [
-            "Goo Gol",
-            "Goo Gul",
-            "Goggle"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Superdry",
-        "synonyms": [
-            "Soup Her Dry",
-            "Super Dri"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Airbnb",
-        "synonyms": [
-            "Air B and B",
-            "Air B En B",
-            "Air B on B"
-        ]
-        }
-    },
-    { 
-        "id": null,
-        "name": {
-        "value": "Uber",
-        "synonyms": [
-            "Ou Ber",
-            "Ou Bear",
-            "U Ber",
-            "U Bear"
+            "Soundcloud Go",
+            "Soundcloud Streaming",
+            "Soundcloud Music",
+            "Sound Loud",
+            "Sand Cloud"
         ]
         }
     },

@@ -1,378 +1,7 @@
 {
     "Questions": [
         {
-            "Name": "Steam",
-			"Question": {
-                    "en-GB": "What is the name of this video game service?",
-                    "en-US": "What is the name of this video game service?",
-                    "en-AU": "What is the name of this video game service?",
-                    "en-CA": "What is the name of this video game service?",
-                    "en-IN": "What is the name of this video game service?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Steam.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Steam.png",
-            "Utterances": [
-                    "Steam",
-                    "Steem",
-                    "Stem",
-                    "Stee M"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "It is a digital distribution platform developed by Valve Corporation",
-                        "It is the largest digital distribution platform for PC gaming",
-                        "It was released on Septemer 12th 2003"
-                    ],
-                    "en-US": [
-                        "It is a digital distribution platform developed by Valve Corporation",
-                        "It is the largest digital distribution platform for PC gaming",
-                        "It was released on Septemer 12th 2003"
-                    ]
-                    ,
-                    "en-AU": [
-                        "It is a digital distribution platform developed by Valve Corporation",
-                        "It is the largest digital distribution platform for PC gaming",
-                        "It was released on Septemer 12th 2003"
-                    ]
-                    ,
-                    "en-CA": [
-                        "It is a digital distribution platform developed by Valve Corporation",
-                        "It is the largest digital distribution platform for PC gaming",
-                        "It was released on Septemer 12th 2003"
-                    ]
-                    ,
-                    "en-IN": [
-                        "It is a digital distribution platform developed by Valve Corporation",
-                        "It is the largest digital distribution platform for PC gaming",
-                        "It was released on Septemer 12th 2003"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Novation",
-			"Question": {
-                    "en-GB": "What is the name of this musical equipment company?",
-                    "en-US": "What is the name of this musical equipment company?",
-                    "en-AU": "What is the name of this musical equipment company?",
-                    "en-CA": "What is the name of this musical equipment company?",
-                    "en-IN": "What is the name of this musical equipment company?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Novation.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Novation.png",
-            "Utterances": [
-                    "Novation",
-                    "Novasion",
-                    "Novatian"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "It was founded in 1992 by Ian Jannaway and Mark Thompson",
-                        "It is famous for its launchpad line of musical instruments",
-                        "It is headquartered in Wycombe, Buckinghamshire, England"
-                    ],
-                    "en-US": [
-                        "It was founded in 1992 by Ian Jannaway and Mark Thompson",
-                        "It is famous for its launchpad line of musical instruments",
-                        "It is headquartered in Wycombe, Buckinghamshire, England"
-                    ]
-                    ,
-                    "en-AU": [
-                        "It was founded in 1992 by Ian Jannaway and Mark Thompson",
-                        "It is famous for its launchpad line of musical instruments",
-                        "It is headquartered in Wycombe, Buckinghamshire, England"
-                    ]
-                    ,
-                    "en-CA": [
-                        "It was founded in 1992 by Ian Jannaway and Mark Thompson",
-                        "It is famous for its launchpad line of musical instruments",
-                        "It is headquartered in Wycombe, Buckinghamshire, England"
-                    ]
-                    ,
-                    "en-IN": [
-                        "It was founded in 1992 by Ian Jannaway and Mark Thompson",
-                        "It is famous for its launchpad line of musical instruments",
-                        "It is headquartered in Wycombe, Buckinghamshire, England"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Github",
-			"Question": {
-                    "en-GB": "What is the name of this hosting service?",
-                    "en-US": "What is the name of this hosting service?",
-                    "en-AU": "What is the name of this hosting service?",
-                    "en-CA": "What is the name of this hosting service?",
-                    "en-IN": "What is the name of this hosting service?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Github.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Github.png",
-            "Utterances": [
-                    "Github",
-                    "Jithub",
-                    "Get Hub",
-                    "Gut Hub",
-                    "Githab"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "It has almost 20 million users and 57 million repositories, making it the largest host of source code in the world",
-                        "It is mostly used by developers to host and share source code",
-                        "It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath and PJ Hyett"
-                    ],
-                    "en-US": [
-                        "It has almost 20 million users and 57 million repositories, making it the largest host of source code in the world",
-                        "It is mostly used by developers to host and share source code",
-                        "It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath and PJ Hyett"
-                    ]
-                    ,
-                    "en-AU": [
-                        "It has almost 20 million users and 57 million repositories, making it the largest host of source code in the world",
-                        "It is mostly used by developers to host and share source code",
-                        "It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath and PJ Hyett"
-                    ]
-                    ,
-                    "en-CA": [
-                        "It has almost 20 million users and 57 million repositories, making it the largest host of source code in the world",
-                        "It is mostly used by developers to host and share source code",
-                        "It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath and PJ Hyett"
-                    ]
-                    ,
-                    "en-IN": [
-                        "It has almost 20 million users and 57 million repositories, making it the largest host of source code in the world",
-                        "It is mostly used by developers to host and share source code",
-                        "It was founded in 2008 by Tom Preston-Werner, Chris Wanstrath and PJ Hyett"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Ubisoft",
-			"Question": {
-                    "en-GB": "What is the name of this video games company?",
-                    "en-US": "What is the name of this video games company?",
-                    "en-AU": "What is the name of this video games company?",
-                    "en-CA": "What is the name of this video games company?",
-                    "en-IN": "What is the name of this video games company?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ubisoft.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ubisoft.png",
-            "Utterances": [
-                    "Ubisoft",
-                    "U Bee Soft",
-                    "You Be Soft",
-                    "Yu Be Soft"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "They are a French video game publisher, headquartered in Rennes",
-                        "They have published many popular game series such as Assassin's Creed, Far Cry, Just Dance, Prince of Persia, Rayman, and Tom Clancy's",
-                        "It is the fourth largest game company in the Americas and Europe aftyer Activision, Blizzard, Electronic Arts and Take-Two Interactive"
-                    ],
-                    "en-US": [
-                        "They are a French video game publisher, headquartered in Rennes",
-                        "They have published many popular game series such as Assassin's Creed, Far Cry, Just Dance, Prince of Persia, Rayman, and Tom Clancy's",
-                        "It is the fourth largest game company in the Americas and Europe aftyer Activision, Blizzard, Electronic Arts and Take-Two Interactive"
-                    ]
-                    ,
-                    "en-AU": [
-                        "They are a French video game publisher, headquartered in Rennes",
-                        "They have published many popular game series such as Assassin's Creed, Far Cry, Just Dance, Prince of Persia, Rayman, and Tom Clancy's",
-                        "It is the fourth largest game company in the Americas and Europe aftyer Activision, Blizzard, Electronic Arts and Take-Two Interactive"
-                    ]
-                    ,
-                    "en-CA": [
-                        "They are a French video game publisher, headquartered in Rennes",
-                        "They have published many popular game series such as Assassin's Creed, Far Cry, Just Dance, Prince of Persia, Rayman, and Tom Clancy's",
-                        "It is the fourth largest game company in the Americas and Europe aftyer Activision, Blizzard, Electronic Arts and Take-Two Interactive"
-                    ]
-                    ,
-                    "en-IN": [
-                        "They are a French video game publisher, headquartered in Rennes",
-                        "They have published many popular game series such as Assassin's Creed, Far Cry, Just Dance, Prince of Persia, Rayman, and Tom Clancy's",
-                        "It is the fourth largest game company in the Americas and Europe aftyer Activision, Blizzard, Electronic Arts and Take-Two Interactive"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Vine",
-			"Question": {
-                    "en-GB": "What is the name of this video sharing platform?",
-                    "en-US": "What is the name of this video sharing platform?",
-                    "en-AU": "What is the name of this video sharing platform?",
-                    "en-CA": "What is the name of this video sharing platform?",
-                    "en-IN": "What is the name of this video sharing platform?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Vine.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Vine.png",
-            "Utterances": [
-                    "Vine",
-                    "Vay Ne",
-                    "Vain"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "It was a video sharing platform that allowed users to share short 6 second video clips",
-                        "It was launched on January 23, 2013 by Dom Hofmann, Rus Yusupov and Colin Kroll",
-                        "In January 2017, Twitter, who owned the service at the time announced that the platform was shutting down"
-                    ],
-                    "en-US": [
-                        "It was a video sharing platform that allowed users to share short 6 second video clips",
-                        "It was launched on January 23, 2013 by Dom Hofmann, Rus Yusupov and Colin Kroll",
-                        "In January 2017, Twitter, who owned the service at the time announced that the platform was shutting down"
-                    ]
-                    ,
-                    "en-AU": [
-                        "It was a video sharing platform that allowed users to share short 6 second video clips",
-                        "It was launched on January 23, 2013 by Dom Hofmann, Rus Yusupov and Colin Kroll",
-                        "In January 2017, Twitter, who owned the service at the time announced that the platform was shutting down"
-                    ]
-                    ,
-                    "en-CA": [
-                        "It was a video sharing platform that allowed users to share short 6 second video clips",
-                        "It was launched on January 23, 2013 by Dom Hofmann, Rus Yusupov and Colin Kroll",
-                        "In January 2017, Twitter, who owned the service at the time announced that the platform was shutting down"
-                    ]
-                    ,
-                    "en-IN": [
-                        "It was a video sharing platform that allowed users to share short 6 second video clips",
-                        "It was launched on January 23, 2013 by Dom Hofmann, Rus Yusupov and Colin Kroll",
-                        "In January 2017, Twitter, who owned the service at the time announced that the platform was shutting down"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Razer",
-			"Question": {
-                    "en-GB": "What is the name of this popular gaming company?",
-                    "en-US": "What is the name of this popular gaming company?",
-                    "en-AU": "What is the name of this popular gaming company?",
-                    "en-CA": "What is the name of this popular gaming company?",
-                    "en-IN": "What is the name of this popular gaming company?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Razer.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Razer.png",
-            "Utterances": [
-                    "Razer",
-                    "Razor",
-                    "Ray Zer",
-                    "Raise Er",
-                    "Raise Her"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "It is one of the world's most recognizable and best-performing gaming brands and is also considered one of the pioneers of esports as well as one of the biggest brands in esports today",
-                        "It has joint headquarters in Singapore and San Francisco, California",
-                        "It is most recognised for its range of different gaming peripherals"
-                    ],
-                    "en-US": [
-                        "It is one of the world's most recognizable and best-performing gaming brands and is also considered one of the pioneers of esports as well as one of the biggest brands in esports today",
-                        "It has joint headquarters in Singapore and San Francisco, California",
-                        "It is most recognised for its range of different gaming peripherals"
-                    ]
-                    ,
-                    "en-AU": [
-                        "It is one of the world's most recognizable and best-performing gaming brands and is also considered one of the pioneers of esports as well as one of the biggest brands in esports today",
-                        "It has joint headquarters in Singapore and San Francisco, California",
-                        "It is most recognised for its range of different gaming peripherals"
-                    ]
-                    ,
-                    "en-CA": [
-                        "It is one of the world's most recognizable and best-performing gaming brands and is also considered one of the pioneers of esports as well as one of the biggest brands in esports today",
-                        "It has joint headquarters in Singapore and San Francisco, California",
-                        "It is most recognised for its range of different gaming peripherals"
-                    ]
-                    ,
-                    "en-IN": [
-                        "It is one of the world's most recognizable and best-performing gaming brands and is also considered one of the pioneers of esports as well as one of the biggest brands in esports today",
-                        "It has joint headquarters in Singapore and San Francisco, California",
-                        "It is most recognised for its range of different gaming peripherals"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Google",
-			"Question": {
-                    "en-GB": "What is the name of this technology company?",
-                    "en-US": "What is the name of this technology company?",
-                    "en-AU": "What is the name of this technology company?",
-                    "en-CA": "What is the name of this technology company?",
-                    "en-IN": "What is the name of this technology company?"
-                    
-            },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Google.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Google.png",
-            "Utterances": [
-                    "Google",
-                    "Goo Gol",
-                    "Goo Gul",
-                    "Goggle"
-            ],
-			"Hints": {
-                    "en-GB": [
-                        "The company specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware",
-                        "It was founded in 1998 by Larry Page and Sergey Brin",
-                        "It is headquartered in Menlo Park, California"
-                    ],
-                    "en-US": [
-                        "The company specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware",
-                        "It was founded in 1998 by Larry Page and Sergey Brin",
-                        "It is headquartered in Menlo Park, California"
-                    ]
-                    ,
-                    "en-AU": [
-                        "The company specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware",
-                        "It was founded in 1998 by Larry Page and Sergey Brin",
-                        "It is headquartered in Menlo Park, California"
-                    ]
-                    ,
-                    "en-CA": [
-                        "The company specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware",
-                        "It was founded in 1998 by Larry Page and Sergey Brin",
-                        "It is headquartered in Menlo Park, California"
-                    ]
-                    ,
-                    "en-IN": [
-                        "The company specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware",
-                        "It was founded in 1998 by Larry Page and Sergey Brin",
-                        "It is headquartered in Menlo Park, California"
-                    ]
-                    },
-            "Languages": [
-                "All"
-            ]
-			
-        },
-        {
-            "Name": "Superdry",
+            "Name": "Champion",
 			"Question": {
                     "en-GB": "What is the name of this fashion company?",
                     "en-US": "What is the name of this fashion company?",
@@ -381,41 +10,42 @@
                     "en-IN": "What is the name of this fashion company?"
                     
             },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Superdry.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Superdry.png",
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Champion.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Champion.png",
             "Utterances": [
-                    "Superdry",
-                    "Soup Her Dry",
-                    "Super Dri"
+                    "Champion",
+                    "Champyon",
+                    "Champion Sport",
+                    "Champion Clothing"
             ],
 			"Hints": {
                     "en-GB": [
-                        "Its products combine vintage Americana styling with Japanese inspired graphics",
-                        "It was founded in 1985 and is headquartered in Cheltenham, United Kingdom",
-                        "The company's products include frequently meaningless excerpts of Japanese text, inspired by the common Japanese practice of placing decorative English text on items to increase their fashionability and appeal"
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
                     ],
                     "en-US": [
-                        "Its products combine vintage Americana styling with Japanese inspired graphics",
-                        "It was founded in 1985 and is headquartered in Cheltenham, United Kingdom",
-                        "The company's products include frequently meaningless excerpts of Japanese text, inspired by the common Japanese practice of placing decorative English text on items to increase their fashionability and appeal"
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
                     ]
                     ,
                     "en-AU": [
-                        "Its products combine vintage Americana styling with Japanese inspired graphics",
-                        "It was founded in 1985 and is headquartered in Cheltenham, United Kingdom",
-                        "The company's products include frequently meaningless excerpts of Japanese text, inspired by the common Japanese practice of placing decorative English text on items to increase their fashionability and appeal"
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
                     ]
                     ,
                     "en-CA": [
-                        "Its products combine vintage Americana styling with Japanese inspired graphics",
-                        "It was founded in 1985 and is headquartered in Cheltenham, United Kingdom",
-                        "The company's products include frequently meaningless excerpts of Japanese text, inspired by the common Japanese practice of placing decorative English text on items to increase their fashionability and appeal"
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
                     ]
                     ,
                     "en-IN": [
-                        "Its products combine vintage Americana styling with Japanese inspired graphics",
-                        "It was founded in 1985 and is headquartered in Cheltenham, United Kingdom",
-                        "The company's products include frequently meaningless excerpts of Japanese text, inspired by the common Japanese practice of placing decorative English text on items to increase their fashionability and appeal"
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
                     ]
                     },
             "Languages": [
@@ -424,51 +54,52 @@
 			
         },
         {
-            "Name": "Airbnb",
+            "Name": "Goyard",
 			"Question": {
-                    "en-GB": "What is the name of this lodging company?",
-                    "en-US": "What is the name of this lodging company?",
-                    "en-AU": "What is the name of this lodging company?",
-                    "en-CA": "What is the name of this lodging company?",
-                    "en-IN": "What is the name of this lodging company?"
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
                     
             },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Airbnb.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Airbnb.png",
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Goyard.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Goyard.png",
             "Utterances": [
-                    "Airbnb",
-                    "Air B and B",
-                    "Air B En B",
-                    "Air B on B"
+                    "Goyard",
+                    "Gow Yard",
+                    "Go Yurd",
+                    "Goyard Paris",
+                    "Goyard Clothing"
             ],
 			"Hints": {
                     "en-GB": [
-                        "It is an online marketplace and hospitality service",
-                        "It allows individuals to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms",
-                        "It was founded in August 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk"
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
                     ],
                     "en-US": [
-                        "It is an online marketplace and hospitality service",
-                        "It allows individuals to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms",
-                        "It was founded in August 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk"
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
                     ]
                     ,
                     "en-AU": [
-                        "It is an online marketplace and hospitality service",
-                        "It allows individuals to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms",
-                        "It was founded in August 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk"
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
                     ]
                     ,
                     "en-CA": [
-                        "It is an online marketplace and hospitality service",
-                        "It allows individuals to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms",
-                        "It was founded in August 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk"
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
                     ]
                     ,
                     "en-IN": [
-                        "It is an online marketplace and hospitality service",
-                        "It allows individuals to lease or rent short-term lodging including vacation rentals, apartment rentals, homestays, hostel beds, or hotel rooms",
-                        "It was founded in August 2008 by Brian Chesky, Joe Gebbia and Nathan Blecharczyk"
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
                     ]
                     },
             "Languages": [
@@ -477,52 +108,229 @@
 			
         },
         {
-            "Name": "Uber",
+            "Name": "Sony",
 			"Question": {
-                    "en-GB": "What is the name of this popular technology company?",
-                    "en-US": "What is the name of this popular technology company?",
-                    "en-AU": "What is the name of this popular technology company?",
-                    "en-CA": "What is the name of this popular technology company?",
-                    "en-IN": "What is the name of this popular technology company?"
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
                     
             },
-            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Uber.png",
-            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Uber.png",
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Sony.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Sony.png",
             "Utterances": [
-                    "Uber",
-                    "Ou Ber",
-                    "Ou Bear",
-                    "U Ber",
-                    "U Bear"
+                    "Sony",
+                    "Sony Entertainment",
+                    "Sony Ericsson",
+                    "Sow Knee",
+                    "Sue Nee",
+                    "Sue Knee"
             ],
 			"Hints": {
                     "en-GB": [
-                        "It develops, markets and operates car transportation and food delivery mobile apps",
-                        "It offers an alternative to taxi services and operates in many different countries",
-                        "It has been the subject of many protests and legal action since its startup"
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
                     ],
                     "en-US": [
-                        "It develops, markets and operates car transportation and food delivery mobile apps",
-                        "It offers an alternative to taxi services and operates in many different countries",
-                        "It has been the subject of many protests and legal action since its startup"
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
                     ]
                     ,
                     "en-AU": [
-                        "It develops, markets and operates car transportation and food delivery mobile apps",
-                        "It offers an alternative to taxi services and operates in many different countries",
-                        "It has been the subject of many protests and legal action since its startup"
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
                     ]
                     ,
                     "en-CA": [
-                        "It develops, markets and operates car transportation and food delivery mobile apps",
-                        "It offers an alternative to taxi services and operates in many different countries",
-                        "It has been the subject of many protests and legal action since its startup"
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
                     ]
                     ,
                     "en-IN": [
-                        "It develops, markets and operates car transportation and food delivery mobile apps",
-                        "It offers an alternative to taxi services and operates in many different countries",
-                        "It has been the subject of many protests and legal action since its startup"
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Fjallraven",
+			"Question": {
+                    "en-GB": "What is the name of this outdoor company?",
+                    "en-US": "What is the name of this outdoor company?",
+                    "en-AU": "What is the name of this outdoor company?",
+                    "en-CA": "What is the name of this outdoor company?",
+                    "en-IN": "What is the name of this outdoor company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Fjallraven.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Fjallraven.png",
+            "Utterances": [
+                    "Fjallraven",
+                    "Fjallraven Clothing",
+                    "Fjallraven Bags",
+                    "Fall Raven",
+                    "Yall raven",
+                    "FYall Raven",
+                    "Fjallraven Kanken",
+                    "Kanken",
+                    "Fall Raven Kanken",
+                    "Fyall Raven Kanken",
+                    "Kancoon",
+                    "Cancoon",
+                    "Fjallraven Cancoon",
+                    "Fyall Raven Cancoon"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ],
+                    "en-US": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Bitcoin",
+			"Question": {
+                    "en-GB": "What is the name of this cryptocurrency?",
+                    "en-US": "What is the name of this cryptocurrency?",
+                    "en-AU": "What is the name of this cryptocurrency?",
+                    "en-CA": "What is the name of this cryptocurrency?",
+                    "en-IN": "What is the name of this cryptocurrency?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Bitcoin.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Bitcoin.png",
+            "Utterances": [
+                    "Bitcoin",
+                    "BTC",
+                    "Bitcoin Mining",
+                    "Bitcoin Currency",
+                    "Be Te See",
+                    "Bee Tee See",
+                    "Bee Tea See",
+                    "Bee Tee Sea",
+                    "Bee Tee Cee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ],
+                    "en-US": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Soundcloud",
+			"Question": {
+                    "en-GB": "What is the name of this music streaming service?",
+                    "en-US": "What is the name of this music streaming service?",
+                    "en-AU": "What is the name of this music streaming service?",
+                    "en-CA": "What is the name of this music streaming service?",
+                    "en-IN": "What is the name of this music streaming service?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Soundcloud.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Soundcloud.png",
+            "Utterances": [
+                    "Soundcloud",
+                    "Soundcloud Go",
+                    "Soundcloud Streaming",
+                    "Soundcloud Music",
+                    "Sound Loud",
+                    "Sand Cloud"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ],
+                    "en-US": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
                     ]
                     },
             "Languages": [
