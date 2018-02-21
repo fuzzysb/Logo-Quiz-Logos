@@ -151,5 +151,33 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Xbox",
+        "synonyms": [
+            "Xbox 360",
+            "Xbox One",
+            "Xbox Live",
+            "Eggs Box",
+            "Ex Box",
+            "Acks Box",
+            "Axe Box"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Kappa",
+        "synonyms": [
+            "Kappa Clothing",
+            "Kappa Brand",
+            "Cap Pa",
+            "Kippa",
+            "Capar"
+        ]
+        }
+    },
 ]
 }

@@ -557,5 +557,117 @@
             ]
 			
         },
+        {
+            "Name": "Xbox",
+			"Question": {
+                    "en-GB": "What is the name of this gaming brand?",
+                    "en-US": "What is the name of this gaming brand?",
+                    "en-AU": "What is the name of this gaming brand?",
+                    "en-CA": "What is the name of this gaming brand?",
+                    "en-IN": "What is the name of this gaming brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Xbox.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Xbox.png",
+            "Utterances": [
+                    "Xbox",
+                    "Xbox 360",
+                    "Xbox One",
+                    "Xbox Live",
+                    "Eggs Box",
+                    "Ex Box",
+                    "Acks Box",
+                    "Axe Box"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ],
+                    "en-US": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Kappa",
+			"Question": {
+                    "en-GB": "What is the name of this fashion brand?",
+                    "en-US": "What is the name of this fashion brand?",
+                    "en-AU": "What is the name of this fashion brand?",
+                    "en-CA": "What is the name of this fashion brand?",
+                    "en-IN": "What is the name of this fashion brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Kappa.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Kappa.png",
+            "Utterances": [
+                    "Kappa",
+                    "Kappa Clothing",
+                    "Kappa Brand",
+                    "Cap Pa",
+                    "Kippa",
+                    "Capar"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ],
+                    "en-US": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
