@@ -90,6 +90,19 @@
     { 
         "id": null,
         "name": {
+        "value": "ASOS",
+        "synonyms": [
+            "Ay Sos",
+            "Asos dot Com",
+            "Ey Sos",
+            "Ay Es O ES",
+            "Aye Sos"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
         "value": "Soundcloud",
         "synonyms": [
             "Soundcloud Go",
@@ -97,6 +110,44 @@
             "Soundcloud Music",
             "Sound Loud",
             "Sand Cloud"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Ebay",
+        "synonyms": [
+            "E Bay",
+            "Ee Bay",
+            "Ey Bay",
+            "Ay Bay"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Anker",
+        "synonyms": [
+            "Anchor",
+            "An Kar",
+            "An Kur"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Playstation",
+        "synonyms": [
+            "Play Station",
+            "PlayStation Console",
+            "PS",
+            "Pee Ess",
+            "Pee Ess Two",
+            "Pee Ess Three",
+            "Pee Ess Four"
         ]
         }
     },

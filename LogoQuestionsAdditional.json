@@ -284,6 +284,61 @@
 			
         },
         {
+            "Name": "ASOS",
+			"Question": {
+                    "en-GB": "What is the name of this fashion retailer?",
+                    "en-US": "What is the name of this fashion retailer?",
+                    "en-AU": "What is the name of this fashion retailer?",
+                    "en-CA": "What is the name of this fashion retailer?",
+                    "en-IN": "What is the name of this fashion retailer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Asos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Asos.png",
+            "Utterances": [
+                    "ASOS",
+                    "Ay Sos",
+                    "Asos dot Com",
+                    "Ey Sos",
+                    "Ay Es O ES",
+                    "Aye Sos"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ],
+                    "en-US": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
             "Name": "Soundcloud",
 			"Question": {
                     "en-GB": "What is the name of this music streaming service?",
@@ -331,6 +386,170 @@
                         "It is an online audio distribution platform based in Berlin, Germany",
                         "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
                         "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Ebay",
+			"Question": {
+                    "en-GB": "What is the name of this ecommerce website?",
+                    "en-US": "What is the name of this ecommerce website?",
+                    "en-AU": "What is the name of this ecommerce website?",
+                    "en-CA": "What is the name of this ecommerce website?",
+                    "en-IN": "What is the name of this ecommerce website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ebay.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ebay.png",
+            "Utterances": [
+                    "Ebay",
+                    "E Bay",
+                    "Ee Bay",
+                    "Ey Bay",
+                    "Ay Bay"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ],
+                    "en-US": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Anker",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Anker.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Anker.png",
+            "Utterances": [
+                    "Anker",
+                    "Anchor",
+                    "An Kar",
+                    "An Kur"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ],
+                    "en-US": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Playstation",
+			"Question": {
+                    "en-GB": "What is the name of this gaming brand?",
+                    "en-US": "What is the name of this gaming brand?",
+                    "en-AU": "What is the name of this gaming brand?",
+                    "en-CA": "What is the name of this gaming brand?",
+                    "en-IN": "What is the name of this gaming brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Playstation.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Playstation.png",
+            "Utterances": [
+                    "Playstation",
+                    "Play Station",
+                    "PlayStation Console",
+                    "PS",
+                    "Pee Ess",
+                    "Pee Ess Two",
+                    "Pee Ess Three",
+                    "Pee Ess Four"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ],
+                    "en-US": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
                     ]
                     },
             "Languages": [
