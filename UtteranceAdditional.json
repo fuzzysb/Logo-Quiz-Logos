@@ -179,5 +179,92 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Sonos",
+        "synonyms": [
+            "Sonos Speaker",
+            "Sonos Speakers",
+            "Sonos System",
+            "Sow Nos",
+            "So Nus"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Wikipedia",
+        "synonyms": [
+            "Wikipedia",
+            "Wick Ay Pedi Ay",
+            "Wika Pedia",
+            "Wuki Pedia",
+            "Wiki Pee Dia"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Philips",
+        "synonyms": [
+            "Phillips",
+            "Philip",
+            "Phillip",
+            "Fill Lips"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Tannoy",
+        "synonyms": [
+            "Tannoy Speakers",
+            "Tannoy Audio",
+            "Annoy",
+            "Tan Noy",
+            "Ten Noy"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "MTV",
+        "synonyms": [
+            "Music TV",
+            "Music Television",
+            "Music Tele Vision",
+            "Em Tee Vee",
+            "Em Te Ve"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Liteon",
+        "synonyms": [
+            "Liteon Corporation",
+            "Light On",
+            "Leet On"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Dodge",
+        "synonyms": [
+            "Dodge Challenger",
+            "Dodge Viper",
+            "Dodge Muscle Cars",
+            "Dodge Vehicles"
+        ]
+        }
+    },
 ]
 }

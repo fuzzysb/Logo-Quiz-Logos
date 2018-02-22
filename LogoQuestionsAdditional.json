@@ -669,5 +669,385 @@
             ]
 			
         },
+        {
+            "Name": "Sonos",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Sonos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Sonos.png",
+            "Utterances": [
+                    "Sonos",
+                    "Sonos Speaker",
+                    "Sonos Speakers",
+                    "Sonos System",
+                    "Sow Nos",
+                    "So Nus"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ],
+                    "en-US": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Wikipedia",
+			"Question": {
+                    "en-GB": "What is the name of this informative website?",
+                    "en-US": "What is the name of this informative website?",
+                    "en-AU": "What is the name of this informative website?",
+                    "en-CA": "What is the name of this informative website?",
+                    "en-IN": "What is the name of this informative website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Wikipedia.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Wikipedia.png",
+            "Utterances": [
+                    "Wikipedia",
+                    "Wick Ay Pedi Ay",
+                    "Wika Pedia",
+                    "Wuki Pedia",
+                    "Wiki Pee Dia"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ],
+                    "en-US": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Philips",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Philips.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Philips.png",
+            "Utterances": [
+                    "Philips",
+                    "Phillips",
+                    "Philip",
+                    "Phillip",
+                    "Fill Lips"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ],
+                    "en-US": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Tannoy",
+			"Question": {
+                    "en-GB": "What is the name of this audio and technology company?",
+                    "en-US": "What is the name of this audio and technology company?",
+                    "en-AU": "What is the name of this audio and technology company?",
+                    "en-CA": "What is the name of this audio and technology company?",
+                    "en-IN": "What is the name of this audio and technology company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Tannoy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Tannoy.png",
+            "Utterances": [
+                    "Tannoy",
+                    "Tannoy Speakers",
+                    "Tannoy Audio",
+                    "Annoy",
+                    "Tan Noy",
+                    "Ten Noy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ],
+                    "en-US": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-AU": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-CA": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-IN": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "MTV",
+			"Question": {
+                    "en-GB": "What is the name of this television channel?",
+                    "en-US": "What is the name of this television channel?",
+                    "en-AU": "What is the name of this television channel?",
+                    "en-CA": "What is the name of this television channel?",
+                    "en-IN": "What is the name of this television channel?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/MTV.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/MTV.png",
+            "Utterances": [
+                    "MTV",
+                    "Music TV",
+                    "Music Television",
+                    "Music Tele Vision",
+                    "Em Tee Vee",
+                    "Em Te Ve"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ],
+                    "en-US": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Liteon",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Liteon.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Liteon.png",
+            "Utterances": [
+                    "Liteon",
+                    "Liteon Corporation",
+                    "Light On",
+                    "Leet On"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ],
+                    "en-US": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Dodge",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Dodge.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Dodge.png",
+            "Utterances": [
+                    "Dodge",
+                    "Dodge Challenger",
+                    "Dodge Viper",
+                    "Dodge Muscle Cars",
+                    "Dodge Vehicles"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ],
+                    "en-US": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
