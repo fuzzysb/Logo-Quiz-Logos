@@ -266,5 +266,41 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Citroen",
+        "synonyms": [
+            "Sit Rowen",
+            "Kit Rowen",
+            "Sit Ron",
+            "Kit Ron",
+            "Sit Rowing"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Ford",
+        "synonyms": [
+            "Ford Cars",
+            "Ford Auto",
+            "Ford Motors"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Adidas",
+        "synonyms": [
+            "A Deed Ass",
+            "Add Idas",
+            "Adidas Originals",
+            "Adidas Clothing"
+        ]
+        }
+    },
 ]
 }

@@ -1049,5 +1049,167 @@
             ]
 			
         },
+        {
+            "Name": "Citroen",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Citroen.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Citroen.png",
+            "Utterances": [
+                    "Citroen",
+                    "Sit Rowen",
+                    "Kit Rowen",
+                    "Sit Ron",
+                    "Kit Ron",
+                    "Sit Rowing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ],
+                    "en-US": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Ford",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ford.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ford.png",
+            "Utterances": [
+                    "Ford",
+                    "Ford Cars",
+                    "Ford Auto",
+                    "Ford Motors"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ],
+                    "en-US": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Adidas",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Adidas.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Adidas.png",
+            "Utterances": [
+                    "Adidas",
+                    "A Deed Ass",
+                    "Add Idas",
+                    "Adidas Originals",
+                    "Adidas Clothing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ],
+                    "en-US": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
