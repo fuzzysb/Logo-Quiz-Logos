@@ -1318,5 +1318,58 @@
             ]
 			
         },
+        {
+            "Name": "Booking",
+			"Question": {
+                    "en-GB": "What is the name of this travel company?",
+                    "en-US": "What is the name of this travel company?",
+                    "en-AU": "What is the name of this travel company?",
+                    "en-CA": "What is the name of this travel company?",
+                    "en-IN": "What is the name of this travel company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Booking.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Booking.png",
+            "Utterances": [
+                    "Booking",
+                    "Booking dot Com",
+                    "Booking dot Yeah",
+                    "Booking dot Yes"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ],
+                    "en-US": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }

@@ -325,5 +325,16 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Booking",
+        "synonyms": [
+            "Booking dot Com",
+            "Booking dot Yeah",
+            "Booking dot Yes"
+        ]
+        }
+    },
 ]
 }
