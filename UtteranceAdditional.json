@@ -302,5 +302,28 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Bing",
+        "synonyms": [
+            "Ping",
+            "Bing Search"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Rio Tinto",
+        "synonyms": [
+            "Rey O Tento",
+            "Rio Tento",
+            "Ray O Tento",
+            "Ray O Tinto",
+            "Rey O Tinto"
+        ]
+        }
+    },
 ]
 }

@@ -1211,5 +1211,112 @@
             ]
 			
         },
+        {
+            "Name": "Bing",
+			"Question": {
+                    "en-GB": "What is the name of this search company?",
+                    "en-US": "What is the name of this search company?",
+                    "en-AU": "What is the name of this search company?",
+                    "en-CA": "What is the name of this search company?",
+                    "en-IN": "What is the name of this search company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Bing.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Bing.png",
+            "Utterances": [
+                    "Bing",
+                    "Ping",
+                    "Bing Search"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ],
+                    "en-US": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Rio Tinto",
+			"Question": {
+                    "en-GB": "What is the name of this mining company?",
+                    "en-US": "What is the name of this mining company?",
+                    "en-AU": "What is the name of this mining company?",
+                    "en-CA": "What is the name of this mining company?",
+                    "en-IN": "What is the name of this mining company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/RioTinto.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/RioTinto.png",
+            "Utterances": [
+                    "Rio Tinto",
+                    "Rey O Tento",
+                    "Rio Tento",
+                    "Ray O Tento",
+                    "Ray O Tinto",
+                    "Rey O Tinto"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ],
+                    "en-US": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-AU": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-CA": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-IN": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
