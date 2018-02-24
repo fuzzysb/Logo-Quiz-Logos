@@ -503,6 +503,136 @@
         ]
         }
     },
-
+    { 
+        "id": null,
+        "name": {
+        "value": "Patagonia",
+        "synonyms": [
+            "Patagonia Clothing",
+            "Patagonia Outdoor",
+            "Pat Ay Gonia",
+            "Pat Ay Gonia Clothing",
+            "Pat Ay Gonia Outdoor",
+            "Pat Ee Gonia",
+            "Pat Ee Gonia Clothing",
+            "Pat Ee Gonia Outdoor"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "YSL",
+        "synonyms": [
+            "Yves Saint Laurent",
+            "Saint Laurent",
+            "Yes Saint Laurent",
+            "Why Es El"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Lamborghini",
+        "synonyms": [
+            "Lambo",
+            "Lamb Or Ghini",
+            "Lumborghini"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Dominos",
+        "synonyms": [
+            "Domino",
+            "Dominos Pizza",
+            "Domino Pizza"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Skullcandy",
+        "synonyms": [
+            "Skull Candy",
+            "Skullcandy Headphones",
+            "Skull Candy Headphones",
+            "Skullcandy Audio",
+            "Skull Candy Audio"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Monster",
+        "synonyms": [
+            "Monster Energy",
+            "Monster Energy Drink"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Monster Cable",
+        "synonyms": [
+            "Monster",
+            "Monster Audio",
+            "Monster Cables",
+            "Monster Cable Products"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "LG",
+        "synonyms": [
+            "LG Electronics",
+            "El Gee",
+            "El Gee Electronics",
+            "Lifes Good",
+            "Lucky Goldstar"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Rayban",
+        "synonyms": [
+            "Ray Ban",
+            "Rayban Sunglasses",
+            "Ray Ban Sunglasses",
+            "Rayban by Luxotica",
+            "Ray Ban by Luxotica",
+            "RayBan Eyewear",
+            "Ray Ban Eyewear",
+            "Rayban Brand",
+            "Ray Ban Brand"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Nike",
+        "synonyms": [
+            "Ni Key",
+            "Nay Key",
+            "Nike Clothing",
+            "Ni Key Clothing",
+            "Nay Key Clothing",
+            "Nike Shoes",
+            "Ni Key SHoes",
+            "Nay Key Shoes"
+        ]
+        }
+    },
 ]
 }

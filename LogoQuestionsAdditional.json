@@ -2125,5 +2125,556 @@
             ]
 			
         },
+        {
+            "Name": "Patagonia",
+			"Question": {
+                    "en-GB": "What is the name of this outdoor clothing company?",
+                    "en-US": "What is the name of this outdoor clothing company?",
+                    "en-AU": "What is the name of this outdoor clothing company?",
+                    "en-CA": "What is the name of this outdoor clothing company?",
+                    "en-IN": "What is the name of this outdoor clothing company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Patagonia.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Patagonia.png",
+            "Utterances": [
+                    "Patagonia",
+                    "Patagonia Clothing",
+                    "Patagonia Outdoor",
+                    "Pat Ay Gonia",
+                    "Pat Ay Gonia Clothing",
+                    "Pat Ay Gonia Outdoor",
+                    "Pat Ee Gonia",
+                    "Pat Ee Gonia Clothing",
+                    "Pat Ee Gonia Outdoor"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ],
+                    "en-US": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "YSL",
+			"Question": {
+                    "en-GB": "What is the name of this luxury fashion company?",
+                    "en-US": "What is the name of this luxury fashion company?",
+                    "en-AU": "What is the name of this luxury fashion company?",
+                    "en-CA": "What is the name of this luxury fashion company?",
+                    "en-IN": "What is the name of this luxury fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/YSL.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/YSL.png",
+            "Utterances": [
+                    "YSL",
+                    "Yves Saint Laurent",
+                    "Saint Laurent",
+                    "Yes Saint Laurent",
+                    "Why Es El"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ],
+                    "en-US": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-AU": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-CA": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-IN": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Lamborghini",
+			"Question": {
+                    "en-GB": "What is the name of this luxury vehicle company?",
+                    "en-US": "What is the name of this luxury vehicle company?",
+                    "en-AU": "What is the name of this luxury vehicle company?",
+                    "en-CA": "What is the name of this luxury vehicle company?",
+                    "en-IN": "What is the name of this luxury vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Lamborghini.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Lamborghini.png",
+            "Utterances": [
+                    "Lamborghini",
+                    "Lambo",
+                    "Lamb Or Ghini",
+                    "Lumborghini"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ],
+                    "en-US": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Dominos",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant company?",
+                    "en-US": "What is the name of this restaurant company?",
+                    "en-AU": "What is the name of this restaurant company?",
+                    "en-CA": "What is the name of this restaurant company?",
+                    "en-IN": "What is the name of this restaurant company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Dominos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Dominos.png",
+            "Utterances": [
+                    "Dominos",
+                    "Domino",
+                    "Dominos Pizza",
+                    "Domino Pizza"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ],
+                    "en-US": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Skullcandy",
+			"Question": {
+                    "en-GB": "What is the name of this audio company?",
+                    "en-US": "What is the name of this audio company?",
+                    "en-AU": "What is the name of this audio company?",
+                    "en-CA": "What is the name of this audio company?",
+                    "en-IN": "What is the name of this audio company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Skullcandy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Skullcandy.png",
+            "Utterances": [
+                    "Skullcandy",
+                    "Skull Candy",
+                    "Skullcandy Headphones",
+                    "Skull Candy Headphones",
+                    "Skullcandy Audio",
+                    "Skull Candy Audio"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ],
+                    "en-US": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-AU": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-CA": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-IN": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Monster",
+			"Question": {
+                    "en-GB": "What is the name of this energy drink?",
+                    "en-US": "What is the name of this energy drink?",
+                    "en-AU": "What is the name of this energy drink?",
+                    "en-CA": "What is the name of this energy drink?",
+                    "en-IN": "What is the name of this energy drink?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Monster.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Monster.png",
+            "Utterances": [
+                    "Monster",
+                    "Monster Energy",
+                    "Monster Energy Drink"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ],
+                    "en-US": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Monster Cable",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/MonsterCable.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/MonsterCable.png",
+            "Utterances": [
+                    "Monster Cable",
+                    "Monster",
+                    "Monster Audio",
+                    "Monster Cables",
+                    "Monster Cable Products"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ],
+                    "en-US": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "LG",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/LG.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/LG.png",
+            "Utterances": [
+                    "LG",
+                    "LG Electronics",
+                    "El Gee",
+                    "El Gee Electronics",
+                    "Lifes Good",
+                    "Lucky Goldstar"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ],
+                    "en-US": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Rayban",
+			"Question": {
+                    "en-GB": "What is the name of this eyewear company?",
+                    "en-US": "What is the name of this eyewear company?",
+                    "en-AU": "What is the name of this eyewear company?",
+                    "en-CA": "What is the name of this eyewear company?",
+                    "en-IN": "What is the name of this eyewear company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Rayban.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Rayban.png",
+            "Utterances": [
+                    "Rayban",
+                    "Ray Ban",
+                    "Rayban Sunglasses",
+                    "Ray Ban Sunglasses",
+                    "Rayban by Luxotica",
+                    "Ray Ban by Luxotica",
+                    "RayBan Eyewear",
+                    "Ray Ban Eyewear",
+                    "Rayban Brand",
+                    "Ray Ban Brand"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ],
+                    "en-US": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nike",
+			"Question": {
+                    "en-GB": "What is the name of this clothing company?",
+                    "en-US": "What is the name of this clothing company?",
+                    "en-AU": "What is the name of this clothing company?",
+                    "en-CA": "What is the name of this clothing company?",
+                    "en-IN": "What is the name of this clothing company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nike.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nike.png",
+            "Utterances": [
+                    "Nike",
+                    "Ni Key",
+                    "Nay Key",
+                    "Nike Clothing",
+                    "Ni Key Clothing",
+                    "Nay Key Clothing",
+                    "Nike Shoes",
+                    "Ni Key SHoes",
+                    "Nay Key Shoes"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ],
+                    "en-US": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }
