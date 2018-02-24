@@ -1371,5 +1371,759 @@
             ]
 			
         },
+        {
+            "Name": "Twitch",
+			"Question": {
+                    "en-GB": "What is the name of this live streaming website?",
+                    "en-US": "What is the name of this live streaming website?",
+                    "en-AU": "What is the name of this live streaming website?",
+                    "en-CA": "What is the name of this live streaming website?",
+                    "en-IN": "What is the name of this live streaming website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Twitch.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Twitch.png",
+            "Utterances": [
+                    "Twitch",
+                    "Twitch dot TV",
+                    "Twitch dot Tee Vee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ],
+                    "en-US": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-AU": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-CA": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-IN": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Atari",
+			"Question": {
+                    "en-GB": "What is the name of this video game company?",
+                    "en-US": "What is the name of this video game company?",
+                    "en-AU": "What is the name of this video game company?",
+                    "en-CA": "What is the name of this video game company?",
+                    "en-IN": "What is the name of this video game company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Atari.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Atari.png",
+            "Utterances": [
+                    "Atari",
+                    "At Are E",
+                    "Atari Games",
+                    "At Are E Games"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ],
+                    "en-US": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Capcom",
+			"Question": {
+                    "en-GB": "What is the name of this video game company?",
+                    "en-US": "What is the name of this video game company?",
+                    "en-AU": "What is the name of this video game company?",
+                    "en-CA": "What is the name of this video game company?",
+                    "en-IN": "What is the name of this video game company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Capcom.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Capcom.png",
+            "Utterances": [
+                    "Capcom",
+                    "Cap Com",
+                    "Capcom Games"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ],
+                    "en-US": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Eizo",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Eizo.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Eizo.png",
+            "Utterances": [
+                    "Eizo",
+                    "Eizo Corporation",
+                    "Eye Zo",
+                    "Eye Zo Corporation",
+                    "I Zo",
+                    "I Zo Corporation",
+                    "Ey Zo",
+                    "Ey Zo Corporation",
+                    "E Zo",
+                    "E Zo Corporation"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ],
+                    "en-US": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Crunchyroll",
+			"Question": {
+                    "en-GB": "What is the name of this video streaming company?",
+                    "en-US": "What is the name of this video streaming company?",
+                    "en-AU": "What is the name of this video streaming company?",
+                    "en-CA": "What is the name of this video streaming company?",
+                    "en-IN": "What is the name of this video streaming company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Crunchyroll.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Crunchyroll.png",
+            "Utterances": [
+                    "Crunchyroll",
+                    "Crunchy Roll",
+                    "Crunchyroll Anime",
+                    "Crunchy Roll Anime",
+                    "Crunchyroll Manga",
+                    "Crunchy Roll Manga"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ],
+                    "en-US": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Infiniti",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Infiniti.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Infiniti.png",
+            "Utterances": [
+                    "Infiniti",
+                    "Infiniti Cars",
+                    "Infinity",
+                    "Infinity Cars"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ],
+                    "en-US": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Tesla",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Tesla.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Tesla.png",
+            "Utterances": [
+                    "Tesla",
+                    "Tesla Motors",
+                    "Testla"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ],
+                    "en-US": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Lexus",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Lexus.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Lexus.png",
+            "Utterances": [
+                    "Lexus",
+                    "Lexus Motors",
+                    "Lecks Us",
+                    "Leck Suse"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ],
+                    "en-US": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-AU": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-CA": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-IN": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Toyota",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Toyota.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Toyota.png",
+            "Utterances": [
+                    "Toyota",
+                    "Toyota Motors",
+                    "Toy Yoda",
+                    "Toy Yoda Motors"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ],
+                    "en-US": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Costa",
+			"Question": {
+                    "en-GB": "What is the name of this coffee house?",
+                    "en-US": "What is the name of this coffee house?",
+                    "en-AU": "What is the name of this coffee house?",
+                    "en-CA": "What is the name of this coffee house?",
+                    "en-IN": "What is the name of this coffee house?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Costa.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Costa.png",
+            "Utterances": [
+                    "Costa",
+                    "Costa Coffee",
+                    "Coster",
+                    "Coster Coffee",
+                    "Costar",
+                    "Costar Coffee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ],
+                    "en-US": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nandos",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nandos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nandos.png",
+            "Utterances": [
+                    "Nandos",
+                    "Nando",
+                    "Nandos Chicken",
+                    "Nando Chicken",
+                    "Nandoes",
+                    "Nandoes Chicken"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ],
+                    "en-US": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "McDonalds",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/McDoanlds.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/McDonalds.png",
+            "Utterances": [
+                    "McDonalds",
+                    "McDonalds Corporation",
+                    "McDonalds Restaurant",
+                    "Mac Donalds",
+                    "Mac Donalds Restaurant",
+                    "Mac Donalds Corporation"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ],
+                    "en-US": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "KFC",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/KFC.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/KFC.png",
+            "Utterances": [
+                    "KFC",
+                    "KFC Restaurants",
+                    "KFC Chicken",
+                    "Kay Eff Cee",
+                    "Kay Eff Cee Chicken",
+                    "Kay Eff Cee Restaurants"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ],
+                    "en-US": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-AU": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-CA": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-IN": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Coke",
+			"Question": {
+                    "en-GB": "What is the name of this famous soft drink?",
+                    "en-US": "What is the name of this famous soft drink?",
+                    "en-AU": "What is the name of this famous soft drink?",
+                    "en-CA": "What is the name of this famous soft drink?",
+                    "en-IN": "What is the name of this famous soft drink?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Coke.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Coke.png",
+            "Utterances": [
+                    "Coke",
+                    "Coca Cola",
+                    "Coke A Cola"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ],
+                    "en-US": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
     ]
 }

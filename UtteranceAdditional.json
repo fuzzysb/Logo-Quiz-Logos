@@ -336,5 +336,173 @@
         ]
         }
     },
+    { 
+        "id": null,
+        "name": {
+        "value": "Twitch",
+        "synonyms": [
+            "Twitch dot TV",
+            "Twitch dot Tee Vee"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Atari",
+        "synonyms": [
+            "At Are E",
+            "Atari Games",
+            "At Are E Games"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Capcom",
+        "synonyms": [
+            "Cap Com",
+            "Capcom Games"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Eizo",
+        "synonyms": [
+            "Eizo Corporation",
+            "Eye Zo",
+            "Eye Zo Corporation",
+            "I Zo",
+            "I Zo Corporation",
+            "Ey Zo",
+            "Ey Zo Corporation",
+            "E Zo",
+            "E Zo Corporation"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Crunchyroll",
+        "synonyms": [
+            "Crunchy Roll",
+            "Crunchyroll Anime",
+            "Crunchy Roll Anime",
+            "Crunchyroll Manga",
+            "Crunchy Roll Manga"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Infiniti",
+        "synonyms": [
+            "Infiniti Cars",
+            "Infinity",
+            "Infinity Cars"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Tesla",
+        "synonyms": [
+            "Tesla Motors",
+            "Testla"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Lexus",
+        "synonyms": [
+            "Lexus Motors",
+            "Lecks Us",
+            "Leck Suse"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Toyota",
+        "synonyms": [
+            "Toyota Motors",
+            "Toy Yoda",
+            "Toy Ota"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Costa",
+        "synonyms": [
+            "Costa Coffee",
+            "Coster",
+            "Coster Coffee",
+            "Costar",
+            "Costar Coffee"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Nandos",
+        "synonyms": [
+            "Nando",
+            "Nandos Chicken",
+            "Nando Chicken",
+            "Nandoes",
+            "Nandoes Chicken"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "McDonalds",
+        "synonyms": [
+            "McDonalds Corporation",
+            "McDonalds Restaurant",
+            "Mac Donalds",
+            "Mac Donalds Restaurant",
+            "Mac Donalds Corporation"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "KFC",
+        "synonyms": [
+            "KFC",
+            "KFC Restaurants",
+            "KFC Chicken",
+            "Kay Eff Cee",
+            "Kay Eff Cee Chicken",
+            "Kay Eff Cee Restaurants"
+        ]
+        }
+    },
+    { 
+        "id": null,
+        "name": {
+        "value": "Coke",
+        "synonyms": [
+            "Coca Cola",
+            "Coke A Cola"
+        ]
+        }
+    },
+
 ]
 }
