@@ -1,6 +1,2682 @@
 {
     "Questions": [
         {
+            "Name": "Champion",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Champion.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Champion.png",
+            "Utterances": [
+                    "Champion",
+                    "Champyon",
+                    "Champion Sport",
+                    "Champion Clothing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
+                    ],
+                    "en-US": [
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in Rochester, New York in 1919",
+                        "It is a subsidiary of the Hanes brand",
+                        "They produced uniforms for all the NBA teams during the 1990s, and some NFL teams during the 1980s and 1990s"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Goyard",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Goyard.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Goyard.png",
+            "Utterances": [
+                    "Goyard",
+                    "Gow Yard",
+                    "Go Yurd",
+                    "Goyard Paris",
+                    "Goyard Clothing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
+                    ],
+                    "en-US": [
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in Paris in 1853",
+                        "It is a luxury high-end trunk and leather goods maker",
+                        "The brand is known for a certain amount of secrecy, eschewing self-promotion, advertising, e-commerce, and refusing to grant interviews"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Sony",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Sony.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Sony.png",
+            "Utterances": [
+                    "Sony",
+                    "Sony Entertainment",
+                    "Sony Ericsson",
+                    "Sow Knee",
+                    "Sue Nee",
+                    "Sue Knee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ],
+                    "en-US": [
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a Japanese multinational conglomerate corporation founded on 7th may, 1946",
+                        "It is headquartered in Minato, Tokyo, Japan",
+                        "Its diversified business includes consumer and professional electronics, gaming, entertainment and financial services."
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Fjallraven",
+			"Question": {
+                    "en-GB": "What is the name of this outdoor company?",
+                    "en-US": "What is the name of this outdoor company?",
+                    "en-AU": "What is the name of this outdoor company?",
+                    "en-CA": "What is the name of this outdoor company?",
+                    "en-IN": "What is the name of this outdoor company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Fjallraven.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Fjallraven.png",
+            "Utterances": [
+                    "Fjallraven",
+                    "Fjallraven Clothing",
+                    "Fjallraven Bags",
+                    "Fall Raven",
+                    "Yall raven",
+                    "FYall Raven",
+                    "Fjallraven Kanken",
+                    "Kanken",
+                    "Fall Raven Kanken",
+                    "Fyall Raven Kanken",
+                    "Kancoon",
+                    "Cancoon",
+                    "Fjallraven Cancoon",
+                    "Fyall Raven Cancoon"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ],
+                    "en-US": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a Swedish company specialising in outdoor equipment, mostly known for their clothing and rucksacks.",
+                        "The company has a strong market presence in the Nordic countries",
+                        "The company was founded in 1960 by Åke Nordin, their first product was an external frame rucksack"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Bitcoin",
+			"Question": {
+                    "en-GB": "What is the name of this cryptocurrency?",
+                    "en-US": "What is the name of this cryptocurrency?",
+                    "en-AU": "What is the name of this cryptocurrency?",
+                    "en-CA": "What is the name of this cryptocurrency?",
+                    "en-IN": "What is the name of this cryptocurrency?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Bitcoin.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Bitcoin.png",
+            "Utterances": [
+                    "Bitcoin",
+                    "BTC",
+                    "Bitcoin Mining",
+                    "Bitcoin Currency",
+                    "Be Te See",
+                    "Bee Tee See",
+                    "Bee Tea See",
+                    "Bee Tee Sea",
+                    "Bee Tee Cee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ],
+                    "en-US": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a cryptocurrency and worldwide payment system founded in 2008",
+                        "It was the first decentralized digital currency",
+                        "The creator or creators of the currency are unknown and operate under the name Satoshi Nakamoto"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "ASOS",
+			"Question": {
+                    "en-GB": "What is the name of this fashion retailer?",
+                    "en-US": "What is the name of this fashion retailer?",
+                    "en-AU": "What is the name of this fashion retailer?",
+                    "en-CA": "What is the name of this fashion retailer?",
+                    "en-IN": "What is the name of this fashion retailer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Asos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Asos.png",
+            "Utterances": [
+                    "ASOS",
+                    "Ay Sos",
+                    "Asos dot Com",
+                    "Ey Sos",
+                    "Ay Es O ES",
+                    "Aye Sos"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ],
+                    "en-US": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a British online fashion and beauty store, primarily aimed at young adults",
+                        "They sell over 80,000 branded and own-brand products online and through mobile experiences",
+                        "It was established on 3 June 2000, by Nick Robertson and Quentin Griffiths in London, UK"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Soundcloud",
+			"Question": {
+                    "en-GB": "What is the name of this music streaming service?",
+                    "en-US": "What is the name of this music streaming service?",
+                    "en-AU": "What is the name of this music streaming service?",
+                    "en-CA": "What is the name of this music streaming service?",
+                    "en-IN": "What is the name of this music streaming service?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Soundcloud.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Soundcloud.png",
+            "Utterances": [
+                    "Soundcloud",
+                    "Soundcloud Go",
+                    "Soundcloud Streaming",
+                    "Soundcloud Music",
+                    "Sound Loud",
+                    "Sand Cloud"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ],
+                    "en-US": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an online audio distribution platform based in Berlin, Germany",
+                        "It enables its users to upload, record, promote, and share their originally-created sounds with the world",
+                        "It has been credited with bringing some of its users fame after uploading their music to the service"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Ebay",
+			"Question": {
+                    "en-GB": "What is the name of this ecommerce website?",
+                    "en-US": "What is the name of this ecommerce website?",
+                    "en-AU": "What is the name of this ecommerce website?",
+                    "en-CA": "What is the name of this ecommerce website?",
+                    "en-IN": "What is the name of this ecommerce website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ebay.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ebay.png",
+            "Utterances": [
+                    "Ebay",
+                    "E Bay",
+                    "Ee Bay",
+                    "Ey Bay",
+                    "Ay Bay"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ],
+                    "en-US": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The website facilitates consumer-to-consumer and business-to-consumer sales through its website.",
+                        "Today it is a multi-billion-dollar business with operations in about 30 countries",
+                        "It was founded on September 3rd, 1995 by Pierre Omidyar"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Anker",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Anker.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Anker.png",
+            "Utterances": [
+                    "Anker",
+                    "Anchor",
+                    "An Kar",
+                    "An Kur"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ],
+                    "en-US": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is primarily known for its powerbanks and charging cables",
+                        "It was founded by Steven Yang in July 2011, after leaving his job at Google",
+                        "Their first products were focused on replacement laptop batteries, they then began shifting focus on devices for charging mobile phones"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Playstation",
+			"Question": {
+                    "en-GB": "What is the name of this gaming brand?",
+                    "en-US": "What is the name of this gaming brand?",
+                    "en-AU": "What is the name of this gaming brand?",
+                    "en-CA": "What is the name of this gaming brand?",
+                    "en-IN": "What is the name of this gaming brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Playstation.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Playstation.png",
+            "Utterances": [
+                    "Playstation",
+                    "Play Station",
+                    "PlayStation Console",
+                    "PS",
+                    "Pee Ess",
+                    "Pee Ess Two",
+                    "Pee Ess Three",
+                    "Pee Ess Four"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ],
+                    "en-US": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is created and owned by Sony Interactive Entertainment",
+                        "It is most known for its line of home gaming consoles",
+                        "It was founded on December 3rd, 1994 in Minato, Tokyo, Japan"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Xbox",
+			"Question": {
+                    "en-GB": "What is the name of this gaming brand?",
+                    "en-US": "What is the name of this gaming brand?",
+                    "en-AU": "What is the name of this gaming brand?",
+                    "en-CA": "What is the name of this gaming brand?",
+                    "en-IN": "What is the name of this gaming brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Xbox.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Xbox.png",
+            "Utterances": [
+                    "Xbox",
+                    "Xbox 360",
+                    "Xbox One",
+                    "Xbox Live",
+                    "Eggs Box",
+                    "Ex Box",
+                    "Acks Box",
+                    "Axe Box"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ],
+                    "en-US": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is created and owned by the Microsoft Corporation",
+                        "It was first introduced on November 15th, 2001",
+                        "They have three consoles released in the sixth, seventh and eighth generations respectively"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Kappa",
+			"Question": {
+                    "en-GB": "What is the name of this fashion brand?",
+                    "en-US": "What is the name of this fashion brand?",
+                    "en-AU": "What is the name of this fashion brand?",
+                    "en-CA": "What is the name of this fashion brand?",
+                    "en-IN": "What is the name of this fashion brand?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Kappa.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Kappa.png",
+            "Utterances": [
+                    "Kappa",
+                    "Kappa Clothing",
+                    "Kappa Brand",
+                    "Cap Pa",
+                    "Kippa",
+                    "Capar"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ],
+                    "en-US": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+                        "Its logo is very recognisable within the streetwear fashion scene",
+                        "It is sold through different retailers worldwide"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Sonos",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Sonos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Sonos.png",
+            "Utterances": [
+                    "Sonos",
+                    "Sonos Speaker",
+                    "Sonos Speakers",
+                    "Sonos System",
+                    "Sow Nos",
+                    "So Nus"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ],
+                    "en-US": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is widely known for the smart speakers they develop and manufactures",
+                        "It  was founded in 2002 by John MacFarlane, Craig Shelburne, Tom Cullen and Trung Mai",
+                        "The company opened its own local studio and art museum in May 2011, as well as an official store in SoHo in July 2016"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Wikipedia",
+			"Question": {
+                    "en-GB": "What is the name of this informative website?",
+                    "en-US": "What is the name of this informative website?",
+                    "en-AU": "What is the name of this informative website?",
+                    "en-CA": "What is the name of this informative website?",
+                    "en-IN": "What is the name of this informative website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Wikipedia.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Wikipedia.png",
+            "Utterances": [
+                    "Wikipedia",
+                    "Wick Ay Pedi Ay",
+                    "Wika Pedia",
+                    "Wuki Pedia",
+                    "Wiki Pee Dia"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ],
+                    "en-US": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was launched on January 15, 2001, by Jimmy Wales and Larry Sanger",
+                        "Its open ability for users to add and edit information has made it arguably one of the best encyclopedias in the world",
+                        "It is completely non-profit and relies on money from its fund drives to maintain itself"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Philips",
+			"Question": {
+                    "en-GB": "What is the name of this technology company?",
+                    "en-US": "What is the name of this technology company?",
+                    "en-AU": "What is the name of this technology company?",
+                    "en-CA": "What is the name of this technology company?",
+                    "en-IN": "What is the name of this technology company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Philips.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Philips.png",
+            "Utterances": [
+                    "Philips",
+                    "Phillips",
+                    "Philip",
+                    "Phillip",
+                    "Fill Lips"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ],
+                    "en-US": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on 15th May, 1891 in Eindhoven, Netherlands",
+                        "The companies main divisions are consumer lifestyle, healthcare and lighting",
+                        "As of 2012, the company was the largest manufacturer of lighting in the world measured by applicable revenues"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Tannoy",
+			"Question": {
+                    "en-GB": "What is the name of this audio and technology company?",
+                    "en-US": "What is the name of this audio and technology company?",
+                    "en-AU": "What is the name of this audio and technology company?",
+                    "en-CA": "What is the name of this audio and technology company?",
+                    "en-IN": "What is the name of this audio and technology company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Tannoy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Tannoy.png",
+            "Utterances": [
+                    "Tannoy",
+                    "Tannoy Speakers",
+                    "Tannoy Audio",
+                    "Annoy",
+                    "Tan Noy",
+                    "Ten Noy"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ],
+                    "en-US": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-AU": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-CA": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    ,
+                    "en-IN": [
+                        "They are a British manufacturer of loudspeakers and public-address systems",
+                        "The company name is a syllabic abbreviation of tantalum alloy",
+                        "It became a household name as a result of supplying PA systems to the armed forces during World War II"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "MTV",
+			"Question": {
+                    "en-GB": "What is the name of this television channel?",
+                    "en-US": "What is the name of this television channel?",
+                    "en-AU": "What is the name of this television channel?",
+                    "en-CA": "What is the name of this television channel?",
+                    "en-IN": "What is the name of this television channel?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/MTV.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/MTV.png",
+            "Utterances": [
+                    "MTV",
+                    "Music TV",
+                    "Music Television",
+                    "Music Tele Vision",
+                    "Em Tee Vee",
+                    "Em Te Ve"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ],
+                    "en-US": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The channel originally aired music videos as guided by television personalities known as video jockeys",
+                        "It was launched on August 1st, 1981",
+                        "Originally, their main target demographic was young adults, but today it is primarily teenagers, particularly high school and college students"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Liteon",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Liteon.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Liteon.png",
+            "Utterances": [
+                    "Liteon",
+                    "Liteon Corporation",
+                    "Light On",
+                    "Leet On"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ],
+                    "en-US": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was started in 1975 by several Taiwanese Texas Instruments ex-employees",
+                        "The company produces LEDs, semiconductors, computer chassis, monitors, motherboards, DVD, and CD devices, and other electronic components",
+                        "In March 2007, they formed a joint venture with the Philips Corporation for their optical disk drive division"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Dodge",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Dodge.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Dodge.png",
+            "Utterances": [
+                    "Dodge",
+                    "Dodge Challenger",
+                    "Dodge Viper",
+                    "Dodge Muscle Cars",
+                    "Dodge Vehicles"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ],
+                    "en-US": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in Michigan, US in 1900",
+                        "The company is most recognised for their line of muscle cars",
+                        "It is owned by Fiat Chrysler Automobiles"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Citroen",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Citroen.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Citroen.png",
+            "Utterances": [
+                    "Citroen",
+                    "Sit Rowen",
+                    "Kit Rowen",
+                    "Sit Ron",
+                    "Kit Ron",
+                    "Sit Rowing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ],
+                    "en-US": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In 1954 they had produced the world's first hydropneumatic self-levelling suspension system",
+                        "It was founded in 1919 in Saint-Ouen, France",
+                        "They produced the world's first mass-produced front wheel drive car"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Ford",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle manufacturer?",
+                    "en-US": "What is the name of this vehicle manufacturer?",
+                    "en-AU": "What is the name of this vehicle manufacturer?",
+                    "en-CA": "What is the name of this vehicle manufacturer?",
+                    "en-IN": "What is the name of this vehicle manufacturer?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Ford.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Ford.png",
+            "Utterances": [
+                    "Ford",
+                    "Ford Cars",
+                    "Ford Auto",
+                    "Ford Motors"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ],
+                    "en-US": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on June 16th, 1903 in Dearborn, Michigan, US",
+                        "It is the fifth-largest vehicle manufacturer in the world",
+                        "The company employs more than 200,000 people as of 2016"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Adidas",
+			"Question": {
+                    "en-GB": "What is the name of this fashion company?",
+                    "en-US": "What is the name of this fashion company?",
+                    "en-AU": "What is the name of this fashion company?",
+                    "en-CA": "What is the name of this fashion company?",
+                    "en-IN": "What is the name of this fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Adidas.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Adidas.png",
+            "Utterances": [
+                    "Adidas",
+                    "A Deed Ass",
+                    "Add Idas",
+                    "Adidas Originals",
+                    "Adidas Clothing"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ],
+                    "en-US": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the largest sportswear manufacturer in Europe, and the second largest in the world",
+                        "It was founded in July 1924 by Adolf Dassler",
+                        "The brand name is uncapitalized and is stylized with a lower case A"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Bing",
+			"Question": {
+                    "en-GB": "What is the name of this search company?",
+                    "en-US": "What is the name of this search company?",
+                    "en-AU": "What is the name of this search company?",
+                    "en-CA": "What is the name of this search company?",
+                    "en-IN": "What is the name of this search company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Bing.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Bing.png",
+            "Utterances": [
+                    "Bing",
+                    "Ping",
+                    "Bing Search"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ],
+                    "en-US": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a web search engine owned and operated by Microsoft",
+                        "It is the second largest desktop search engine in the US",
+                        "It is developed using ASP.NET"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Rio Tinto",
+			"Question": {
+                    "en-GB": "What is the name of this mining company?",
+                    "en-US": "What is the name of this mining company?",
+                    "en-AU": "What is the name of this mining company?",
+                    "en-CA": "What is the name of this mining company?",
+                    "en-IN": "What is the name of this mining company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/RioTinto.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/RioTinto.png",
+            "Utterances": [
+                    "Rio Tinto",
+                    "Rey O Tento",
+                    "Rio Tento",
+                    "Ray O Tento",
+                    "Ray O Tinto",
+                    "Rey O Tinto"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ],
+                    "en-US": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-AU": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-CA": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    ,
+                    "en-IN": [
+                        "From 1877 to 1891, the companies mine was the world's leading producer of copper",
+                        "The company has joint head offices in London and Melbourne",
+                        "The company has operations on six continents, but is mainly concentrated in Australia and Canada"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Booking",
+			"Question": {
+                    "en-GB": "What is the name of this travel company?",
+                    "en-US": "What is the name of this travel company?",
+                    "en-AU": "What is the name of this travel company?",
+                    "en-CA": "What is the name of this travel company?",
+                    "en-IN": "What is the name of this travel company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Booking.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Booking.png",
+            "Utterances": [
+                    "Booking",
+                    "Booking dot Com",
+                    "Booking dot Yeah",
+                    "Booking dot Yes"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ],
+                    "en-US": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The website lists more than 1,534,024 properties in 226 countries",
+                        "The company was called Active Hotels Limited before changing its name in 2006",
+                        "It was founded in 1996 and is headquartered in Amsterdam, Netherlands"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Twitch",
+			"Question": {
+                    "en-GB": "What is the name of this live streaming website?",
+                    "en-US": "What is the name of this live streaming website?",
+                    "en-AU": "What is the name of this live streaming website?",
+                    "en-CA": "What is the name of this live streaming website?",
+                    "en-IN": "What is the name of this live streaming website?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Twitch.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Twitch.png",
+            "Utterances": [
+                    "Twitch",
+                    "Twitch dot TV",
+                    "Twitch dot Tee Vee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ],
+                    "en-US": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-AU": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-CA": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    ,
+                    "en-IN": [
+                        "the site primarily focuses on video game live streaming, including eSports competitions, real life streams, and more recently, music broadcasts",
+                        "As of Q3 2017, The site remains the leading live streaming video service for video games in the US",
+                        "On August 25, 2014, Amazon acquired the site for 970 million dollars"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Atari",
+			"Question": {
+                    "en-GB": "What is the name of this video game company?",
+                    "en-US": "What is the name of this video game company?",
+                    "en-AU": "What is the name of this video game company?",
+                    "en-CA": "What is the name of this video game company?",
+                    "en-IN": "What is the name of this video game company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Atari.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Atari.png",
+            "Utterances": [
+                    "Atari",
+                    "At Are E",
+                    "Atari Games",
+                    "At Are E Games"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ],
+                    "en-US": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company was formed under its current name on June 27, 1972 by Nolan Bushnell",
+                        "The company sought bankruptcy protection under French law in January 2013",
+                        "Some of the companies most popular games include Pong, Missile Command and Breakout"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Capcom",
+			"Question": {
+                    "en-GB": "What is the name of this video game company?",
+                    "en-US": "What is the name of this video game company?",
+                    "en-AU": "What is the name of this video game company?",
+                    "en-CA": "What is the name of this video game company?",
+                    "en-IN": "What is the name of this video game company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Capcom.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Capcom.png",
+            "Utterances": [
+                    "Capcom",
+                    "Cap Com",
+                    "Capcom Games"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ],
+                    "en-US": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded on May 30th, 1979 in Chuo-ku, Osaka, Japan",
+                        "It is known for creating multi-million-selling franchises such as Mega Man, Street Fighter, Resident Evil, Devil May Cry, Dead Rising and more",
+                        "it has become an international enterprise with subsidiaries in North America, Europe, and East Asia"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Eizo",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Eizo.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Eizo.png",
+            "Utterances": [
+                    "Eizo",
+                    "Eizo Corporation",
+                    "Eye Zo",
+                    "Eye Zo Corporation",
+                    "I Zo",
+                    "I Zo Corporation",
+                    "Ey Zo",
+                    "Ey Zo Corporation",
+                    "E Zo",
+                    "E Zo Corporation"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ],
+                    "en-US": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in March 1969 in Hakui, Ishikawa, Japan",
+                        "It is most known for the manufacturing of high-end computer displays",
+                        "In 1999, They merged with the Nanao Corporation"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Crunchyroll",
+			"Question": {
+                    "en-GB": "What is the name of this video streaming company?",
+                    "en-US": "What is the name of this video streaming company?",
+                    "en-AU": "What is the name of this video streaming company?",
+                    "en-CA": "What is the name of this video streaming company?",
+                    "en-IN": "What is the name of this video streaming company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Crunchyroll.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Crunchyroll.png",
+            "Utterances": [
+                    "Crunchyroll",
+                    "Crunchy Roll",
+                    "Crunchyroll Anime",
+                    "Crunchy Roll Anime",
+                    "Crunchyroll Manga",
+                    "Crunchy Roll Manga"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ],
+                    "en-US": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is a distributor, publisher, licensing company and international online community focused on video streaming East Asian media including anime, manga, drama, music and more",
+                        "They have long-term partnership agreements with Funimation and NBC Universal",
+                        "In February 2017, The site passed one million paid subscribers"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Infiniti",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Infiniti.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Infiniti.png",
+            "Utterances": [
+                    "Infiniti",
+                    "Infiniti Cars",
+                    "Infinity",
+                    "Infinity Cars"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ],
+                    "en-US": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the luxury vehicle division of Japanese automaker Nissan",
+                        "It was founded in 1989 and is headquartered in Wan Chai, Hong Kong",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Tesla",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Tesla.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Tesla.png",
+            "Utterances": [
+                    "Tesla",
+                    "Tesla Motors",
+                    "Testla"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ],
+                    "en-US": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is an American company that specializes in electric automotives, energy storage and solar panel manufacturing",
+                        "The company aims to eventually offer electric cars at prices affordable to the average consumer",
+                        "In January 2018, It was announced that the company would be transformed into an electric brand, with all new vehicles either being hybrid or all electric by 2021"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Lexus",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Lexus.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Lexus.png",
+            "Utterances": [
+                    "Lexus",
+                    "Lexus Motors",
+                    "Lecks Us",
+                    "Leck Suse"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ],
+                    "en-US": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-AU": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-CA": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    ,
+                    "en-IN": [
+                        "This is the luxury vehicle division of Japanese car maker Toyota",
+                        "It was founded in 1989 and is headquartered in Nagoya, Japan",
+                        "It has ranked among the 10 largest Japanese global brands in market value"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Toyota",
+			"Question": {
+                    "en-GB": "What is the name of this vehicle company?",
+                    "en-US": "What is the name of this vehicle company?",
+                    "en-AU": "What is the name of this vehicle company?",
+                    "en-CA": "What is the name of this vehicle company?",
+                    "en-IN": "What is the name of this vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Toyota.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Toyota.png",
+            "Utterances": [
+                    "Toyota",
+                    "Toyota Motors",
+                    "Toy Yoda",
+                    "Toy Yoda Motors"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ],
+                    "en-US": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the world's market leader in sales of hybrid electric vehicles, and one of the largest companies to encourage the mass-market adoption of hybrid vehicles across the globe",
+                        "As of July 2014, it was the largest listed company in Japan by market capitalization and revenue",
+                        "It was founded on August 28th, 1937 in Aichi, Japan"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Costa",
+			"Question": {
+                    "en-GB": "What is the name of this coffee house?",
+                    "en-US": "What is the name of this coffee house?",
+                    "en-AU": "What is the name of this coffee house?",
+                    "en-CA": "What is the name of this coffee house?",
+                    "en-IN": "What is the name of this coffee house?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Costa.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Costa.png",
+            "Utterances": [
+                    "Costa",
+                    "Costa Coffee",
+                    "Coster",
+                    "Coster Coffee",
+                    "Costar",
+                    "Costar Coffee"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ],
+                    "en-US": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the second largest coffeehouse chain in the world behind Starbucks and the largest in the UK",
+                        "it has currently grown to have 3,401 stores across 31 countries",
+                        "It was founded in 1971 in London, UK"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nandos",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nandos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nandos.png",
+            "Utterances": [
+                    "Nandos",
+                    "Nando",
+                    "Nandos Chicken",
+                    "Nando Chicken",
+                    "Nandoes",
+                    "Nandoes Chicken"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ],
+                    "en-US": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company operates about 1,000 outlets in 30 countries",
+                        "The chain specialises in Mozambican-Portuguese style chicken dishes with various peri-peri marinades",
+                        "It was founded in 1987 in Johannesburg, South Africa"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "McDonalds",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/McDoanlds.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/McDonalds.png",
+            "Utterances": [
+                    "McDonalds",
+                    "McDonalds Corporation",
+                    "McDonalds Restaurant",
+                    "Mac Donalds",
+                    "Mac Donalds Restaurant",
+                    "Mac Donalds Corporation"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ],
+                    "en-US": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company operates about 36,900 outlets in over 100 countries",
+                        "It is the world's second largest private employer behind Walmart",
+                        "The first retaurant was opened in San Bernardino, California in 1940"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "KFC",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant?",
+                    "en-US": "What is the name of this restaurant?",
+                    "en-AU": "What is the name of this restaurant?",
+                    "en-CA": "What is the name of this restaurant?",
+                    "en-IN": "What is the name of this restaurant?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/KFC.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/KFC.png",
+            "Utterances": [
+                    "KFC",
+                    "KFC Restaurants",
+                    "KFC Chicken",
+                    "Kay Eff Cee",
+                    "Kay Eff Cee Chicken",
+                    "Kay Eff Cee Restaurants"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ],
+                    "en-US": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-AU": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-CA": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    ,
+                    "en-IN": [
+                        "it is the world's second-largest restaurant chain after McDonald's",
+                        "It currently has 20,000 locations globally in 123 countries and territories",
+                        "It was one of the first American fast food chains to expand internationally, opening outlets in Canada, the United Kingdom, Mexico, and Jamaica by the mid-1960s"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Coke",
+			"Question": {
+                    "en-GB": "What is the name of this famous soft drink?",
+                    "en-US": "What is the name of this famous soft drink?",
+                    "en-AU": "What is the name of this famous soft drink?",
+                    "en-CA": "What is the name of this famous soft drink?",
+                    "en-IN": "What is the name of this famous soft drink?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Coke.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Coke.png",
+            "Utterances": [
+                    "Coke",
+                    "Coca Cola",
+                    "Coke A Cola"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ],
+                    "en-US": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was introduced on May 8th, 1886",
+                        "A study done in 2015 showed that it was the world's third most valuable brand, after Apple and Google",
+                        "The company has on occasion introduced other drinks under the brands name"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Patagonia",
+			"Question": {
+                    "en-GB": "What is the name of this outdoor clothing company?",
+                    "en-US": "What is the name of this outdoor clothing company?",
+                    "en-AU": "What is the name of this outdoor clothing company?",
+                    "en-CA": "What is the name of this outdoor clothing company?",
+                    "en-IN": "What is the name of this outdoor clothing company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Patagonia.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Patagonia.png",
+            "Utterances": [
+                    "Patagonia",
+                    "Patagonia Clothing",
+                    "Patagonia Outdoor",
+                    "Pat Ay Gonia",
+                    "Pat Ay Gonia Clothing",
+                    "Pat Ay Gonia Outdoor",
+                    "Pat Ee Gonia",
+                    "Pat Ee Gonia Clothing",
+                    "Pat Ee Gonia Outdoor"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ],
+                    "en-US": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company heavily markets their products as being sustainable",
+                        "They commit 1% of their total sales or 10% of their profit, whichever is more, to environmental groups",
+                        "It considers itself an activist company"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "YSL",
+			"Question": {
+                    "en-GB": "What is the name of this luxury fashion company?",
+                    "en-US": "What is the name of this luxury fashion company?",
+                    "en-AU": "What is the name of this luxury fashion company?",
+                    "en-CA": "What is the name of this luxury fashion company?",
+                    "en-IN": "What is the name of this luxury fashion company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/YSL.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/YSL.png",
+            "Utterances": [
+                    "YSL",
+                    "Yves Saint Laurent",
+                    "Saint Laurent",
+                    "Yes Saint Laurent",
+                    "Why Es El"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ],
+                    "en-US": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-AU": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-CA": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    ,
+                    "en-IN": [
+                        "it has been considered one of the world's most prominent fashion houses and is known for its modern and iconic pieces, such as its tuxedo jackets for women",
+                        "It was founded in 1961 in Paris, France",
+                        "The company markets a broad range of women's and men's ready-to-wear products, leather goods, shoes, and jewellery"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Lamborghini",
+			"Question": {
+                    "en-GB": "What is the name of this luxury vehicle company?",
+                    "en-US": "What is the name of this luxury vehicle company?",
+                    "en-AU": "What is the name of this luxury vehicle company?",
+                    "en-CA": "What is the name of this luxury vehicle company?",
+                    "en-IN": "What is the name of this luxury vehicle company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Lamborghini.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Lamborghini.png",
+            "Utterances": [
+                    "Lamborghini",
+                    "Lambo",
+                    "Lamb Or Ghini",
+                    "Lumborghini"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ],
+                    "en-US": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-AU": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-CA": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    ,
+                    "en-IN": [
+                        "The company is owned by the Volkswagen Group through its subsidiary Audi",
+                        "They currently produce the V12-powered Aventador and the V10-powered Huracán along with the Urus SUV powered by a twin-turbo V8 engine",
+                        "It was founded in 1963 and is headquartered in Sant'Agata Bolognese, Italy"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Dominos",
+			"Question": {
+                    "en-GB": "What is the name of this restaurant company?",
+                    "en-US": "What is the name of this restaurant company?",
+                    "en-AU": "What is the name of this restaurant company?",
+                    "en-CA": "What is the name of this restaurant company?",
+                    "en-IN": "What is the name of this restaurant company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Dominos.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Dominos.png",
+            "Utterances": [
+                    "Dominos",
+                    "Domino",
+                    "Dominos Pizza",
+                    "Domino Pizza"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ],
+                    "en-US": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In February 2018, the chain became the largest pizza seller worldwide and in the United States based upon global retail sales",
+                        "It was founded on December 9th, 1960 in Ypsilanti, Michigan, US",
+                        "The company currently has 13,811 locations worldwide"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Skullcandy",
+			"Question": {
+                    "en-GB": "What is the name of this audio company?",
+                    "en-US": "What is the name of this audio company?",
+                    "en-AU": "What is the name of this audio company?",
+                    "en-CA": "What is the name of this audio company?",
+                    "en-IN": "What is the name of this audio company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Skullcandy.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Skullcandy.png",
+            "Utterances": [
+                    "Skullcandy",
+                    "Skull Candy",
+                    "Skullcandy Headphones",
+                    "Skull Candy Headphones",
+                    "Skullcandy Audio",
+                    "Skull Candy Audio"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ],
+                    "en-US": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-AU": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-CA": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    ,
+                    "en-IN": [
+                        "They market headphones, earphones, hands free devices, audio backpacks, MP3 players, and other products",
+                        "Their products are targeted at the outdoor action sports demographic and the general consumer market",
+                        "The company was founded by Rick Alden in 2003 and is headquartered in Park City, Utah, US"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Monster",
+			"Question": {
+                    "en-GB": "What is the name of this energy drink?",
+                    "en-US": "What is the name of this energy drink?",
+                    "en-AU": "What is the name of this energy drink?",
+                    "en-CA": "What is the name of this energy drink?",
+                    "en-IN": "What is the name of this energy drink?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Monster.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Monster.png",
+            "Utterances": [
+                    "Monster",
+                    "Monster Energy",
+                    "Monster Energy Drink"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ],
+                    "en-US": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was introduced by Hansen Natural Company in April 2002",
+                        "There are 34 different drinks under the brand in North America",
+                        "They promote a number of music bands around the world, like Fetty Wap, Iggy Azalea, 21 Savage, Asking Alexandria, The Word Alive, Maximum the Hormone and Five Finger Death Punch"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Monster Cable",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/MonsterCable.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/MonsterCable.png",
+            "Utterances": [
+                    "Monster Cable",
+                    "Monster",
+                    "Monster Audio",
+                    "Monster Cables",
+                    "Monster Cable Products"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ],
+                    "en-US": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is best known for its audio and video cables",
+                        "It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012",
+                        "The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "LG",
+			"Question": {
+                    "en-GB": "What is the name of this consumer electronics company?",
+                    "en-US": "What is the name of this consumer electronics company?",
+                    "en-AU": "What is the name of this consumer electronics company?",
+                    "en-CA": "What is the name of this consumer electronics company?",
+                    "en-IN": "What is the name of this consumer electronics company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/LG.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/LG.png",
+            "Utterances": [
+                    "LG",
+                    "LG Electronics",
+                    "El Gee",
+                    "El Gee Electronics",
+                    "Lifes Good",
+                    "Lucky Goldstar"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ],
+                    "en-US": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-AU": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-CA": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    ,
+                    "en-IN": [
+                        "In 2011, it was the world's second-largest television manufacturer",
+                        "It comprises four business units: Home Entertainment, Mobile Communications, Home Appliance & Air Solutions",
+                        "It was founded under its current name in January 1995 and is headquartered in Yeouido-dong, Seoul, South Korea"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Rayban",
+			"Question": {
+                    "en-GB": "What is the name of this eyewear company?",
+                    "en-US": "What is the name of this eyewear company?",
+                    "en-AU": "What is the name of this eyewear company?",
+                    "en-CA": "What is the name of this eyewear company?",
+                    "en-IN": "What is the name of this eyewear company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Rayban.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Rayban.png",
+            "Utterances": [
+                    "Rayban",
+                    "Ray Ban",
+                    "Rayban Sunglasses",
+                    "Ray Ban Sunglasses",
+                    "Rayban by Luxotica",
+                    "Ray Ban by Luxotica",
+                    "RayBan Eyewear",
+                    "Ray Ban Eyewear",
+                    "Rayban Brand",
+                    "Ray Ban Brand"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ],
+                    "en-US": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It was founded in 1937 by the American company Bausch & Lomb",
+                        "Their most popular sunglasses are the Wayfarer, and Aviator models",
+                        "In 1999, Luxottica Group bought the brand for a reported $640 million"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
+            "Name": "Nike",
+			"Question": {
+                    "en-GB": "What is the name of this clothing company?",
+                    "en-US": "What is the name of this clothing company?",
+                    "en-AU": "What is the name of this clothing company?",
+                    "en-CA": "What is the name of this clothing company?",
+                    "en-IN": "What is the name of this clothing company?"
+                    
+            },
+            "logoSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Logos/Nike.png",
+            "logoAnswerSrc": "https://raw.githubusercontent.com/fuzzysb/Logo-Quiz-Logos/master/Answers/Nike.png",
+            "Utterances": [
+                    "Nike",
+                    "Ni Key",
+                    "Nay Key",
+                    "Nike Clothing",
+                    "Ni Key Clothing",
+                    "Nay Key Clothing",
+                    "Nike Shoes",
+                    "Ni Key SHoes",
+                    "Nay Key Shoes"
+            ],
+			"Hints": {
+                    "en-GB": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ],
+                    "en-US": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-AU": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-CA": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    ,
+                    "en-IN": [
+                        "It is the world's largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",
+                        "In 2014 the brand alone was valued at $19 billion, making it the most valuable brand among sports businesses",
+                        "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight"
+                    ]
+                    },
+            "Languages": [
+                "All"
+            ]
+			
+        },
+        {
             "Name": "John Deere",
 			"Question": {
                     "en-GB": "What is the name of this heavy equipment company?",
